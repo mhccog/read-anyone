@@ -1,18 +1,12 @@
-# Read Anyone in 30 Seconds
+# Say it
 
-A habit-forming, mobile-friendly guide to grabbing attention, building genuine rapport, and speaking so the conversation feels easy for the other person.
+A simple word and sentence generator: pick a lean, a vibe, a moment and a teacher, then get a line you can actually say.
 
 **Live site:** [https://mhccog.github.io/read-anyone/](https://mhccog.github.io/read-anyone/)
 
-## What’s in it
+The six needs are listening prompts from Chase Hughes (coach’s view, untested), not labels. Only say what you mean. Use this to make the conversation easier for the other person, never to push people.
 
-- **Identify** — a 30-second listening flow with a reveal (pace, focus, and the lean)
-- **Say it** — tap a lean and a feeling, get lines and a delivery tip (363-phrase bank, saved lines stay on this device)
-- **Practice** — scenario cards with a score, combo, XP, levels and streaks (saved in `localStorage`)
-- **Today** — a daily type, a short drill, and a real-world mission
-- **Playbook** — principles, cheat sheet, everyday examples, a four-week habit plan, myths and sources
-
-The six needs are listening prompts from Chase Hughes (coach’s view, untested), not labels. Warmth and competence, follow-up questions and first impressions rest on published research, cited in the Playbook. Use all of it to make conversations easier for them, never to push people.
+The earlier full guide (Identify, Practice, Today, Playbook) is preserved on the `v1-full-guide` tag: [browse it](https://github.com/mhccog/read-anyone/tree/v1-full-guide).
 
 ## Add it to your phone
 

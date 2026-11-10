@@ -1,7 +1,7 @@
 {
-  "name": "Read Anyone in 30 Seconds",
-  "short_name": "Read Anyone",
-  "description": "A habit-forming guide to grabbing attention, building genuine rapport, and speaking so the conversation feels easy for the other person.",
+  "name": "Say it",
+  "short_name": "Say it",
+  "description": "A simple line generator: pick a lean, a vibe and a moment, and get something you can actually say.",
   "id": "/read-anyone/",
   "start_url": "./",
   "scope": "./",
