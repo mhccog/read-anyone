@@ -4344,5 +4344,3685 @@
   "replaces": [
    "p180"
   ]
+ },
+ {
+  "id": "p364",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "BOM p91",
+   "BOM p448"
+  ],
+  "text": "Hang on, that's brilliant. What happened next?",
+  "technique": "Small-talk loop",
+  "why": "Hughes's loop: listen, show it on your face, react briefly, ask one small question. Follow-up questions raise liking (Huang et al., 2017).",
+  "delivery": "React with your face first, then ask. Keep the question short.",
+  "basis": "book"
+ },
+ {
+  "id": "p365",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "BOM p91",
+   "BOM p448"
+  ],
+  "text": "Oh, really? How did that come about?",
+  "technique": "Small-talk loop",
+  "why": "Hughes's loop: listen, show it on your face, react briefly, ask one small question. Follow-up questions raise liking (Huang et al., 2017).",
+  "delivery": "React with your face first, then ask. Keep the question short.",
+  "basis": "book"
+ },
+ {
+  "id": "p366",
+  "need": "any",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "BOM p91",
+   "BOM p448"
+  ],
+  "text": "Something similar happened to me once. But first, how did yours turn out?",
+  "technique": "Small-talk loop",
+  "why": "Hughes's loop: listen, show it on your face, react briefly, ask one small question. Follow-up questions raise liking (Huang et al., 2017).",
+  "delivery": "React with your face first, then ask. Keep the question short.",
+  "basis": "book"
+ },
+ {
+  "id": "p367",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "BOM p91"
+  ],
+  "text": "I could listen to you talk about this all day. What's the best part?",
+  "technique": "Make them feel interesting",
+  "why": "Hughes's aim for small talk: they leave feeling interesting, not impressed by you.",
+  "basis": "book"
+ },
+ {
+  "id": "p368",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "opener",
+  "sources": [
+   "BOM p91"
+  ],
+  "text": "I have a feeling you've got a good story or two. What's been keeping you busy?",
+  "technique": "Make them feel interesting",
+  "why": "Hughes's aim for small talk: they leave feeling interesting, not impressed by you.",
+  "basis": "book"
+ },
+ {
+  "id": "p369",
+  "need": "significance",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "BOM p91"
+  ],
+  "text": "That was genuinely fascinating. Thanks for telling me about it.",
+  "technique": "Make them feel interesting",
+  "why": "Hughes's aim for small talk: they leave feeling interesting, not impressed by you.",
+  "basis": "book"
+ },
+ {
+  "id": "p370",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "BOM p92",
+   "BOM p449"
+  ],
+  "text": "We've known each other ages and I've just realised I don't know this. What got you into it?",
+  "technique": "Learn one new thing",
+  "why": "Hughes: aim to learn one new thing in every conversation, even with people you know well. Curiosity shows.",
+  "basis": "book"
+ },
+ {
+  "id": "p371",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "BOM p92",
+   "BOM p449"
+  ],
+  "text": "I've learned something today, thank you. Where did you pick that up?",
+  "technique": "Learn one new thing",
+  "why": "Hughes: aim to learn one new thing in every conversation, even with people you know well. Curiosity shows.",
+  "basis": "book"
+ },
+ {
+  "id": "p372",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "opener",
+  "sources": [
+   "BOM p92",
+   "BOM p448"
+  ],
+  "text": "Sam, isn't it? Good to see you again.",
+  "technique": "Remember names and stories",
+  "why": "Hughes: remembering is about motivation, not memory. Using a name or detail shows they registered with you.",
+  "ctx": "Use their real name. Only if you're sure of it.",
+  "basis": "book"
+ },
+ {
+  "id": "p373",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "close",
+  "sources": [
+   "BOM p92",
+   "BOM p448"
+  ],
+  "text": "Lovely to meet you, Priya. I'll remember the sailing story.",
+  "technique": "Remember names and stories",
+  "why": "Hughes: remembering is about motivation, not memory. Using a name or detail shows they registered with you.",
+  "ctx": "Fill in their name and a detail they shared.",
+  "basis": "book"
+ },
+ {
+  "id": "p374",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "opener",
+  "sources": [
+   "BOM p96"
+  ],
+  "text": "How did you get started in this line of work?",
+  "technique": "Opening one-liner",
+  "why": "Hughes's starter questions invite opinion or origin stories, which people enjoy answering.",
+  "basis": "book"
+ },
+ {
+  "id": "p375",
+  "need": "intelligence",
+  "feeling": "respected",
+  "situation": "opener",
+  "sources": [
+   "BOM p96"
+  ],
+  "text": "What's your take on all this?",
+  "technique": "Opening one-liner",
+  "why": "Hughes's starter questions invite opinion or origin stories, which people enjoy answering.",
+  "basis": "book"
+ },
+ {
+  "id": "p376",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "BOM p96"
+  ],
+  "text": "What did you make of the talk?",
+  "technique": "Opening one-liner",
+  "why": "Hughes's starter questions invite opinion or origin stories, which people enjoy answering.",
+  "basis": "book"
+ },
+ {
+  "id": "p377",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "BOM p96"
+  ],
+  "text": "Have you got family nearby?",
+  "technique": "FORK topics",
+  "why": "Hughes's safe topic map: Family, Occupation, Recreation, Knowledge. Pick one and follow it.",
+  "basis": "book"
+ },
+ {
+  "id": "p378",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "BOM p96"
+  ],
+  "text": "What do you do when you're not working?",
+  "technique": "FORK topics",
+  "why": "Hughes's safe topic map: Family, Occupation, Recreation, Knowledge. Pick one and follow it.",
+  "basis": "book"
+ },
+ {
+  "id": "p379",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "BOM p96"
+  ],
+  "text": "What's something you know loads about that most people don't?",
+  "technique": "FORK topics",
+  "why": "Hughes's safe topic map: Family, Occupation, Recreation, Knowledge. Pick one and follow it.",
+  "basis": "book"
+ },
+ {
+  "id": "p380",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "BOM p96",
+   "BOM p450"
+  ],
+  "text": "Not bad. Busy week, a new puppy and far too little sleep. How about you?",
+  "technique": "Four threads",
+  "why": "Hughes: answer a simple question with a few hooks, so the other person can pick whichever interests them.",
+  "delivery": "Say it lightly, then hand it back with a question.",
+  "ctx": "Swap in your own true details.",
+  "basis": "book"
+ },
+ {
+  "id": "p381",
+  "need": "any",
+  "feeling": "included",
+  "situation": "opener",
+  "sources": [
+   "BOM p96",
+   "BOM p450"
+  ],
+  "text": "I'm in insurance, I've just got back from Lisbon, and I'm learning the guitar, badly. What about you?",
+  "technique": "Four threads",
+  "why": "Hughes: answer a simple question with a few hooks, so the other person can pick whichever interests them.",
+  "delivery": "Say it lightly, then hand it back with a question.",
+  "ctx": "Swap in your own true details.",
+  "basis": "book"
+ },
+ {
+  "id": "p382",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "BOM p451"
+  ],
+  "text": "Have you met Tom? You both run. Tom, tell her about the half-marathon.",
+  "technique": "Introduce people",
+  "why": "Hughes's 'barkeep' habit: meet people, then connect them to each other. Being the connector makes everyone feel included.",
+  "ctx": "Use real names and a real shared interest.",
+  "basis": "book"
+ },
+ {
+  "id": "p383",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "opener",
+  "sources": [
+   "BOM p451"
+  ],
+  "text": "Mind if I join you? I don't know a soul here.",
+  "technique": "Introduce people",
+  "why": "Hughes's 'barkeep' habit: meet people, then connect them to each other. Being the connector makes everyone feel included.",
+  "basis": "book"
+ },
+ {
+  "id": "p384",
+  "need": "approval",
+  "feeling": "appreciated",
+  "situation": "rapport",
+  "sources": [
+   "BOM p131"
+  ],
+  "text": "That was a really thoughtful way to handle it.",
+  "technique": "Sincere compliment",
+  "why": "Hughes: compliment freely but never suck up. Specific beats general.",
+  "basis": "book"
+ },
+ {
+  "id": "p385",
+  "need": "approval",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "BOM p131"
+  ],
+  "text": "I like how you think. I'm glad we got talking.",
+  "technique": "Sincere compliment",
+  "why": "Hughes: compliment freely but never suck up. Specific beats general.",
+  "basis": "book"
+ },
+ {
+  "id": "p386",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "BOM p132"
+  ],
+  "text": "I'll be honest, I'm hopeless at events like this. How are you finding it?",
+  "technique": "Share an insecurity",
+  "why": "Hughes: people like imperfect people. A small, true admission invites the same back.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p387",
+  "need": "acceptance",
+  "feeling": "trusted",
+  "situation": "rapport",
+  "sources": [
+   "BOM p132"
+  ],
+  "text": "I worry about that too, if I'm honest.",
+  "technique": "Share an insecurity",
+  "why": "Hughes: people like imperfect people. A small, true admission invites the same back.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p388",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "BOM p348",
+   "C24"
+  ],
+  "text": "Sounds like it's been a long week.",
+  "technique": "Sincere reaction",
+  "why": "The honest core of Hughes's 'provocative statement': say what their day probably felt like. Use it only to show you understand, never to fish.",
+  "delivery": "Soft voice, slow nod. Then stop and let them talk.",
+  "basis": "book"
+ },
+ {
+  "id": "p389",
+  "need": "pity",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "BOM p348",
+   "C24"
+  ],
+  "text": "That must have been exhausting.",
+  "technique": "Sincere reaction",
+  "why": "The honest core of Hughes's 'provocative statement': say what their day probably felt like. Use it only to show you understand, never to fish.",
+  "delivery": "Soft voice, slow nod. Then stop and let them talk.",
+  "basis": "book"
+ },
+ {
+  "id": "p390",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "BOM p348",
+   "C24"
+  ],
+  "text": "That sounds like it's been really frustrating for you.",
+  "technique": "Sincere reaction",
+  "why": "The honest core of Hughes's 'provocative statement': say what their day probably felt like. Use it only to show you understand, never to fish.",
+  "delivery": "Soft voice, slow nod. Then stop and let them talk.",
+  "basis": "book"
+ },
+ {
+  "id": "p391",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "BOM p354"
+  ],
+  "text": "Completely out of the blue?",
+  "technique": "Verbal mirror",
+  "why": "Hughes (from FBI practice): repeat their last few words as a question. It shows you're listening and invites more.",
+  "delivery": "Repeat their own words with a gentle upward tone, then wait.",
+  "ctx": "Repeat their own last few words.",
+  "basis": "book"
+ },
+ {
+  "id": "p392",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "BOM p354"
+  ],
+  "text": "Not listened to?",
+  "technique": "Verbal mirror",
+  "why": "Hughes (from FBI practice): repeat their last few words as a question. It shows you're listening and invites more.",
+  "delivery": "Repeat their own words with a gentle upward tone, then wait.",
+  "ctx": "Repeat their own last few words.",
+  "basis": "book"
+ },
+ {
+  "id": "p393",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "BOM p354"
+  ],
+  "text": "So the deadline's the real problem?",
+  "technique": "Verbal mirror",
+  "why": "Hughes (from FBI practice): repeat their last few words as a question. It shows you're listening and invites more.",
+  "delivery": "Repeat their own words with a gentle upward tone, then wait.",
+  "basis": "book"
+ },
+ {
+  "id": "p394",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "rapport",
+  "sources": [
+   "BOM p350"
+  ],
+  "text": "I'll go first: my week's been a bit of a mess. How's yours been?",
+  "technique": "Go first",
+  "why": "The sincere version of Hughes's 'informational altruism': share something true about yourself first so it's easier for them.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p395",
+  "need": "acceptance",
+  "feeling": "trusted",
+  "situation": "rapport",
+  "sources": [
+   "BOM p350"
+  ],
+  "text": "I found my first year here really hard. Was it like that for you?",
+  "technique": "Go first",
+  "why": "The sincere version of Hughes's 'informational altruism': share something true about yourself first so it's easier for them.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p396",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "BOM p356"
+  ],
+  "text": "I know nothing about this. Could you give me the two-minute version?",
+  "technique": "Sincere 'teach me'",
+  "why": "Genuine interest in their expertise. Hughes uses feigned ignorance too; we don't. Only ask when you really don't know.",
+  "basis": "book"
+ },
+ {
+  "id": "p397",
+  "need": "intelligence",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "BOM p356"
+  ],
+  "text": "I might be missing something. Can you walk me through how you see it?",
+  "technique": "Sincere 'teach me'",
+  "why": "Genuine interest in their expertise. Hughes uses feigned ignorance too; we don't. Only ask when you really don't know.",
+  "basis": "book"
+ },
+ {
+  "id": "p398",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "BOM p366",
+   "C24",
+   "NM"
+  ],
+  "text": "That took real work. People don't always see that.",
+  "technique": "Answer the quiet need",
+  "why": "Hughes's needs map as a listening prompt: hear what they quietly need (to matter, be approved, belong, be clever, be understood, be in charge) and answer it honestly.",
+  "basis": "book"
+ },
+ {
+  "id": "p399",
+  "need": "approval",
+  "feeling": "appreciated",
+  "situation": "rapport",
+  "sources": [
+   "BOM p366",
+   "C24",
+   "NM"
+  ],
+  "text": "You handled that well.",
+  "technique": "Answer the quiet need",
+  "why": "Hughes's needs map as a listening prompt: hear what they quietly need (to matter, be approved, belong, be clever, be understood, be in charge) and answer it honestly.",
+  "basis": "book"
+ },
+ {
+  "id": "p400",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "close",
+  "sources": [
+   "BOM p366",
+   "C24",
+   "NM"
+  ],
+  "text": "You'd fit right in with this lot. Come along next time.",
+  "technique": "Answer the quiet need",
+  "why": "Hughes's needs map as a listening prompt: hear what they quietly need (to matter, be approved, belong, be clever, be understood, be in charge) and answer it honestly.",
+  "basis": "book"
+ },
+ {
+  "id": "p401",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "disagree",
+  "sources": [
+   "BOM p366",
+   "C24",
+   "NM"
+  ],
+  "text": "That's a good point, and I hadn't thought of it.",
+  "technique": "Answer the quiet need",
+  "why": "Hughes's needs map as a listening prompt: hear what they quietly need (to matter, be approved, belong, be clever, be understood, be in charge) and answer it honestly.",
+  "basis": "book"
+ },
+ {
+  "id": "p402",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "close",
+  "sources": [
+   "BOM p366",
+   "C24",
+   "NM"
+  ],
+  "text": "You've had a lot on. Look after yourself this week.",
+  "technique": "Answer the quiet need",
+  "why": "Hughes's needs map as a listening prompt: hear what they quietly need (to matter, be approved, belong, be clever, be understood, be in charge) and answer it honestly.",
+  "basis": "book"
+ },
+ {
+  "id": "p403",
+  "need": "power",
+  "feeling": "control",
+  "situation": "disagree",
+  "sources": [
+   "BOM p366",
+   "C24",
+   "NM"
+  ],
+  "text": "It's your call. What would you like to do?",
+  "technique": "Answer the quiet need",
+  "why": "Hughes's needs map as a listening prompt: hear what they quietly need (to matter, be approved, belong, be clever, be understood, be in charge) and answer it honestly.",
+  "basis": "book"
+ },
+ {
+  "id": "p404",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "BOM p383",
+   "BOM p386"
+  ],
+  "text": "And once that's sorted, what will it let you finally do?",
+  "technique": "'So I can finally…'",
+  "why": "Hughes's values map: listen for what someone wants to finally be free to do, and ask about it. It reaches what really matters to them.",
+  "basis": "book"
+ },
+ {
+  "id": "p405",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "BOM p383",
+   "BOM p386"
+  ],
+  "text": "What's the bit of this that really matters to you?",
+  "technique": "'So I can finally…'",
+  "why": "Hughes's values map: listen for what someone wants to finally be free to do, and ask about it. It reaches what really matters to them.",
+  "basis": "book"
+ },
+ {
+  "id": "p406",
+  "need": "power",
+  "feeling": "control",
+  "situation": "close",
+  "sources": [
+   "BOM p378"
+  ],
+  "text": "Here's the practical side, then it's your decision.",
+  "technique": "Speak to how they decide",
+  "why": "Hughes's decision map, used honestly: give the reason that fits how they decide (practical, return, new, what others do). Never to pressure.",
+  "basis": "book"
+ },
+ {
+  "id": "p407",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "close",
+  "sources": [
+   "BOM p378"
+  ],
+  "text": "No rush. Have a look at the numbers and let me know what you think.",
+  "technique": "Speak to how they decide",
+  "why": "Hughes's decision map, used honestly: give the reason that fits how they decide (practical, return, new, what others do). Never to pressure.",
+  "basis": "book"
+ },
+ {
+  "id": "p408",
+  "need": "acceptance",
+  "feeling": "reassured",
+  "situation": "close",
+  "sources": [
+   "BOM p378"
+  ],
+  "text": "For what it's worth, it's worked well for plenty of people in your position.",
+  "technique": "Speak to how they decide",
+  "why": "Hughes's decision map, used honestly: give the reason that fits how they decide (practical, return, new, what others do). Never to pressure.",
+  "ctx": "Only if that is true.",
+  "basis": "book"
+ },
+ {
+  "id": "p409",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "BOM p393",
+   "BOM p398"
+  ],
+  "text": "How's the team finding it?",
+  "technique": "Use their words",
+  "why": "Hughes: notice their words and whether they say 'I' or 'we', then speak in their terms. Kept sincere: no steering.",
+  "ctx": "When they keep saying 'we'.",
+  "basis": "book"
+ },
+ {
+  "id": "p410",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "BOM p393",
+   "BOM p398"
+  ],
+  "text": "When you say it feels heavy, what's the heaviest part?",
+  "technique": "Use their words",
+  "why": "Hughes: notice their words and whether they say 'I' or 'we', then speak in their terms. Kept sincere: no steering.",
+  "ctx": "Use the word they used.",
+  "basis": "book"
+ },
+ {
+  "id": "p411",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "C26"
+  ],
+  "text": "I can tell this really matters to you. I'm listening.",
+  "technique": "Heard and seen",
+  "why": "Hughes (DOAC 2026): the core people skill is making someone feel heard and seen, without judging.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p412",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "C26"
+  ],
+  "text": "That makes complete sense, given everything you've dealt with.",
+  "technique": "Heard and seen",
+  "why": "Hughes (DOAC 2026): the core people skill is making someone feel heard and seen, without judging.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p413",
+  "need": "pity",
+  "feeling": "heard",
+  "situation": "close",
+  "sources": [
+   "C26"
+  ],
+  "text": "Thanks for telling me. I'm glad you did.",
+  "technique": "Heard and seen",
+  "why": "Hughes (DOAC 2026): the core people skill is making someone feel heard and seen, without judging.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p414",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "C26"
+  ],
+  "text": "I can see why you'd see it that way. Can I tell you where I'm coming from?",
+  "technique": "Resonate before you redirect",
+  "why": "Hughes (DOAC 2026): get into their river first. Acknowledge their view before offering yours.",
+  "delivery": "Agree with what you honestly can, pause, then give your view.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p415",
+  "need": "intelligence",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "C26"
+  ],
+  "text": "You've got a fair point there. Here's the bit I'm still stuck on.",
+  "technique": "Resonate before you redirect",
+  "why": "Hughes (DOAC 2026): get into their river first. Acknowledge their view before offering yours.",
+  "delivery": "Agree with what you honestly can, pause, then give your view.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p416",
+  "need": "power",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "C26"
+  ],
+  "text": "Before I say anything, I want to make sure I've got your side right.",
+  "technique": "Resonate before you redirect",
+  "why": "Hughes (DOAC 2026): get into their river first. Acknowledge their view before offering yours.",
+  "delivery": "Agree with what you honestly can, pause, then give your view.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p417",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "BOM p297",
+   "BOM p300"
+  ],
+  "text": "I don't think you're being difficult. Something about this is clearly weighing on you.",
+  "technique": "People have reasons",
+  "why": "Hughes's laws of behaviour: everyone is carrying something. Seeing behaviour as having reasons, not as 'difficult', lowers the heat.",
+  "basis": "book"
+ },
+ {
+  "id": "p418",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "BOM p297",
+   "BOM p300"
+  ],
+  "text": "I'm sure you had your reasons. Can you tell me what they were?",
+  "technique": "People have reasons",
+  "why": "Hughes's laws of behaviour: everyone is carrying something. Seeing behaviour as having reasons, not as 'difficult', lowers the heat.",
+  "basis": "book"
+ },
+ {
+  "id": "p419",
+  "need": "power",
+  "feeling": "control",
+  "situation": "disagree",
+  "sources": [
+   "BOM p51"
+  ],
+  "text": "Let's both take a breath and come back to it tomorrow.",
+  "technique": "Golden bridge",
+  "why": "Hughes: leave the other person a graceful way back. People climb down more easily when they can keep face.",
+  "basis": "book"
+ },
+ {
+  "id": "p420",
+  "need": "power",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "BOM p51"
+  ],
+  "text": "To be fair, none of us had the full picture at the time.",
+  "technique": "Golden bridge",
+  "why": "Hughes: leave the other person a graceful way back. People climb down more easily when they can keep face.",
+  "basis": "book"
+ },
+ {
+  "id": "p421",
+  "need": "approval",
+  "feeling": "reconciled",
+  "situation": "close",
+  "sources": [
+   "BOM p51"
+  ],
+  "text": "No harm done. We're good.",
+  "technique": "Golden bridge",
+  "why": "Hughes: leave the other person a graceful way back. People climb down more easily when they can keep face.",
+  "basis": "book"
+ },
+ {
+  "id": "p422",
+  "need": "power",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "BOM p454"
+  ],
+  "text": "One sec, James. Let me finish this thought, then I'm all yours.",
+  "technique": "Hold the floor kindly",
+  "why": "Hughes: handle interruptions calmly, using their name, and promise to hear them next.",
+  "delivery": "Calm, low voice. A small raised hand helps.",
+  "ctx": "Use their name.",
+  "basis": "book"
+ },
+ {
+  "id": "p423",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "BOM p454"
+  ],
+  "text": "Hold that thought, I want to hear it. Let me finish this bit first.",
+  "technique": "Hold the floor kindly",
+  "why": "Hughes: handle interruptions calmly, using their name, and promise to hear them next.",
+  "delivery": "Calm, low voice. A small raised hand helps.",
+  "basis": "book"
+ },
+ {
+  "id": "p424",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "close",
+  "sources": [
+   "BOM p453",
+   "BOM p462"
+  ],
+  "text": "I'll send it over by Friday.",
+  "technique": "Speak plainly",
+  "why": "Hughes: hedges like 'just', 'honestly' and 'I'll try' leak doubt. Plain words sound trustworthy.",
+  "delivery": "Steady pace, end on a falling tone.",
+  "basis": "book"
+ },
+ {
+  "id": "p425",
+  "need": "power",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "BOM p453",
+   "BOM p462"
+  ],
+  "text": "I don't agree, and here's why.",
+  "technique": "Speak plainly",
+  "why": "Hughes: hedges like 'just', 'honestly' and 'I'll try' leak doubt. Plain words sound trustworthy.",
+  "delivery": "Steady pace, end on a falling tone.",
+  "basis": "book"
+ },
+ {
+  "id": "p426",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "disagree",
+  "sources": [
+   "BOM p453",
+   "BOM p462"
+  ],
+  "text": "I got that wrong. Here's what I'll do about it.",
+  "technique": "Speak plainly",
+  "why": "Hughes: hedges like 'just', 'honestly' and 'I'll try' leak doubt. Plain words sound trustworthy.",
+  "delivery": "Steady pace, end on a falling tone.",
+  "basis": "book"
+ },
+ {
+  "id": "p427",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "BOM p538"
+  ],
+  "text": "I had the same worry at first. Which part bothers you most?",
+  "technique": "Honest objection handling",
+  "why": "Hughes's objection steps, kept honest: sympathise, normalise if true, find the real worry, show the facts, check it helped.",
+  "basis": "book"
+ },
+ {
+  "id": "p428",
+  "need": "acceptance",
+  "feeling": "reassured",
+  "situation": "disagree",
+  "sources": [
+   "BOM p538"
+  ],
+  "text": "You're not the first to ask that, and it's a fair question.",
+  "technique": "Honest objection handling",
+  "why": "Hughes's objection steps, kept honest: sympathise, normalise if true, find the real worry, show the facts, check it helped.",
+  "basis": "book"
+ },
+ {
+  "id": "p429",
+  "need": "any",
+  "feeling": "reassured",
+  "situation": "close",
+  "sources": [
+   "BOM p538"
+  ],
+  "text": "Does that help, or is something still nagging at you?",
+  "technique": "Honest objection handling",
+  "why": "Hughes's objection steps, kept honest: sympathise, normalise if true, find the real worry, show the facts, check it helped.",
+  "basis": "book"
+ },
+ {
+  "id": "p430",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "BOM p887",
+   "BOM p889"
+  ],
+  "text": "Fair question, Sarah. Yes, I did, and here's why.",
+  "technique": "Names and the real question",
+  "why": "Hughes: use people's names, and answer both the question and what it implies, calmly.",
+  "ctx": "Use their name.",
+  "basis": "book"
+ },
+ {
+  "id": "p431",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "close",
+  "sources": [
+   "BOM p887",
+   "BOM p889"
+  ],
+  "text": "Thanks, Mark. That really helped.",
+  "technique": "Names and the real question",
+  "why": "Hughes: use people's names, and answer both the question and what it implies, calmly.",
+  "ctx": "Use their name.",
+  "basis": "book"
+ },
+ {
+  "id": "p432",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "BOM p148",
+   "BOM p152"
+  ],
+  "text": "Thank you for making time for this. I know your diary's packed.",
+  "technique": "Gratitude and enjoyment",
+  "why": "Hughes lists gratitude and visible enjoyment as authority traits: people are drawn to someone who's glad to be there.",
+  "basis": "book"
+ },
+ {
+  "id": "p433",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "rapport",
+  "sources": [
+   "BOM p148",
+   "BOM p152"
+  ],
+  "text": "I'm really enjoying this, by the way.",
+  "technique": "Gratitude and enjoyment",
+  "why": "Hughes lists gratitude and visible enjoyment as authority traits: people are drawn to someone who's glad to be there.",
+  "basis": "book"
+ },
+ {
+  "id": "p434",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "opener",
+  "sources": [
+   "BOM p148",
+   "BOM p152"
+  ],
+  "text": "Thanks for coming. It's good to see you.",
+  "technique": "Gratitude and enjoyment",
+  "why": "Hughes lists gratitude and visible enjoyment as authority traits: people are drawn to someone who's glad to be there.",
+  "basis": "book"
+ },
+ {
+  "id": "p435",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Working on anything exciting these days?",
+  "technique": "Power question: something exciting",
+  "why": "Van Edwards's first power question. 'Exciting' invites a happy answer instead of a job title.",
+  "basis": "book"
+ },
+ {
+  "id": "p436",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Anything exciting going on at work at the moment?",
+  "technique": "Power question: something exciting",
+  "why": "Van Edwards's first power question. 'Exciting' invites a happy answer instead of a job title.",
+  "basis": "book"
+ },
+ {
+  "id": "p437",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Got any fun plans coming up?",
+  "technique": "Power question: fun plans",
+  "why": "Power question #2. Asking about something to look forward to puts people in a good mood.",
+  "basis": "book"
+ },
+ {
+  "id": "p438",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Anything fun planned for the weekend?",
+  "technique": "Power question: fun plans",
+  "why": "Power question #2. Asking about something to look forward to puts people in a good mood.",
+  "basis": "book"
+ },
+ {
+  "id": "p439",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's your personal passion project at the moment?",
+  "technique": "Power question: passion project",
+  "why": "Power question #3. Pet projects reveal what people care about.",
+  "basis": "book"
+ },
+ {
+  "id": "p440",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Is there a side project you love working on?",
+  "technique": "Power question: passion project",
+  "why": "Power question #3. Pet projects reveal what people care about.",
+  "basis": "book"
+ },
+ {
+  "id": "p441",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What's your biggest goal right now?",
+  "technique": "Power question: biggest goal",
+  "why": "Power question #4 opens Level 2: goals and what drives someone.",
+  "basis": "book"
+ },
+ {
+  "id": "p442",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What are you working towards this year?",
+  "technique": "Power question: biggest goal",
+  "why": "Power question #4 opens Level 2: goals and what drives someone.",
+  "basis": "book"
+ },
+ {
+  "id": "p443",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What have you always wanted to learn?",
+  "technique": "Power question: always wanted to learn",
+  "why": "Power question #5. Talking about learning makes both of you sound curious and bright.",
+  "basis": "book"
+ },
+ {
+  "id": "p444",
+  "need": "intelligence",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What's your current YouTube rabbit hole?",
+  "technique": "Power question: always wanted to learn",
+  "why": "Power question #5. Talking about learning makes both of you sound curious and bright.",
+  "basis": "book"
+ },
+ {
+  "id": "p445",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What do you love to talk about?",
+  "technique": "Signature question",
+  "why": "Power question #6, and her nudge to build your own signature question.",
+  "basis": "book"
+ },
+ {
+  "id": "p446",
+  "need": "any",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What could you talk about for hours?",
+  "technique": "Signature question",
+  "why": "Power question #6, and her nudge to build your own signature question.",
+  "basis": "book"
+ },
+ {
+  "id": "p447",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "Which film or TV character are you most like, and why?",
+  "technique": "Character question",
+  "why": "Power question #7: a playful back door into how someone sees their own story.",
+  "basis": "book"
+ },
+ {
+  "id": "p448",
+  "need": "acceptance",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "If your life were a book, which character would you be?",
+  "technique": "Character question",
+  "why": "Power question #7: a playful back door into how someone sees their own story.",
+  "basis": "book"
+ },
+ {
+  "id": "p449",
+  "need": "acceptance",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "How do you feel most misunderstood?",
+  "technique": "Most misunderstood",
+  "why": "Power question #8. Deep, so save it for someone who trusts you.",
+  "ctx": "Only with someone you know well.",
+  "basis": "book"
+ },
+ {
+  "id": "p450",
+  "need": "acceptance",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "What do people most often get wrong about you?",
+  "technique": "Most misunderstood",
+  "why": "Power question #8. Deep, so save it for someone who trusts you.",
+  "ctx": "Only with someone you know well.",
+  "basis": "book"
+ },
+ {
+  "id": "p451",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "What would you do if you weren't afraid?",
+  "technique": "If you weren't afraid",
+  "why": "Power question #9: surfaces hidden dreams. Listen more than you advise.",
+  "basis": "book"
+ },
+ {
+  "id": "p452",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "If you knew it would work out, what would you go for?",
+  "technique": "If you weren't afraid",
+  "why": "Power question #9: surfaces hidden dreams. Listen more than you advise.",
+  "basis": "book"
+ },
+ {
+  "id": "p453",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What do you like to do when you're not working?",
+  "technique": "Treasure hunt",
+  "why": "Van Edwards: treat small talk as a hunt for what lights someone up. 'What do you like to do?' beats 'What do you do?'",
+  "basis": "book"
+ },
+ {
+  "id": "p454",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's usually the best part of your week?",
+  "technique": "Treasure hunt",
+  "why": "Van Edwards: treat small talk as a hunt for what lights someone up. 'What do you like to do?' beats 'What do you do?'",
+  "basis": "book"
+ },
+ {
+  "id": "p455",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Do anything fun at the weekend?",
+  "technique": "Stories, not facts",
+  "why": "Facts are dead ends; stories are doorways. Positive-memory prompts get better answers.",
+  "basis": "book"
+ },
+ {
+  "id": "p456",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's the story behind that?",
+  "technique": "Stories, not facts",
+  "why": "Facts are dead ends; stories are doorways. Positive-memory prompts get better answers.",
+  "basis": "book"
+ },
+ {
+  "id": "p457",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I was just thinking about you. Anything new and exciting?",
+  "technique": "'I was just thinking of you'",
+  "why": "Magic phrase #1. Everyone likes being remembered. When someone crosses your mind, tell them.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p458",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Saw this and thought of you straight away.",
+  "technique": "'I was just thinking of you'",
+  "why": "Magic phrase #1. Everyone likes being remembered. When someone crosses your mind, tell them.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p459",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Tell me more?",
+  "technique": "'Tell me more?'",
+  "why": "Magic phrase #2. Follow-up prompts raise liking (Huang et al., 2017).",
+  "delivery": "Lean in a little and leave a real pause after.",
+  "basis": "book"
+ },
+ {
+  "id": "p460",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Tell me more about that. I want to understand.",
+  "technique": "'Tell me more?'",
+  "why": "Magic phrase #2. Follow-up prompts raise liking (Huang et al., 2017).",
+  "delivery": "Lean in a little and leave a real pause after.",
+  "basis": "book"
+ },
+ {
+  "id": "p461",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Last time we spoke you'd just started the new job. How's it going?",
+  "technique": "'Last time you mentioned…'",
+  "why": "Magic phrase #3: listen to remember, then call it back. It proves they mattered.",
+  "ctx": "Use a detail they really told you.",
+  "basis": "book"
+ },
+ {
+  "id": "p462",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "You said earlier your mum's been unwell. How is she doing?",
+  "technique": "'Last time you mentioned…'",
+  "why": "Magic phrase #3: listen to remember, then call it back. It proves they mattered.",
+  "ctx": "Use a detail they really told you.",
+  "basis": "book"
+ },
+ {
+  "id": "p463",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Same here! I thought I was the only one.",
+  "technique": "'Same here!'",
+  "why": "Magic phrase #4: spot shared facts and feelings and say so. Similarity draws people together.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p464",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "No way, me too. How did you get into it?",
+  "technique": "'Same here!'",
+  "why": "Magic phrase #4: spot shared facts and feelings and say so. Similarity draws people together.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p465",
+  "need": "approval",
+  "feeling": "appreciated",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "You're so good at explaining things.",
+  "technique": "'You're so…!'",
+  "why": "Magic phrase #5: be easily impressed, and say it out loud.",
+  "basis": "book"
+ },
+ {
+  "id": "p466",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Honestly, you're so calm about it. I'd be a wreck.",
+  "technique": "'You're so…!'",
+  "why": "Magic phrase #5: be easily impressed, and say it out loud.",
+  "basis": "book"
+ },
+ {
+  "id": "p467",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Wonderful to see you. I've been looking forward to this.",
+  "technique": "Priming words",
+  "why": "Van Edwards: your first words shape how people treat you. Warm words like 'partner' and 'together' prime trust.",
+  "basis": "book"
+ },
+ {
+  "id": "p468",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Can we work on this together?",
+  "technique": "Priming words",
+  "why": "Van Edwards: your first words shape how people treat you. Warm words like 'partner' and 'together' prime trust.",
+  "basis": "book"
+ },
+ {
+  "id": "p469",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's been the highlight of your day so far?",
+  "technique": "Break the script",
+  "why": "Autopilot questions get autopilot answers. A slightly unexpected question wakes the conversation up.",
+  "basis": "book"
+ },
+ {
+  "id": "p470",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's the best thing that's happened to you this week?",
+  "technique": "Break the script",
+  "why": "Autopilot questions get autopilot answers. A slightly unexpected question wakes the conversation up.",
+  "basis": "book"
+ },
+ {
+  "id": "p471",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "We both want this to go well, so let's work it out together.",
+  "technique": "Shared mission",
+  "why": "For high-stakes talks: appreciate them, make it safe, and name what you both want. Asking advice also makes you look more competent (Brooks et al., 2015).",
+  "basis": "book"
+ },
+ {
+  "id": "p472",
+  "need": "intelligence",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I value how much you care about this. What would you suggest we do?",
+  "technique": "Shared mission",
+  "why": "For high-stakes talks: appreciate them, make it safe, and name what you both want. Asking advice also makes you look more competent (Brooks et al., 2015).",
+  "basis": "book"
+ },
+ {
+  "id": "p473",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "How do you know everyone here?",
+  "technique": "Context cue",
+  "why": "Use what you share right now, the place or the host, as an easy opening.",
+  "basis": "book"
+ },
+ {
+  "id": "p474",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What brought you along tonight?",
+  "technique": "Context cue",
+  "why": "Use what you share right now, the place or the host, as an easy opening.",
+  "basis": "book"
+ },
+ {
+  "id": "p475",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Better now I'm talking to you. What's been good with you?",
+  "technique": "Better 'How are you?'",
+  "why": "Turn 'How are you?' into a spark: answer with a little story or warmth, then ask for something good.",
+  "basis": "book"
+ },
+ {
+  "id": "p476",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Honestly? A bit frazzled, but good. What's been good for you lately?",
+  "technique": "Better 'How are you?'",
+  "why": "Turn 'How are you?' into a spark: answer with a little story or warmth, then ask for something good.",
+  "basis": "book"
+ },
+ {
+  "id": "p477",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I really like you. Let's do this again.",
+  "technique": "Signal liking",
+  "why": "We like people who like us, and we underestimate how much others like us (Boothby et al., 2018). Make your liking obvious.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p478",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I always enjoy talking to you.",
+  "technique": "Signal liking",
+  "why": "We like people who like us, and we underestimate how much others like us (Boothby et al., 2018). Make your liking obvious.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p479",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Wait, let me guess. Teacher?",
+  "technique": "'Can I guess?'",
+  "why": "Playful guessing gives quieter people an easy way in.",
+  "delivery": "Keep it light and smile. Laugh if you're wrong.",
+  "ctx": "Swap in your guess. Keep it flattering.",
+  "basis": "book"
+ },
+ {
+  "id": "p480",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Can I have a guess where you're going on holiday?",
+  "technique": "'Can I guess?'",
+  "why": "Playful guessing gives quieter people an easy way in.",
+  "delivery": "Keep it light and smile. Laugh if you're wrong.",
+  "basis": "book"
+ },
+ {
+  "id": "p481",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "How long have you lived round here?",
+  "technique": "Numbers, then story",
+  "why": "Easy number questions are simple to answer and lead naturally to stories.",
+  "basis": "book"
+ },
+ {
+  "id": "p482",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "How long have you two been together? Where did you meet?",
+  "technique": "Numbers, then story",
+  "why": "Easy number questions are simple to answer and lead naturally to stories.",
+  "basis": "book"
+ },
+ {
+  "id": "p483",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I'd never have thought of that. What made you try it?",
+  "technique": "Don't yuck their yum",
+  "why": "Meet someone's enthusiasm with curiosity, not a wince. You get to share their joy.",
+  "basis": "book"
+ },
+ {
+  "id": "p484",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I love that you're into it. How did it start?",
+  "technique": "Don't yuck their yum",
+  "why": "Meet someone's enthusiasm with curiosity, not a wince. You get to share their joy.",
+  "basis": "book"
+ },
+ {
+  "id": "p485",
+  "need": "power",
+  "feeling": "control",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Totally shifting gears for a second, can I ask you about something?",
+  "technique": "Graceful topic change",
+  "why": "Transitions rescue a flat conversation. Signal the switch out loud.",
+  "basis": "book"
+ },
+ {
+  "id": "p486",
+  "need": "power",
+  "feeling": "control",
+  "situation": "close",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Before we wrap up, could we go back to what you mentioned earlier?",
+  "technique": "Graceful topic change",
+  "why": "Transitions rescue a flat conversation. Signal the switch out loud.",
+  "basis": "book"
+ },
+ {
+  "id": "p487",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Isn't this weather glorious? Are you making the most of it?",
+  "technique": "Good weather only",
+  "why": "Weather talk works only when it's good: positive forecasts lifted tips by about 19% (Rind, 1996).",
+  "ctx": "Only when the weather really is good.",
+  "basis": "book"
+ },
+ {
+  "id": "p488",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What a gorgeous day. Got anything nice planned?",
+  "technique": "Good weather only",
+  "why": "Weather talk works only when it's good: positive forecasts lifted tips by about 19% (Rind, 1996).",
+  "ctx": "Only when the weather really is good.",
+  "basis": "book"
+ },
+ {
+  "id": "p489",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What have you been enjoying recently?",
+  "technique": "Skip 'Been busy?'",
+  "why": "'Busy' makes people recall stress. Ask about enjoyment instead.",
+  "basis": "book"
+ },
+ {
+  "id": "p490",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's been fun lately?",
+  "technique": "Skip 'Been busy?'",
+  "why": "'Busy' makes people recall stress. Ask about enjoyment instead.",
+  "basis": "book"
+ },
+ {
+  "id": "p491",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Before we start, what's one good thing from your week?",
+  "technique": "Ask for good",
+  "why": "Moods are catching. Starting with something good sets a positive tone for everyone.",
+  "basis": "book"
+ },
+ {
+  "id": "p492",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's something good that happened today?",
+  "technique": "Ask for good",
+  "why": "Moods are catching. Starting with something good sets a positive tone for everyone.",
+  "basis": "book"
+ },
+ {
+  "id": "p493",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Can I tell you something really weird?",
+  "technique": "Conversational confetti",
+  "why": "Tease a fun fact before you share it. A little suspense makes people lean in.",
+  "basis": "book"
+ },
+ {
+  "id": "p494",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "rapport",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "Want to hear something interesting I learned this week?",
+  "technique": "Conversational confetti",
+  "why": "Tease a fun fact before you share it. A little suspense makes people lean in.",
+  "basis": "book"
+ },
+ {
+  "id": "p495",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I'll be honest, I came over because you looked friendly.",
+  "technique": "At ease, not impressive",
+  "why": "Van Edwards: you don't need a clever line. Being relaxed and warm lands better than being impressive.",
+  "basis": "book"
+ },
+ {
+  "id": "p496",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I've no clever opening line. I just wanted to say hello.",
+  "technique": "At ease, not impressive",
+  "why": "Van Edwards: you don't need a clever line. Being relaxed and warm lands better than being impressive.",
+  "basis": "book"
+ },
+ {
+  "id": "p497",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "What's the rest of your day looking like?",
+  "technique": "Graceful exit",
+  "why": "Her exit formula: a cue about what's next, then a warm compliment plus an action. Leave on a high.",
+  "delivery": "Smile, then actually go. Don't linger after the line.",
+  "basis": "book"
+ },
+ {
+  "id": "p498",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "It's been lovely talking to you. I'm going to grab a drink, but let's catch up soon.",
+  "technique": "Graceful exit",
+  "why": "Her exit formula: a cue about what's next, then a warm compliment plus an action. Leave on a high.",
+  "delivery": "Smile, then actually go. Don't linger after the line.",
+  "basis": "book"
+ },
+ {
+  "id": "p499",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "close",
+  "sources": [
+   "CONV L1"
+  ],
+  "text": "I'm so glad we caught up. Coffee next week?",
+  "technique": "Graceful exit",
+  "why": "Her exit formula: a cue about what's next, then a warm compliment plus an action. Leave on a high.",
+  "delivery": "Smile, then actually go. Don't linger after the line.",
+  "basis": "book"
+ },
+ {
+  "id": "p500",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "That's a brilliant goal. How can I help?",
+  "technique": "Dreambuilding",
+  "why": "When someone shares a goal, get excited and help. Enthusiastic responses to good news build closeness (Gable et al., 2006).",
+  "basis": "book"
+ },
+ {
+  "id": "p501",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "close",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I'll check in next month to see how it's going.",
+  "technique": "Dreambuilding",
+  "why": "When someone shares a goal, get excited and help. Enthusiastic responses to good news build closeness (Gable et al., 2006).",
+  "basis": "book"
+ },
+ {
+  "id": "p502",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What would the first step be?",
+  "technique": "Dreambuilding",
+  "why": "When someone shares a goal, get excited and help. Enthusiastic responses to good news build closeness (Gable et al., 2006).",
+  "basis": "book"
+ },
+ {
+  "id": "p503",
+  "need": "acceptance",
+  "feeling": "respected",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "That's interesting. What got you into it?",
+  "technique": "Curious, not doubtful",
+  "why": "When you don't love their idea, ask how it started and where it's going instead of picking holes.",
+  "basis": "book"
+ },
+ {
+  "id": "p504",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What's been the most surprising part so far?",
+  "technique": "Curious, not doubtful",
+  "why": "When you don't love their idea, ask how it started and where it's going instead of picking holes.",
+  "basis": "book"
+ },
+ {
+  "id": "p505",
+  "need": "power",
+  "feeling": "control",
+  "situation": "disagree",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I can't take this on without delaying the other project. Which would you like me to prioritise?",
+  "technique": "Clear, kind ask",
+  "why": "Van Edwards: assertiveness is a skill. Name what you need and the action you'd like.",
+  "delivery": "Calm and friendly, no apology at the start.",
+  "basis": "book"
+ },
+ {
+  "id": "p506",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I need us to share this more evenly. Could you take Tuesdays?",
+  "technique": "Clear, kind ask",
+  "why": "Van Edwards: assertiveness is a skill. Name what you need and the action you'd like.",
+  "delivery": "Calm and friendly, no apology at the start.",
+  "ctx": "Swap in your real ask.",
+  "basis": "book"
+ },
+ {
+  "id": "p507",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "close",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "Is there anything else you want to tell me before we finish?",
+  "technique": "Clear, kind ask",
+  "why": "Van Edwards: assertiveness is a skill. Name what you need and the action you'd like.",
+  "delivery": "Calm and friendly, no apology at the start.",
+  "basis": "book"
+ },
+ {
+  "id": "p508",
+  "need": "approval",
+  "feeling": "trusted",
+  "situation": "disagree",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I know how much you care about this work, so I want to be straight with you.",
+  "technique": "Tough feedback, warmly",
+  "why": "Lead with belief in them, be specific, and ask how you can help it not happen again.",
+  "basis": "book"
+ },
+ {
+  "id": "p509",
+  "need": "approval",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What can I do to help this not happen again?",
+  "technique": "Tough feedback, warmly",
+  "why": "Lead with belief in them, be specific, and ask how you can help it not happen again.",
+  "basis": "book"
+ },
+ {
+  "id": "p510",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "It sounds like you're really upset. Can you tell me more?",
+  "technique": "Name it, don't calm it",
+  "why": "Never say 'calm down'. Hiding feelings makes them worse; naming them helps (Lieberman et al., 2007).",
+  "delivery": "Slow down and lower your voice. Let a pause sit.",
+  "basis": "book"
+ },
+ {
+  "id": "p511",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "Of course you're frustrated. Anyone would be.",
+  "technique": "Name it, don't calm it",
+  "why": "Never say 'calm down'. Hiding feelings makes them worse; naming them helps (Lieberman et al., 2007).",
+  "delivery": "Slow down and lower your voice. Let a pause sit.",
+  "basis": "book"
+ },
+ {
+  "id": "p512",
+  "need": "intelligence",
+  "feeling": "respected",
+  "situation": "opener",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "Can I get your take on something I'm stuck on?",
+  "technique": "Ask for their take",
+  "why": "With bosses and VIPs, skip the fan compliment. Asking for their view on something real connects better.",
+  "basis": "book"
+ },
+ {
+  "id": "p513",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What's the craziest thing that happened on that project?",
+  "technique": "Ask for their take",
+  "why": "With bosses and VIPs, skip the fan compliment. Asking for their view on something real connects better.",
+  "basis": "book"
+ },
+ {
+  "id": "p514",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "You mentioned you had a big presentation. How did it go?",
+  "technique": "Pebbling",
+  "why": "Like penguins with pebbles: small 'thinking of you' gestures and follow-ups show you remember.",
+  "ctx": "Use a real event they mentioned.",
+  "basis": "book"
+ },
+ {
+  "id": "p515",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I'll send you that podcast I mentioned.",
+  "technique": "Pebbling",
+  "why": "Like penguins with pebbles: small 'thinking of you' gestures and follow-ups show you remember.",
+  "basis": "book"
+ },
+ {
+  "id": "p516",
+  "need": "pity",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "Do you want help with it, or just a good rant?",
+  "technique": "Pet and pest projects",
+  "why": "Ask about the project they love and the hassle they're living with, then ask what kind of support they want.",
+  "basis": "book"
+ },
+ {
+  "id": "p517",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "What are you tinkering with in your spare time?",
+  "technique": "Pet and pest projects",
+  "why": "Ask about the project they love and the hassle they're living with, then ask what kind of support they want.",
+  "basis": "book"
+ },
+ {
+  "id": "p518",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "Well, that's my one good joke used up.",
+  "technique": "Laugh together",
+  "why": "Shared laughter is relationship glue. Laughing at yourself is the easiest, safest kind.",
+  "basis": "book"
+ },
+ {
+  "id": "p519",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I'm terrible with names and I've had two coffees. Remind me yours?",
+  "technique": "Laugh together",
+  "why": "Shared laughter is relationship glue. Laughing at yourself is the easiest, safest kind.",
+  "basis": "book"
+ },
+ {
+  "id": "p520",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "That's going to be our running joke now.",
+  "technique": "Laugh together",
+  "why": "Shared laughter is relationship glue. Laughing at yourself is the easiest, safest kind.",
+  "basis": "book"
+ },
+ {
+  "id": "p521",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "disagree",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I'm confident we can fix this by Friday.",
+  "technique": "Simple, confident words",
+  "why": "Short words and 'I'm confident that…' sound smarter than jargon (Oppenheimer, 2006).",
+  "basis": "book"
+ },
+ {
+  "id": "p522",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "close",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "Here's what I suggest we do next.",
+  "technique": "Simple, confident words",
+  "why": "Short words and 'I'm confident that…' sound smarter than jargon (Oppenheimer, 2006).",
+  "basis": "book"
+ },
+ {
+  "id": "p523",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "Anyway, enough about me. How about you?",
+  "technique": "Verbal catch",
+  "why": "Conversation is a game of catch. End your turn by handing the ball back.",
+  "basis": "book"
+ },
+ {
+  "id": "p524",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "That's how I ended up in this job. What got you started in yours?",
+  "technique": "Verbal catch",
+  "why": "Conversation is a game of catch. End your turn by handing the ball back.",
+  "basis": "book"
+ },
+ {
+  "id": "p525",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "You two have to meet. You both love climbing.",
+  "technique": "Be a connector",
+  "why": "Introducing people over a shared interest makes both of them like you more.",
+  "ctx": "Use a real shared interest.",
+  "basis": "book"
+ },
+ {
+  "id": "p526",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "close",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I'll introduce you to Jo. I think you'd really get on.",
+  "technique": "Be a connector",
+  "why": "Introducing people over a shared interest makes both of them like you more.",
+  "ctx": "Use a real name.",
+  "basis": "book"
+ },
+ {
+  "id": "p527",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "I go every Thursday. Fancy coming along?",
+  "technique": "Make it a regular thing",
+  "why": "Friendships need time and shared settings (Hall, 2019). Small invitations test the water.",
+  "basis": "book"
+ },
+ {
+  "id": "p528",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "close",
+  "sources": [
+   "CONV L2"
+  ],
+  "text": "We should make this a regular thing.",
+  "technique": "Make it a regular thing",
+  "why": "Friendships need time and shared settings (Hall, 2019). Small invitations test the water.",
+  "basis": "book"
+ },
+ {
+  "id": "p529",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "What did that experience teach you?",
+  "technique": "Follow the story",
+  "why": "Level 3: when someone hints at how they see their life, follow it gently.",
+  "basis": "book"
+ },
+ {
+  "id": "p530",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "How do you think that shaped who you are now?",
+  "technique": "Follow the story",
+  "why": "Level 3: when someone hints at how they see their life, follow it gently.",
+  "basis": "book"
+ },
+ {
+  "id": "p531",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "What's the next mountain you're climbing?",
+  "technique": "Meet their story",
+  "why": "Van Edwards's five self-story types each want something different: a next challenge, support, or a moment for themselves. Respond, never label.",
+  "basis": "book"
+ },
+ {
+  "id": "p532",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "That sounds really tough. How did you get through it?",
+  "technique": "Meet their story",
+  "why": "Van Edwards's five self-story types each want something different: a next challenge, support, or a moment for themselves. Respond, never label.",
+  "basis": "book"
+ },
+ {
+  "id": "p533",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "You give so much. What's something you keep just for yourself?",
+  "technique": "Meet their story",
+  "why": "Van Edwards's five self-story types each want something different: a next challenge, support, or a moment for themselves. Respond, never label.",
+  "basis": "book"
+ },
+ {
+  "id": "p534",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "Do you think of yourself as lucky?",
+  "technique": "'Are you lucky?'",
+  "why": "One light question that hints at how in control and optimistic someone feels.",
+  "basis": "book"
+ },
+ {
+  "id": "p535",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "What's the luckiest thing that's ever happened to you?",
+  "technique": "'Are you lucky?'",
+  "why": "One light question that hints at how in control and optimistic someone feels.",
+  "basis": "book"
+ },
+ {
+  "id": "p536",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "When do you feel rich?",
+  "technique": "Money story",
+  "why": "Money questions reveal values. Keep them for people you're close to.",
+  "ctx": "Only with someone you know well.",
+  "basis": "book"
+ },
+ {
+  "id": "p537",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "What's your earliest money memory?",
+  "technique": "Money story",
+  "why": "Money questions reveal values. Keep them for people you're close to.",
+  "ctx": "Only with someone you know well.",
+  "basis": "book"
+ },
+ {
+  "id": "p538",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "Wow. I'd love to hear the story behind that.",
+  "technique": "Awe",
+  "why": "Be ready to be amazed by people's stories. Awe makes people feel truly seen.",
+  "delivery": "Let your face react first: eyebrows up, real smile.",
+  "basis": "book"
+ },
+ {
+  "id": "p539",
+  "need": "significance",
+  "feeling": "appreciated",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "That's incredible. How did you even manage that?",
+  "technique": "Awe",
+  "why": "Be ready to be amazed by people's stories. Awe makes people feel truly seen.",
+  "delivery": "Let your face react first: eyebrows up, real smile.",
+  "basis": "book"
+ },
+ {
+  "id": "p540",
+  "need": "approval",
+  "feeling": "reassured",
+  "situation": "close",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "I believe in you.",
+  "technique": "'I believe in you'",
+  "why": "Four words that fuel courage, said with conviction.",
+  "delivery": "Look at them, slow down, mean it.",
+  "basis": "book"
+ },
+ {
+  "id": "p541",
+  "need": "approval",
+  "feeling": "reassured",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "You can absolutely do this. I believe in you.",
+  "technique": "'I believe in you'",
+  "why": "Four words that fuel courage, said with conviction.",
+  "delivery": "Look at them, slow down, mean it.",
+  "basis": "book"
+ },
+ {
+  "id": "p542",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "That sounds scary. What worries you most about it?",
+  "technique": "Honour the fear",
+  "why": "Talking about fears is freeing (Pennebaker). Make it safe, then offer support.",
+  "basis": "book"
+ },
+ {
+  "id": "p543",
+  "need": "pity",
+  "feeling": "reassured",
+  "situation": "close",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "Whatever happens, I'm here if you want to talk it through.",
+  "technique": "Honour the fear",
+  "why": "Talking about fears is freeing (Pennebaker). Make it safe, then offer support.",
+  "basis": "book"
+ },
+ {
+  "id": "p544",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "What did you fail at this week? I'll go first.",
+  "technique": "Honour the fear",
+  "why": "Talking about fears is freeing (Pennebaker). Make it safe, then offer support.",
+  "basis": "book"
+ },
+ {
+  "id": "p545",
+  "need": "approval",
+  "feeling": "reassured",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "Maybe it's less 'I'm bad at this' and more 'I'm still learning it'.",
+  "technique": "Change the story",
+  "why": "Help someone see their story and choose a kinder version of it.",
+  "basis": "book"
+ },
+ {
+  "id": "p546",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "CONV L3"
+  ],
+  "text": "Who do you want to be a year from now?",
+  "technique": "Change the story",
+  "why": "Help someone see their story and choose a kinder version of it.",
+  "basis": "book"
+ },
+ {
+  "id": "p547",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "CAP ch3"
+  ],
+  "text": "What's the most interesting thing you've done this month?",
+  "technique": "Conversation sparker",
+  "why": "Captivate: novel questions light people up. Notice what makes them lean in and go there.",
+  "basis": "book"
+ },
+ {
+  "id": "p548",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch3"
+  ],
+  "text": "You lit up when you mentioned that. Tell me about it.",
+  "technique": "Conversation sparker",
+  "why": "Captivate: novel questions light people up. Notice what makes them lean in and go there.",
+  "basis": "book"
+ },
+ {
+  "id": "p549",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "opener",
+  "sources": [
+   "CAP ch3"
+  ],
+  "text": "Sorry, could you say your name again? I want to get it right.",
+  "technique": "Name Game",
+  "why": "Captivate: hear the name, say it back, link it to something. Names make people feel important.",
+  "basis": "book"
+ },
+ {
+  "id": "p550",
+  "need": "significance",
+  "feeling": "liked",
+  "situation": "opener",
+  "sources": [
+   "CAP ch3"
+  ],
+  "text": "Maya, lovely. My cousin's called Maya.",
+  "technique": "Name Game",
+  "why": "Captivate: hear the name, say it back, link it to something. Names make people feel important.",
+  "ctx": "Only if the link is true.",
+  "basis": "book"
+ },
+ {
+  "id": "p551",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch4"
+  ],
+  "text": "This is Ali. She's the one who turned our whole project round.",
+  "technique": "Highlighter",
+  "why": "Captivate: introduce people by their best qualities and tell them what impresses you.",
+  "ctx": "Use a real, specific strength.",
+  "basis": "book"
+ },
+ {
+  "id": "p552",
+  "need": "approval",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "CAP ch4"
+  ],
+  "text": "I've been telling everyone how good your talk was.",
+  "technique": "Highlighter",
+  "why": "Captivate: introduce people by their best qualities and tell them what impresses you.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p553",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch5"
+  ],
+  "text": "Hang on, we've got loads in common.",
+  "technique": "Thread Theory",
+  "why": "Captivate: find a few things in common, ask 'why' in different ways, and offer help where you can.",
+  "basis": "book"
+ },
+ {
+  "id": "p554",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch5"
+  ],
+  "text": "Why did you choose that, out of interest?",
+  "technique": "Thread Theory",
+  "why": "Captivate: find a few things in common, ask 'why' in different ways, and offer help where you can.",
+  "basis": "book"
+ },
+ {
+  "id": "p555",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "CAP ch5"
+  ],
+  "text": "If you ever need a hand with it, give me a shout.",
+  "technique": "Thread Theory",
+  "why": "Captivate: find a few things in common, ask 'why' in different ways, and offer help where you can.",
+  "basis": "book"
+ },
+ {
+  "id": "p556",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch5"
+  ],
+  "text": "Teach me? I've always wanted to understand how that works.",
+  "technique": "'Teach me?'",
+  "why": "Captivate: when you've nothing in common, ask them to teach you. People love sharing what they know.",
+  "basis": "book"
+ },
+ {
+  "id": "p557",
+  "need": "intelligence",
+  "feeling": "respected",
+  "situation": "opener",
+  "sources": [
+   "CAP ch5"
+  ],
+  "text": "I know nothing about wine. What should I be looking for?",
+  "technique": "'Teach me?'",
+  "why": "Captivate: when you've nothing in common, ask them to teach you. People love sharing what they know.",
+  "ctx": "Swap in their real interest.",
+  "basis": "book"
+ },
+ {
+  "id": "p558",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "CAP ch8"
+  ],
+  "text": "Thank you for staying late. It made a real difference.",
+  "technique": "Appreciation Matrix",
+  "why": "Captivate: people feel thanked in different ways: words, time, help, small gifts. Thank them their way.",
+  "basis": "book"
+ },
+ {
+  "id": "p559",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch8"
+  ],
+  "text": "Can I take you for lunch to say thanks?",
+  "technique": "Appreciation Matrix",
+  "why": "Captivate: people feel thanked in different ways: words, time, help, small gifts. Thank them their way.",
+  "basis": "book"
+ },
+ {
+  "id": "p560",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch8"
+  ],
+  "text": "I've cleared my afternoon so we can do this properly.",
+  "technique": "Appreciation Matrix",
+  "why": "Captivate: people feel thanked in different ways: words, time, help, small gifts. Thank them their way.",
+  "basis": "book"
+ },
+ {
+  "id": "p561",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch10"
+  ],
+  "text": "That happened to me once too. What would you have done?",
+  "technique": "Story boomerang",
+  "why": "Captivate: share a short story, then throw it back so they can tell theirs.",
+  "basis": "book"
+ },
+ {
+  "id": "p562",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch10"
+  ],
+  "text": "Has anything like that ever happened to you?",
+  "technique": "Story boomerang",
+  "why": "Captivate: share a short story, then throw it back so they can tell theirs.",
+  "basis": "book"
+ },
+ {
+  "id": "p563",
+  "need": "power",
+  "feeling": "control",
+  "situation": "close",
+  "sources": [
+   "CAP ch11"
+  ],
+  "text": "Would you like to take the lead on this? You know it better than anyone.",
+  "technique": "Own it, because",
+  "why": "Captivate: people support what they help build, and a reason makes requests easier to agree to (Langer, 1978).",
+  "basis": "book"
+ },
+ {
+  "id": "p564",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "disagree",
+  "sources": [
+   "CAP ch11"
+  ],
+  "text": "Could we move the meeting, because I want to give this proper time?",
+  "technique": "Own it, because",
+  "why": "Captivate: people support what they help build, and a reason makes requests easier to agree to (Langer, 1978).",
+  "basis": "book"
+ },
+ {
+  "id": "p565",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch12"
+  ],
+  "text": "Can I ask your advice on something?",
+  "technique": "Ask for advice",
+  "why": "Captivate's Franklin Effect: asking for advice and admitting a weakness makes people warm to you (Brooks et al., 2015).",
+  "basis": "book"
+ },
+ {
+  "id": "p566",
+  "need": "intelligence",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "CAP ch12"
+  ],
+  "text": "You've done this before. What would you do in my shoes?",
+  "technique": "Ask for advice",
+  "why": "Captivate's Franklin Effect: asking for advice and admitting a weakness makes people warm to you (Brooks et al., 2015).",
+  "basis": "book"
+ },
+ {
+  "id": "p567",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch12"
+  ],
+  "text": "Full disclosure, I'm rubbish at this bit.",
+  "technique": "Ask for advice",
+  "why": "Captivate's Franklin Effect: asking for advice and admitting a weakness makes people warm to you (Brooks et al., 2015).",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p568",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "CAP ch13"
+  ],
+  "text": "It sounds like you're worried this will land on you. Is that right?",
+  "technique": "NUT the fear",
+  "why": "Captivate's NUT Job: Name the fear, Understand it, Transform it into something you can act on.",
+  "basis": "book"
+ },
+ {
+  "id": "p569",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "CAP ch13"
+  ],
+  "text": "That makes sense. So what would make this feel safer for you?",
+  "technique": "NUT the fear",
+  "why": "Captivate's NUT Job: Name the fear, Understand it, Transform it into something you can act on.",
+  "basis": "book"
+ },
+ {
+  "id": "p570",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "CAP ch13"
+  ],
+  "text": "I can't do dinner, but I'd love to grab a coffee.",
+  "technique": "Counter-offer",
+  "why": "Captivate: say no to the thing, yes to the person. Offer what you can do.",
+  "basis": "book"
+ },
+ {
+  "id": "p571",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "close",
+  "sources": [
+   "CAP ch13"
+  ],
+  "text": "I can't take that on right now, but I could help next month.",
+  "technique": "Counter-offer",
+  "why": "Captivate: say no to the thing, yes to the person. Offer what you can do.",
+  "basis": "book"
+ },
+ {
+  "id": "p572",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "CAP ch14"
+  ],
+  "text": "I really enjoy spending time with you.",
+  "technique": "Attunement",
+  "why": "Captivate's last hack: tell people you enjoy them, and help them feel they belong.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p573",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "CAP ch14"
+  ],
+  "text": "You're one of us now.",
+  "technique": "Attunement",
+  "why": "Captivate's last hack: tell people you enjoy them, and help them feel they belong.",
+  "basis": "book"
+ },
+ {
+  "id": "p574",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "CUES ch5"
+  ],
+  "text": "I want to come back to your point, I've made a note. Can I finish this first?",
+  "technique": "Bookmark and preview",
+  "why": "Cues: stop interruptions kindly. Bookmark their point to come back to, or preview how much you have to say.",
+  "basis": "book"
+ },
+ {
+  "id": "p575",
+  "need": "power",
+  "feeling": "control",
+  "situation": "opener",
+  "sources": [
+   "CUES ch5"
+  ],
+  "text": "I've got three quick things, then I want to hear from you.",
+  "technique": "Bookmark and preview",
+  "why": "Cues: stop interruptions kindly. Bookmark their point to come back to, or preview how much you have to say.",
+  "basis": "book"
+ },
+ {
+  "id": "p576",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "opener",
+  "sources": [
+   "CUES ch8"
+  ],
+  "text": "Oh, it's so good to hear from you!",
+  "technique": "Warm hello",
+  "why": "Cues: open with real warmth in your voice. People decide fast whether you're friendly.",
+  "delivery": "Let your voice lift on the first word, and smile as you say it.",
+  "basis": "book"
+ },
+ {
+  "id": "p577",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "CUES ch8"
+  ],
+  "text": "Anything exciting going on in your neck of the woods?",
+  "technique": "Warm hello",
+  "why": "Cues: open with real warmth in your voice. People decide fast whether you're friendly.",
+  "delivery": "Let your voice lift on the first word, and smile as you say it.",
+  "basis": "book"
+ },
+ {
+  "id": "p578",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CUES ch8"
+  ],
+  "text": "Mm. And then what?",
+  "technique": "Vocal nudge",
+  "why": "Cues: small listening sounds and nudges invite people to keep going.",
+  "delivery": "Quiet voice, small nod, then silence.",
+  "basis": "book"
+ },
+ {
+  "id": "p579",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "CUES ch8"
+  ],
+  "text": "Go on…",
+  "technique": "Vocal nudge",
+  "why": "Cues: small listening sounds and nudges invite people to keep going.",
+  "delivery": "Quiet voice, small nod, then silence.",
+  "basis": "book"
+ },
+ {
+  "id": "p580",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "rapport",
+  "sources": [
+   "CUES ch9"
+  ],
+  "text": "I'm so excited to work on this with you.",
+  "technique": "Warm and competent words",
+  "why": "Cues: match the mix of warm and competent words to the person and the moment.",
+  "basis": "book"
+ },
+ {
+  "id": "p581",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "close",
+  "sources": [
+   "CUES ch9"
+  ],
+  "text": "Here's the plan, the timeline and who owns what.",
+  "technique": "Warm and competent words",
+  "why": "Cues: match the mix of warm and competent words to the person and the moment.",
+  "basis": "book"
+ },
+ {
+  "id": "p582",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "BWF ch14"
+  ],
+  "text": "Good morning! How's your day starting?",
+  "technique": "Good-morning rep",
+  "why": "Vinh: replace a habit rather than just removing it. Tiny daily reps: eye contact, a smile, a real 'Good morning'.",
+  "delivery": "Eye contact first, then the smile, then the words.",
+  "basis": "book"
+ },
+ {
+  "id": "p583",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "opener",
+  "sources": [
+   "BWF ch14"
+  ],
+  "text": "Morning! I don't think we've met properly. I'm ___.",
+  "technique": "Good-morning rep",
+  "why": "Vinh: replace a habit rather than just removing it. Tiny daily reps: eye contact, a smile, a real 'Good morning'.",
+  "delivery": "Eye contact first, then the smile, then the words.",
+  "ctx": "Fill in your name.",
+  "basis": "book"
+ },
+ {
+  "id": "p584",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "opener",
+  "sources": [
+   "VGS"
+  ],
+  "text": "Hello! It's so good to see you.",
+  "technique": "Generosity of energy",
+  "why": "Vinh: give a little more energy to a hello or goodbye. It lifts the other person too.",
+  "delivery": "A notch more volume and a real smile.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p585",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "VGS"
+  ],
+  "text": "Thanks so much, that really made my day.",
+  "technique": "Generosity of energy",
+  "why": "Vinh: give a little more energy to a hello or goodbye. It lifts the other person too.",
+  "delivery": "A notch more volume and a real smile.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p586",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch16"
+  ],
+  "text": "I'm raising this because I'd hate us to lose the client over it.",
+  "technique": "Name the stakes",
+  "why": "Vinh: when people know what could be lost or won, they lean in.",
+  "basis": "book"
+ },
+ {
+  "id": "p587",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "close",
+  "sources": [
+   "BWF ch16"
+  ],
+  "text": "If we get this right, it changes a lot for the team.",
+  "technique": "Name the stakes",
+  "why": "Vinh: when people know what could be lost or won, they lean in.",
+  "basis": "book"
+ },
+ {
+  "id": "p588",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch17"
+  ],
+  "text": "Honestly, I struggled with this for years.",
+  "technique": "Vulnerability",
+  "why": "Vinh: a real struggle builds more trust than a polished highlight.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p589",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch17"
+  ],
+  "text": "I'll admit I got defensive earlier. I'm sorry.",
+  "technique": "Vulnerability",
+  "why": "Vinh: a real struggle builds more trust than a polished highlight.",
+  "basis": "book"
+ },
+ {
+  "id": "p590",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch18"
+  ],
+  "text": "I'd love to say I handled it gracefully. I did not.",
+  "technique": "Humour",
+  "why": "Vinh: small, true, self-aware stories make people like you.",
+  "basis": "book"
+ },
+ {
+  "id": "p591",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "BWF ch18"
+  ],
+  "text": "I've been told I talk with my hands, so stand back.",
+  "technique": "Humour",
+  "why": "Vinh: small, true, self-aware stories make people like you.",
+  "basis": "book"
+ },
+ {
+  "id": "p592",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch20"
+  ],
+  "text": "This reminds me of my first job. The point is, nobody gets it right first time.",
+  "technique": "Spark, Point, Link",
+  "why": "Vinh's story formula: start at the peak moment, land one point, then link it to the listener.",
+  "ctx": "Use your own true story.",
+  "basis": "book"
+ },
+ {
+  "id": "p593",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "close",
+  "sources": [
+   "BWF ch20"
+  ],
+  "text": "What I took from it is simple: ask for help sooner.",
+  "technique": "Spark, Point, Link",
+  "why": "Vinh's story formula: start at the peak moment, land one point, then link it to the listener.",
+  "basis": "book"
+ },
+ {
+  "id": "p594",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch22"
+  ],
+  "text": "I used to see that as my worst moment. Now I think it's where I learnt the most.",
+  "technique": "Relink the story",
+  "why": "Vinh: you can choose a kinder meaning for a painful story. It helps others do the same.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "book"
+ },
+ {
+  "id": "p595",
+  "need": "approval",
+  "feeling": "reassured",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch22"
+  ],
+  "text": "What if this isn't a failure, just the start of the story?",
+  "technique": "Relink the story",
+  "why": "Vinh: you can choose a kinder meaning for a painful story. It helps others do the same.",
+  "basis": "book"
+ },
+ {
+  "id": "p596",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "opener",
+  "sources": [
+   "BWF ch23"
+  ],
+  "text": "Let's do high, low, buffalo: a high, a low and something random from your week.",
+  "technique": "High, Low, Buffalo",
+  "why": "Vinh's game: share a high, a low and something random. Six easy threads to pull on, and everyone fills each other's shelf.",
+  "basis": "book"
+ },
+ {
+  "id": "p597",
+  "need": "acceptance",
+  "feeling": "comfortable",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch23"
+  ],
+  "text": "I'll go first. High: new job. Low: no sleep. Buffalo: I've taken up pottery.",
+  "technique": "High, Low, Buffalo",
+  "why": "Vinh's game: share a high, a low and something random. Six easy threads to pull on, and everyone fills each other's shelf.",
+  "ctx": "Swap in your own true week.",
+  "basis": "book"
+ },
+ {
+  "id": "p598",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "close",
+  "sources": [
+   "BWF ch23"
+  ],
+  "text": "Same again next week? You go first this time.",
+  "technique": "High, Low, Buffalo",
+  "why": "Vinh's game: share a high, a low and something random. Six easy threads to pull on, and everyone fills each other's shelf.",
+  "basis": "book"
+ },
+ {
+  "id": "p599",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch26"
+  ],
+  "text": "You mentioned Japan. What took you there?",
+  "technique": "Pull the thread",
+  "why": "Vinh: people drop small threads. Notice one and follow it.",
+  "ctx": "Use something they actually mentioned.",
+  "basis": "book"
+ },
+ {
+  "id": "p600",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch26"
+  ],
+  "text": "You said 'finally'. Has it been a long road?",
+  "technique": "Pull the thread",
+  "why": "Vinh: people drop small threads. Notice one and follow it.",
+  "ctx": "Use the word they used.",
+  "basis": "book"
+ },
+ {
+  "id": "p601",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "opener",
+  "sources": [
+   "BWF ch26"
+  ],
+  "text": "You mentioned it's been a big week. How are you doing with it all?",
+  "technique": "Pull the thread",
+  "why": "Vinh: people drop small threads. Notice one and follow it.",
+  "ctx": "Use something they actually told you.",
+  "basis": "book"
+ },
+ {
+  "id": "p602",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "close",
+  "sources": [
+   "BWF ch24"
+  ],
+  "text": "Thanks for telling me all that. It sounds like the team matters most to you.",
+  "technique": "Listen for what matters",
+  "why": "Vinh: listening is the bigger half. Afterwards, ask yourself what mattered most to them, and tell them.",
+  "ctx": "Reflect what seemed to matter to them.",
+  "basis": "book"
+ },
+ {
+  "id": "p603",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "close",
+  "sources": [
+   "BWF ch24"
+  ],
+  "text": "I'm trying to be a better listener. How did I do just then?",
+  "technique": "Listen for what matters",
+  "why": "Vinh: listening is the bigger half. Afterwards, ask yourself what mattered most to them, and tell them.",
+  "basis": "book"
+ },
+ {
+  "id": "p604",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch25"
+  ],
+  "text": "Do you want ideas, or would you rather I just listen?",
+  "technique": "Dodge the listening traps",
+  "why": "Vinh's five traps: judging, advising, one-upping, mind-reading, daydreaming. Catch yourself and stay with them.",
+  "basis": "book"
+ },
+ {
+  "id": "p605",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch25"
+  ],
+  "text": "I'm going to stop trying to fix it and just listen.",
+  "technique": "Dodge the listening traps",
+  "why": "Vinh's five traps: judging, advising, one-upping, mind-reading, daydreaming. Catch yourself and stay with them.",
+  "basis": "book"
+ },
+ {
+  "id": "p606",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch25"
+  ],
+  "text": "That's a lot. Before I say anything, tell me the rest.",
+  "technique": "Dodge the listening traps",
+  "why": "Vinh's five traps: judging, advising, one-upping, mind-reading, daydreaming. Catch yourself and stay with them.",
+  "basis": "book"
+ },
+ {
+  "id": "p607",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch26"
+  ],
+  "text": "Trapped?",
+  "technique": "Reflect their word",
+  "why": "Vinh: notice, reflect, clarify. Give their own word back, then pause. Reflective listening helps people feel understood.",
+  "delivery": "Say their word back softly as a question, then wait.",
+  "ctx": "Use their exact word.",
+  "basis": "book"
+ },
+ {
+  "id": "p608",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch26"
+  ],
+  "text": "When you say it's complicated, what do you mean?",
+  "technique": "Reflect their word",
+  "why": "Vinh: notice, reflect, clarify. Give their own word back, then pause. Reflective listening helps people feel understood.",
+  "delivery": "Say their word back softly as a question, then wait.",
+  "ctx": "Use their exact word.",
+  "basis": "book"
+ },
+ {
+  "id": "p609",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch26"
+  ],
+  "text": "Doesn't feel right?",
+  "technique": "Reflect their word",
+  "why": "Vinh: notice, reflect, clarify. Give their own word back, then pause. Reflective listening helps people feel understood.",
+  "delivery": "Say their word back softly as a question, then wait.",
+  "ctx": "Use their exact words.",
+  "basis": "book"
+ },
+ {
+  "id": "p610",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch27"
+  ],
+  "text": "You went a bit quiet when you mentioned your manager. Everything all right?",
+  "technique": "Hear what changed",
+  "why": "Vinh: listen for when someone's pace, volume or tone shifts, and gently check in.",
+  "basis": "book"
+ },
+ {
+  "id": "p611",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch27"
+  ],
+  "text": "You sound tired of all this. Am I reading that right?",
+  "technique": "Hear what changed",
+  "why": "Vinh: listen for when someone's pace, volume or tone shifts, and gently check in.",
+  "basis": "book"
+ },
+ {
+  "id": "p612",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch28"
+  ],
+  "text": "You smiled when you said that. Good memory?",
+  "technique": "See what changed",
+  "why": "Vinh: notice what their face and body do, and ask rather than assume.",
+  "basis": "book"
+ },
+ {
+  "id": "p613",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch28"
+  ],
+  "text": "You look like there's more you want to say. Go on.",
+  "technique": "See what changed",
+  "why": "Vinh: notice what their face and body do, and ask rather than assume.",
+  "basis": "book"
+ },
+ {
+  "id": "p614",
+  "need": "pity",
+  "feeling": "understood",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch29"
+  ],
+  "text": "It sounds like you're feeling pretty overwhelmed. Is that it?",
+  "technique": "Name the feeling",
+  "why": "Vinh: ask yourself what they might be feeling or needing, then offer it as a question. Labelling feelings calms them.",
+  "delivery": "Tentative tone: you're checking, not diagnosing.",
+  "basis": "book"
+ },
+ {
+  "id": "p615",
+  "need": "any",
+  "feeling": "understood",
+  "situation": "disagree",
+  "sources": [
+   "BWF ch29"
+  ],
+  "text": "Sounds like you're feeling unheard. Is that fair?",
+  "technique": "Name the feeling",
+  "why": "Vinh: ask yourself what they might be feeling or needing, then offer it as a question. Labelling feelings calms them.",
+  "delivery": "Tentative tone: you're checking, not diagnosing.",
+  "basis": "book"
+ },
+ {
+  "id": "p616",
+  "need": "pity",
+  "feeling": "reassured",
+  "situation": "close",
+  "sources": [
+   "BWF ch29"
+  ],
+  "text": "What would help most right now?",
+  "technique": "Name the feeling",
+  "why": "Vinh: ask yourself what they might be feeling or needing, then offer it as a question. Labelling feelings calms them.",
+  "delivery": "Tentative tone: you're checking, not diagnosing.",
+  "basis": "book"
+ },
+ {
+  "id": "p617",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "VGS"
+  ],
+  "text": "Wow. How did you feel when that happened?",
+  "technique": "Three follow-ups",
+  "why": "Vinh: when someone shows strong feeling, ask three follow-up questions before you share anything of yours.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p618",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "VGS"
+  ],
+  "text": "And what happened after that?",
+  "technique": "Three follow-ups",
+  "why": "Vinh: when someone shows strong feeling, ask three follow-up questions before you share anything of yours.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p619",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "VGS"
+  ],
+  "text": "I'm not upset with you. I'm upset about what happened.",
+  "technique": "The situation, not the person",
+  "why": "Vinh: in a row, reflect their feeling and aim your frustration at the situation, not at them.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p620",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "VGS"
+  ],
+  "text": "Can we make this us against the problem?",
+  "technique": "The situation, not the person",
+  "why": "Vinh: in a row, reflect their feeling and aim your frustration at the situation, not at them.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p621",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "rapport",
+  "sources": [
+   "VGS"
+  ],
+  "text": "I'm really proud of it, and I had a lot of help.",
+  "technique": "Share wins humbly",
+  "why": "Vinh: share good news with credit to others and what you learned. It invites celebration, not envy.",
+  "ctx": "Only say this if it is true for you.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p622",
+  "need": "any",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "VGS"
+  ],
+  "text": "We did it, and honestly, your idea is what got us there.",
+  "technique": "Share wins humbly",
+  "why": "Vinh: share good news with credit to others and what you learned. It invites celebration, not envy.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p623",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "rapport",
+  "sources": [
+   "VG"
+  ],
+  "text": "No rush at all. Take your time.",
+  "technique": "Match, then lead",
+  "why": "Vinh: match their pace and energy first; once you're in step, you can gently lead.",
+  "delivery": "Match their speed and volume before you shift it.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p624",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "VG"
+  ],
+  "text": "Okay. Let's slow down for a sec.",
+  "technique": "Match, then lead",
+  "why": "Vinh: match their pace and energy first; once you're in step, you can gently lead.",
+  "delivery": "Match their speed and volume before you shift it.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p625",
+  "need": "any",
+  "feeling": "comfortable",
+  "situation": "opener",
+  "sources": [
+   "VG"
+  ],
+  "text": "Do you fancy a proper catch-up, or just a quick hello?",
+  "technique": "What this chat is for",
+  "why": "Vinh: people want different things from a chat: information, connection, harmony or fun. Ask, then give them that.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p626",
+  "need": "power",
+  "feeling": "control",
+  "situation": "rapport",
+  "sources": [
+   "VG"
+  ],
+  "text": "What would make this chat useful for you?",
+  "technique": "What this chat is for",
+  "why": "Vinh: people want different things from a chat: information, connection, harmony or fun. Ask, then give them that.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p627",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "opener",
+  "sources": [
+   "VG"
+  ],
+  "text": "What's on your mind today? I've got time.",
+  "technique": "What this chat is for",
+  "why": "Vinh: people want different things from a chat: information, connection, harmony or fun. Ask, then give them that.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p628",
+  "need": "any",
+  "feeling": "reconciled",
+  "situation": "disagree",
+  "sources": [
+   "VGS"
+  ],
+  "text": "Yes, and we could try it your way for the first part.",
+  "technique": "Yes, and",
+  "why": "Vinh (from improv): build on what they said. 'Yes, but' wipes it out.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p629",
+  "need": "acceptance",
+  "feeling": "included",
+  "situation": "rapport",
+  "sources": [
+   "VGS"
+  ],
+  "text": "Yes, and what if we did it on Saturday?",
+  "technique": "Yes, and",
+  "why": "Vinh (from improv): build on what they said. 'Yes, but' wipes it out.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p630",
+  "need": "any",
+  "feeling": "respected",
+  "situation": "disagree",
+  "sources": [
+   "VGS"
+  ],
+  "text": "There's really one thing I'd change, and it's the timing.",
+  "technique": "3-2-1 answer",
+  "why": "Vinh: when you're put on the spot, give three steps, two options or one thing. It sounds clear and calm.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p631",
+  "need": "any",
+  "feeling": "trusted",
+  "situation": "close",
+  "sources": [
+   "VGS"
+  ],
+  "text": "Three things to take away: start small, ask early, and keep going.",
+  "technique": "3-2-1 answer",
+  "why": "Vinh: when you're put on the spot, give three steps, two options or one thing. It sounds clear and calm.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p632",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "opener",
+  "sources": [
+   "VGS"
+  ],
+  "text": "What do you get up to in your free time?",
+  "technique": "FORD topics",
+  "why": "Vinh's topic map: Family, Occupation, Recreation, Dreams.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p633",
+  "need": "any",
+  "feeling": "curious",
+  "situation": "rapport",
+  "sources": [
+   "VGS"
+  ],
+  "text": "If money were no object, what would you be doing?",
+  "technique": "FORD topics",
+  "why": "Vinh's topic map: Family, Occupation, Recreation, Dreams.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p634",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "disagree",
+  "sources": [
+   "VG"
+  ],
+  "text": "Tell me more. I want to get this right.",
+  "technique": "'Tell me more' (Vinh)",
+  "why": "Vinh: 'Tell me more' buys you time and makes people feel heard.",
+  "basis": "adapted"
+ },
+ {
+  "id": "p635",
+  "need": "any",
+  "feeling": "heard",
+  "situation": "rapport",
+  "sources": [
+   "VG"
+  ],
+  "text": "Ooh, tell me more.",
+  "technique": "'Tell me more' (Vinh)",
+  "why": "Vinh: 'Tell me more' buys you time and makes people feel heard.",
+  "basis": "adapted"
  }
 ]

@@ -130,9 +130,9 @@
   }
   function teacherOfKey(key) {
     const k = String(key).split("@")[0];
-    if (/^(VVE|V24|V26|VVC|VIG|VTK|VX)/.test(k)) return "vanessa";
-    if (/^(VG|GIG|GTK)/.test(k)) return "vinh";
-    if (/^(C24|C26|CS|NCI|NM|NS)/.test(k)) return "chase";
+    if (/^(VVE|V24|V26|VVC|VIG|VTK|VX|CONV|CAP|CUES)/.test(k)) return "vanessa";
+    if (/^(VG|GIG|GTK|BWF)/.test(k)) return "vinh";
+    if (/^(C24|C26|CS|NCI|NM|NS|BOM)/.test(k)) return "chase";
     return "mix";
   }
   function teachersOf(p) {
@@ -147,12 +147,14 @@
     return unique.map(function (id) { return TEACHER_LABEL[id] || id; }).join(" · ");
   }
   function techniqueFor(p) {
+    if (p.technique) return p.technique;
     if (p.situation === "opener") return "A better opener";
     if (p.situation === "close") return "End on purpose";
     if (p.situation === "disagree") return "Stay with them";
     return NEED_TECHNIQUE[p.need] || NEED_TECHNIQUE.any;
   }
   function whyFor(p) {
+    if (p.why) return p.why;
     if (p.feeling === "heard" || p.feeling === "understood") {
       return "Follow-up questions help people feel heard, and are liked more (Huang et al., 2017).";
     }
@@ -168,9 +170,9 @@
     return NEED_WHY[p.need] || NEED_WHY.any;
   }
   function tipFor(p) {
-    if (p.delivery) return p.delivery;
     const ids = FEELING_TIPS[p.feeling] || ["pause"];
-    return TIPS[ids[hashStr(p.id) % ids.length]] || TIPS.pause;
+    const base = p.delivery || TIPS[ids[hashStr(p.id) % ids.length]] || TIPS.pause;
+    return p.ctx ? p.ctx + " " + base : base;
   }
   function matchesTeacher(p, teacher) {
     if (teacher === "mix") return true;
@@ -357,13 +359,13 @@
       "</ul>" +
       "<h3>The three teachers</h3>" +
       "<ul>" +
-        "<li><a href=\"https://www.scienceofpeople.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Vanessa Van Edwards</a> — better openers, warmth and competence cues, follow-ups. Books: <em>Captivate</em>, <em>Cues</em>, <em>Conversation</em> (2026). The full set of nine power questions stays in the book.</li>" +
-        "<li><a href=\"https://vinhgiang.com/blog/how-to-build-rapport-with-absolutely-anyone\" target=\"_blank\" rel=\"noopener noreferrer\">Vinh Giang</a> — voice, Match Mirror and Lead, “yes, and”. Book: <em>Before We Forget How to Connect</em> (2026).</li>" +
-        "<li><a href=\"https://nci.university/\" target=\"_blank\" rel=\"noopener noreferrer\">Chase Hughes</a> — composure and the six needs as prompts, not a six-minute profile. That method has no published validation.</li>" +
+        "<li><a href=\"https://www.scienceofpeople.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Vanessa Van Edwards</a> — better openers, warmth and competence cues, follow-ups. Books: <em>Captivate</em>, <em>Cues</em>, <em>Conversation</em> (2026), including the nine power questions.</li>" +
+        "<li><a href=\"https://vinhgiang.com/blog/how-to-build-rapport-with-absolutely-anyone\" target=\"_blank\" rel=\"noopener noreferrer\">Vinh Giang</a> — voice, listening radar, reflection, stories, “yes, and”. Book: <em>Before We Forget How to Connect</em> (2026).</li>" +
+        "<li><a href=\"https://nci.university/\" target=\"_blank\" rel=\"noopener noreferrer\">Chase Hughes</a> — the small-talk loop, composure and the six needs as prompts, from <em>The Behavior Ops Manual</em>. Its covert chapters and the six-minute profile are left out; neither has published validation.</li>" +
       "</ul>" +
       "<h3>Leave out</h3>" +
       "<p>Covert influence, fake common ground, diagnosing lies from body language (people are about 54% accurate — Bond and DePaulo, 2006), and the idea that 93% of communication is non-verbal. That last one is a misreading of Mehrabian.</p>" +
-      "<p>The earlier full guide is kept on the <a href=\"https://github.com/mhccog/read-anyone/tree/v1-full-guide\" target=\"_blank\" rel=\"noopener noreferrer\">v1-full-guide</a> tag in the repo.</p>" +
+      "<p>Every technique, with its source and why it is used or left out, is in the <a href=\"https://github.com/mhccog/read-anyone/blob/main/research/techniques-inventory.md\" target=\"_blank\" rel=\"noopener noreferrer\">technique inventory</a>. The earlier full guide is kept on the <a href=\"https://github.com/mhccog/read-anyone/tree/v1-full-guide\" target=\"_blank\" rel=\"noopener noreferrer\">v1-full-guide</a> tag in the repo.</p>" +
     "</section>";
   }
 
