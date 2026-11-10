@@ -335,7 +335,7 @@
       return (state.phrases || []).find(function (p) { return p.id === id; });
     }).filter(Boolean);
     if (!items.length) {
-      return '<p class="status">No saved lines yet. Generate one, then tap the star.</p>';
+      return '<p class="status">No saved lines yet. Tap the star on a line to save it.</p>';
     }
     return '<div class="fav-list">' + items.map(function (p) {
       return '<button type="button" class="fav-card" data-act="open-fav" data-val="' + esc(p.id) + '"><b>' + esc(p.text) + "</b><small>" + esc(teacherLabel(teachersOf(p))) + " · " + esc(techniqueFor(p)) + "</small></button>";
@@ -394,7 +394,6 @@
     } else {
       body =
         lean + vibe + moment + teacher +
-        '<button type="button" class="generate" data-act="generate"' + (state.loaded ? "" : " disabled") + ">Generate</button>" +
         (state.result ? resultCard() : '<p class="note">Listening prompts, not a label. Only say what you mean.</p>');
     }
 
@@ -419,10 +418,14 @@
   }
 
   function handle(act, val) {
-    if (act === "need") { state.need = val; state.showFavs = false; render(); return; }
-    if (act === "feeling") { state.feeling = val; state.showFavs = false; render(); return; }
-    if (act === "sit") { state.sit = val; state.showFavs = false; render(); return; }
-    if (act === "teacher") { state.teacher = val; state.showFavs = false; render(); return; }
+    if (act === "need" || act === "feeling" || act === "sit" || act === "teacher") {
+      const changed = state[act] !== val;
+      state[act] = val;
+      state.showFavs = false;
+      if (state.loaded && !state.error && (changed || !state.result)) pickLine();
+      render();
+      return;
+    }
     if (act === "more-feel") { state.moreFeel = !state.moreFeel; render(); return; }
     if (act === "generate") {
       if (!state.loaded || state.error) return;
@@ -497,6 +500,7 @@
         state.phrases = Array.isArray(data) ? data : [];
         state.loaded = true;
         state.error = false;
+        if (!state.result) pickLine();
         render();
       })
       .catch(function () {
