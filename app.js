@@ -5,6 +5,7 @@
   const KEY = "cyrus-read-anyone-v1";
   const TABS = [
     { id: "identify", label: "Identify" },
+    { id: "sayit", label: "Say it" },
     { id: "practice", label: "Practice" },
     { id: "today", label: "Today" },
     { id: "playbook", label: "Playbook" },
@@ -27,6 +28,106 @@
   ];
 
   const SIT = { stranger: "Meeting a stranger", networking: "Networking", business: "Business or sales", family: "Friends and family", online: "Online messages" };
+
+  const SIMPLE_FEELINGS = ["heard", "understood", "comfortable", "liked", "trusted", "respected"];
+  const SAY_FEELINGS = [
+    { id: "heard", label: "Heard" },
+    { id: "understood", label: "Understood" },
+    { id: "comfortable", label: "Comfortable" },
+    { id: "liked", label: "Liked" },
+    { id: "trusted", label: "Trusted" },
+    { id: "respected", label: "Respected" },
+    { id: "reassured", label: "Reassured" },
+    { id: "included", label: "Included" },
+    { id: "important", label: "Important" },
+    { id: "smart", label: "Smart" },
+    { id: "control", label: "In control" },
+    { id: "reconciled", label: "Reconciled" },
+    { id: "appreciated", label: "Appreciated" },
+    { id: "curious", label: "Curious" },
+  ];
+  const SAY_SITS = [
+    { id: "all", label: "Any moment" },
+    { id: "opener", label: "Opener" },
+    { id: "rapport", label: "Rapport" },
+    { id: "disagree", label: "Disagree" },
+    { id: "close", label: "Close" },
+  ];
+  const TIPS = {
+    slownod: "A slow nod at emotional moments. Fast nods feel like hurry up.",
+    tilt: "Slight head tilt while they talk — tell me more.",
+    highlight: "Briefly show their feeling on your face and voice, then relax.",
+    lean: "Lean in a little when they say something that matters.",
+    smile: "A relaxed smile that reaches the eyes.",
+    soft: "Drop your volume a touch. People often relax when you do.",
+    match: "Start near their pace and volume, then lead a notch at a time. Obvious copying backfires.",
+    pause: "Pause just before and after the key words.",
+    slowdown: "Slow right down on the one line that matters.",
+    melody: "Add melody; end the key sentence on a slightly lower note.",
+    palmsup: "Open, visible palms to invite them in.",
+    palmsdown: "Palms down for a firm, calm point.",
+    askstop: "Ask, then stop talking. Let the silence work.",
+    computer: "Hand to chin or a slight tilt — you are taking it in.",
+    warm: "Keep the same warm tone through the hard part.",
+    congruent: "Face matches the message: serious when serious, bright for good news."
+  };
+  const FEELING_TIPS = {
+    heard: ["computer", "slownod", "pause"],
+    understood: ["highlight", "slownod", "soft"],
+    liked: ["smile", "tilt", "match"],
+    trusted: ["melody", "slowdown", "pause"],
+    respected: ["melody", "palmsdown", "pause"],
+    comfortable: ["soft", "match", "palmsup"],
+    reassured: ["warm", "slowdown", "soft"],
+    included: ["palmsup", "smile", "lean"],
+    important: ["pause", "lean", "melody"],
+    smart: ["askstop", "lean", "computer"],
+    control: ["palmsup", "askstop", "melody"],
+    reconciled: ["warm", "congruent", "match"],
+    appreciated: ["pause", "warm", "smile"],
+    curious: ["melody", "lean", "askstop"]
+  };
+  const SRC = {
+    NM: { label: "Working notes (listening prompts)" },
+    NG: { label: "Working notes" },
+    NP: { label: "Working notes" },
+    NS: { label: "Working notes" },
+    VVEC: { label: "Vanessa: conversation starters", url: "https://www.scienceofpeople.com/conversation-starters-topics/" },
+    VVEL: { label: "Vanessa: how to be likable", url: "https://www.scienceofpeople.com/likable/" },
+    VVEA: { label: "Vanessa: listening cues", url: "https://www.scienceofpeople.com/listening-skills/" },
+    VVER: { label: "Vanessa: how to read people", url: "https://www.scienceofpeople.com/how-to-read-people/" },
+    VGR: { label: "Vinh: build rapport", url: "https://vinhgiang.com/blog/how-to-build-rapport-with-absolutely-anyone" },
+    VGS: { label: "Vinh: small talk", url: "https://vinhgiang.com/blog/how-to-make-small-talk" },
+    VGB: { label: "Vinh: body language for charisma", url: "https://vinhgiang.com/blog/5-body-language-tips-to-become-more-charismatic" },
+    VGF: { label: "Vinh: constructive feedback", url: "https://vinhgiang.com/blog/how-to-give-constructive-feedback-without-destroying-confidence" },
+    VGA: { label: "Vinh: sincere apology", url: "https://vinhgiang.com/blog/the-art-of-the-apology-how-to-apologize-sincerely-to-anyone" },
+    VGP: { label: "Vinh: projecting without sounding angry", url: "https://vinhgiang.com/blog/how-to-project-your-voice-without-shouting-or-sounding-angry" },
+    V24: { label: "Vanessa on The Diary of a CEO (2024)", url: "https://www.youtube.com/watch?v=VHUrdELKjDw" },
+    V26: { label: "Vanessa on The Diary of a CEO (2026)", url: "https://www.youtube.com/watch?v=q2cg1gEYWJQ" },
+    VG: { label: "Vinh on The Diary of a CEO (2025)", url: "https://www.youtube.com/watch?v=oIiv_335yus" },
+    C24: { label: "Chase on The Diary of a CEO (2024)", url: "https://www.youtube.com/watch?v=RvjR9GM2kX8" },
+    C26: { label: "Chase on The Diary of a CEO (2026)", url: "https://www.youtube.com/watch?v=9uSXOr-AdAU" },
+    CS: { label: "Chase: YouTube Short on the six needs", url: "https://www.youtube.com/shorts/YzJI8GTHteQ" },
+    VGQ: { label: "Vinh: how to enter conversations", url: "https://www.youtube.com/watch?v=-X13GINFYOY" },
+    VVC: { label: "Vanessa: memorable compliments", url: "https://www.youtube.com/watch?v=MOre3dRqHlA" },
+    EK: { label: "Paul Ekman Group: the seven universal emotions", url: "https://www.paulekman.com/universal-emotions/" },
+    NCI: { label: "NCI six social needs (secondary write-up)", url: "https://merlinobrecht.com/behavior-profiling/the-six-social-needs/" },
+    VIG1: { label: "Vanessa, Instagram: a better opener than “nice to meet you”", url: "https://www.instagram.com/vvanedwards/reel/DSvJHzLDula/" },
+    VTK1: { label: "Vanessa, TikTok: likable makes you more credible", url: "https://www.tiktok.com/@vvanedwards/video/7699563694350421279" },
+    VTK2: { label: "Vanessa, TikTok: leave a conversation gracefully", url: "https://www.tiktok.com/@vvanedwards/video/7696611449283611935" },
+    VTK4: { label: "Vanessa, TikTok: curious before critical", url: "https://www.tiktok.com/@vvanedwards/video/7698857415135071518" },
+    VTK5: { label: "Vanessa, TikTok: people watch you less than you think", url: "https://www.tiktok.com/@vvanedwards/video/7697376668339555614" },
+    VTK6: { label: "Vanessa, TikTok: change your energy first", url: "https://www.tiktok.com/@vvanedwards/video/7699181704648461599" },
+    VX2: { label: "Vanessa, X: learn one new thing about the person", url: "https://x.com/vvanedwards/status/2095555287851913413" },
+    VX3: { label: "Vanessa, X: send the thank-you you have been putting off", url: "https://x.com/vvanedwards/status/2113352794451120522" },
+    GIG1: { label: "Vinh, Instagram: “Yes, and”, “tell me more”, “the one thing is”", url: "https://www.instagram.com/askvinh/p/DLC7Ae2xYFn/" },
+    GIG2: { label: "Vinh, Instagram: listening is a superpower", url: "https://www.instagram.com/askvinh/p/De8pSzdDNLd/" },
+    GTK1: { label: "Vinh, TikTok: end on a downward pitch", url: "https://www.tiktok.com/@askvinh/video/7258996715020094728" },
+    GTK2: { label: "Vinh, TikTok: follow the threads", url: "https://www.tiktok.com/@askvinh/video/7699530755352923413" },
+    GTK3: { label: "Vinh, TikTok: playfulness connects", url: "https://www.tiktok.com/@askvinh/video/7700263406732872978" },
+    GTK4: { label: "Vinh, TikTok: reframe a painful story", url: "https://www.tiktok.com/@askvinh/video/7700073827564277010" }
+  };
+
 
   const SCENARIOS = [
     { id: "s1", sit: "stranger", sitLabel: SIT.stranger, setup: "In a café, the owner lingers after bringing your order.", quote: "I actually built this place with my brother. Took us three years.", need: "significance", options: [{ id: "significance", line: "Three years is a serious build. What are you proudest of?" }, { id: "approval", line: "I am sure it will be fine. You are doing great." }, { id: "pity", line: "That must have been awful. Three years of struggle." }], why: "They led with what they built. Acknowledge the impact, then invite the story.", good: "Name the specific achievement, then ask a follow-up.", bad: "Pity or generic reassurance misses what they are offering you." },
@@ -93,12 +194,14 @@
     const [y, m, d] = iso.split("-").map(Number);
     return new Date(Date.UTC(y, m - 1, d - 1)).toISOString().slice(0, 10);
   }
-  function emptySave() { return { xp: 0, streak: 0, lastActive: "", lastDaily: "", plays: 0, correct: 0 }; }
+  function emptySave() { return { xp: 0, streak: 0, lastActive: "", lastDaily: "", plays: 0, correct: 0, favs: [] }; }
   function loadSave() {
     try {
       const raw = localStorage.getItem(KEY);
       if (!raw) return emptySave();
-      return Object.assign(emptySave(), JSON.parse(raw));
+      const s = Object.assign(emptySave(), JSON.parse(raw));
+      if (!Array.isArray(s.favs)) s.favs = [];
+      return s;
     } catch (e) { return emptySave(); }
   }
   function writeSave(s) { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch (e) { /* private mode */ } }
@@ -151,6 +254,7 @@
     pr: { i: 0, picked: null, combo: 0, score: 0, done: false, deck: [], filter: null },
     td: { i: 0, picked: null, hits: 0, finished: false, justDone: false },
     playOpen: "first",
+    say: { need: null, feeling: null, sit: "all", moreFeel: false, showAll: false, showFavs: false, copied: null, copyTimer: 0, seed: 1, phrases: [], loaded: false, error: false },
   };
 
   function persist(next) { state.save = next; writeSave(next); }
@@ -167,6 +271,7 @@
       lastDaily: opts.daily ? d : save.lastDaily,
       plays: save.plays + 1,
       correct: save.correct + (opts.correct ? 1 : 0),
+      favs: Array.isArray(save.favs) ? save.favs : [],
     });
   }
 
@@ -260,6 +365,176 @@
       render();
       return;
     }
+    if (act === "id-sayit") {
+      state.tab = "sayit";
+      state.say.need = val || state.id.need || "any";
+      state.say.showFavs = false;
+      state.say.showAll = false;
+      render();
+      window.scrollTo(0, 0);
+      return;
+    }
+    if (act === "say-need") {
+      state.say.need = val;
+      state.say.showAll = false;
+      state.say.showFavs = false;
+      render();
+      return;
+    }
+    if (act === "say-feeling") {
+      state.say.feeling = val;
+      state.say.showAll = false;
+      state.say.showFavs = false;
+      render();
+      return;
+    }
+    if (act === "say-sit") {
+      state.say.sit = val;
+      state.say.showAll = false;
+      render();
+      return;
+    }
+    if (act === "say-morefeel") {
+      state.say.moreFeel = !state.say.moreFeel;
+      render();
+      return;
+    }
+    if (act === "say-more") {
+      state.say.showAll = true;
+      render();
+      return;
+    }
+    if (act === "say-shuffle") {
+      state.say.seed += 1;
+      state.say.showAll = false;
+      render();
+      return;
+    }
+    if (act === "say-reset") {
+      state.say.need = null;
+      state.say.feeling = null;
+      state.say.sit = "all";
+      state.say.showAll = false;
+      state.say.showFavs = false;
+      render();
+      return;
+    }
+    if (act === "say-favs") {
+      state.say.showFavs = !state.say.showFavs;
+      render();
+      return;
+    }
+    if (act === "say-fav") {
+      const favs = (state.save.favs || []).slice();
+      const i = favs.indexOf(val);
+      if (i >= 0) favs.splice(i, 1);
+      else favs.unshift(val);
+      persist(Object.assign({}, state.save, { favs: favs }));
+      render();
+      return;
+    }
+    if (act === "say-copy") {
+      const phrase = (state.say.phrases || []).find(function (p) { return p.id === val; });
+      const text = phrase ? phrase.text : "";
+      function copied() {
+        if (state.say.copyTimer) clearTimeout(state.say.copyTimer);
+        state.say.copied = val;
+        state.say.copyTimer = setTimeout(function () {
+          state.say.copied = null;
+          render();
+        }, 1600);
+        render();
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(copied).catch(function () { fallbackCopy(text); copied(); });
+      } else {
+        fallbackCopy(text);
+        copied();
+      }
+      return;
+    }
+    if (act === "say-retry") {
+      state.say.loaded = false;
+      state.say.error = false;
+      render();
+      loadPhrases();
+      return;
+    }
+  }
+
+  function fallbackCopy(text) {
+    try {
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      ta.setAttribute("readonly", "");
+      ta.style.position = "fixed";
+      ta.style.left = "-9999px";
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand("copy");
+      document.body.removeChild(ta);
+    } catch (e) { /* copy optional */ }
+  }
+
+  function hashStr(s) {
+    let h = 0;
+    const str = String(s);
+    for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) >>> 0;
+    return h;
+  }
+
+  function tipFor(p) {
+    const ids = FEELING_TIPS[p.feeling] || ["pause"];
+    return TIPS[ids[hashStr(p.id) % ids.length]] || TIPS.pause;
+  }
+
+  function sourceLabels(keys) {
+    return (keys || []).map(function (k) {
+      const s = SRC[k];
+      if (!s) return esc(k);
+      if (s.url) return '<a href="' + esc(s.url) + '" target="_blank" rel="noopener noreferrer">' + esc(s.label) + "</a>";
+      return esc(s.label);
+    }).join(" · ");
+  }
+
+  function matchPhrases(need, feeling, sit) {
+    const pool = state.say.phrases || [];
+    if (!feeling) return [];
+    const needId = need && need !== "any" ? need : null;
+    const sitId = sit && sit !== "all" ? sit : null;
+    const seen = {};
+    const out = [];
+    function add(filter, loose, tag) {
+      pool.forEach(function (p) {
+        if (seen[p.id] || !filter(p)) return;
+        seen[p.id] = true;
+        out.push({ p: p, loose: loose, tag: tag });
+      });
+    }
+    if (needId) {
+      add(function (p) { return p.feeling === feeling && p.need === needId && (!sitId || p.situation === sitId); }, false, "");
+      if (out.length < 3 && sitId) {
+        add(function (p) { return p.feeling === feeling && p.need === needId; }, true, "sit relaxed");
+      }
+      if (out.length < 3) {
+        add(function (p) { return p.feeling === feeling && p.need === "any" && (!sitId || p.situation === sitId); }, true, "more general");
+      }
+      if (out.length < 3) {
+        add(function (p) { return p.feeling === feeling && p.need === "any"; }, true, "more general");
+      }
+      if (out.length < 3) {
+        add(function (p) { return p.need === needId; }, true, "nearby feeling");
+      }
+    } else {
+      add(function (p) { return p.feeling === feeling && p.need === "any" && (!sitId || p.situation === sitId); }, false, "");
+      if (out.length < 3 && sitId) {
+        add(function (p) { return p.feeling === feeling && p.need === "any"; }, true, "sit relaxed");
+      }
+      if (out.length < 3) {
+        add(function (p) { return p.feeling === feeling; }, true, "more general");
+      }
+    }
+    return out;
   }
 
   function chip(text, color) {
@@ -357,8 +632,9 @@
             : "<p>Do not force a type. Ask one follow-up — “What was that like?” — and listen for the next sentence. People who ask follow-up questions are liked more (Huang et al., 2017).</p>") +
         "</div>" +
         '<div class="actions" style="justify-content:center">' +
+          btn("Get a line", "id-sayit", id.need || "any", true) +
+          btn("Practise this", "id-practice") +
           btn("Read someone else", "id-reset") +
-          btn("Practise this", "id-practice", "", true) +
         "</div>" +
         '<p class="note">Most people show a mix. If you find yourself announcing a type out loud, you have gone too far. Ask, do not diagnose.</p></div>';
     }
@@ -491,7 +767,7 @@
     }).join("");
     return '<section class="panel" style="padding-top:8px">' +
       '<div class="section"><h2>The short version</h2>' +
-      '<div class="callout"><strong>Warmth first. Then competence. Then listen harder than you talk.</strong>People size you up on two questions: can I trust you, and can I rely on you (Fiske, Cuddy and Glick, 2007). Lead with interest, their name and a real smile, then make one clear point. The best-evidenced habit in this whole guide is simple: ask follow-up questions before you tell your own story (Huang et al., 2017).</div></div>' +
+      '<div class="callout"><strong>Warmth first. Then competence. Then listen harder than you talk.</strong>People size you up on two questions: can I trust you, and can I rely on you (Fiske, Cuddy and Glick, 2007). Lead with interest, their name and a real smile, then make one clear point. The best-evidenced habit in this whole guide is simple: ask follow-up questions before you tell your own story (Huang et al., 2017). Need a line for this moment? Open the Say it tab.</div><div class="actions">' + btn("Open Say it", "tab", "sayit", true) + "</div></div>" +
       '<div class="section"><h2>Universal principles</h2><p class="cap">Punchy first. Open a row when you want the why and the source.</p>' + rows + "</div>" +
       '<div class="section"><h2>Cheat sheet</h2><p class="cap">The six needs are listening prompts from Chase Hughes, not a tested model and never a label. Most people show a mix.</p>' +
       '<div class="table-wrap"><table><thead><tr><th>Need</th><th>Listen for</th><th>Do</th><th>Avoid</th></tr></thead><tbody>' + needRows + "</tbody></table></div></div>" +
@@ -512,15 +788,152 @@
     "</section>";
   }
 
+  function sayit() {
+    const s = state.say;
+    const favs = state.save.favs || [];
+    if (!s.loaded && !s.error) {
+      return '<section class="panel">' + chip("Say it") + "<h2>Lines that fit this moment.</h2>" +
+        '<p class="muted">Loading the phrase bank…</p></section>';
+    }
+    if (s.error) {
+      return '<section class="panel">' + chip("Say it") + "<h2>Lines that fit this moment.</h2>" +
+        '<p class="muted">The phrase bank did not load. Check your connection and try again.</p>' +
+        '<div class="actions">' + btn("Try again", "say-retry", "", true) + "</div></section>";
+    }
+
+    const feelingList = s.moreFeel ? SAY_FEELINGS : SAY_FEELINGS.filter(function (f) { return SIMPLE_FEELINGS.indexOf(f.id) >= 0; });
+    const needChoices = [{ id: "any", name: "Not sure", lean: "General lines that suit anyone", color: "var(--gold)", icon: "○" }].concat(NEEDS);
+
+    function pickBtn(label, hint, act, val, on, color) {
+      return '<button type="button" class="choice' + (on ? " is-on" : "") + '"' +
+        (color && on ? ' style="border-color:' + color + '"' : "") +
+        ' data-act="' + act + '" data-val="' + esc(val) + '"><b>' + esc(label) + "</b>" +
+        (hint ? "<small>" + esc(hint) + "</small>" : "") + "</button>";
+    }
+
+    const needRow = '<div class="say-picks">' + needChoices.map(function (n) {
+      return pickBtn((n.icon ? n.icon + "  " : "") + n.name, n.lean, "say-need", n.id, s.need === n.id, n.color);
+    }).join("") + "</div>";
+
+    const feelRow = '<div class="say-picks">' + feelingList.map(function (f) {
+      return pickBtn(f.label, "", "say-feeling", f.id, s.feeling === f.id);
+    }).join("") +
+      '<button type="button" class="choice' + (s.moreFeel ? " is-on" : "") + '" data-act="say-morefeel"><b>' +
+      (s.moreFeel ? "Fewer feelings" : "More feelings") + "</b><small>" +
+      (s.moreFeel ? "Hide the extra eight." : "Show eight more, such as included or in control.") +
+      "</small></button></div>";
+
+    const sitRow = '<div class="say-sits">' + SAY_SITS.map(function (x) {
+      return '<button type="button" class="sit-chip' + (s.sit === x.id ? " is-on" : "") + '" data-act="say-sit" data-val="' + x.id + '">' + esc(x.label) + "</button>";
+    }).join("") + "</div>";
+
+    let results = "";
+    if (s.showFavs) {
+      const favPhrases = favs.map(function (id) {
+        return (s.phrases || []).find(function (p) { return p.id === id; });
+      }).filter(Boolean);
+      if (!favPhrases.length) {
+        results = '<p class="muted">No saved lines yet. Tap the star on a card to keep it on this device.</p>';
+      } else {
+        results = favPhrases.map(function (p) { return phraseCard({ p: p, loose: false, tag: "" }); }).join("");
+      }
+    } else if (!s.need || !s.feeling) {
+      results = '<p class="muted">Pick a lean and a feeling. You will get lines and a delivery tip. Only say what you mean.</p>';
+    } else {
+      let matched = matchPhrases(s.need, s.feeling, s.sit);
+      matched = shuffle(matched, s.seed + hashStr(s.need + "|" + s.feeling + "|" + s.sit));
+      const total = matched.length;
+      const shown = s.showAll ? matched : matched.slice(0, 3);
+      const looseNote = shown.some(function (m) { return m.loose; })
+        ? '<p class="note">A few of these are a looser match — labelled on the card. Still only say what you mean.</p>'
+        : "";
+      if (!shown.length) {
+        results = '<p class="muted">Nothing in the bank for this mix yet. Try another feeling, or set the moment to Any.</p>';
+      } else {
+        results = looseNote + shown.map(phraseCard).join("") +
+          '<div class="actions">' +
+            btn("Shuffle", "say-shuffle") +
+            (total > 3 && !s.showAll ? btn("Show all " + total, "say-more") : "") +
+            btn("Start over", "say-reset") +
+          "</div>";
+      }
+    }
+
+    function phraseCard(m) {
+      const p = m.p;
+      const fav = favs.indexOf(p.id) >= 0;
+      const copied = s.copied === p.id;
+      const sit = SAY_SITS.find(function (x) { return x.id === p.situation; });
+      const needObj = p.need === "any" ? null : needOf(p.need);
+      const tags = [];
+      if (m.tag) tags.push(m.tag);
+      if (sit && s.sit === "all") tags.push(sit.label);
+      if (p.need === "any" && s.need && s.need !== "any") tags.push("more general");
+      return '<article class="say-card anim">' +
+        '<div class="between" style="margin-bottom:8px">' +
+          '<div class="say-tags">' + tags.filter(function (t, i, a) { return a.indexOf(t) === i; }).map(function (t) {
+            return '<span class="chip">' + esc(t) + "</span>";
+          }).join("") + "</div>" +
+          '<div class="say-tools">' +
+            '<button type="button" class="icon-btn' + (fav ? " is-on" : "") + '" data-act="say-fav" data-val="' + esc(p.id) + '" aria-label="' + (fav ? "Remove from saved lines" : "Save this line") + '" title="' + (fav ? "Saved" : "Save") + '">' + (fav ? "★" : "☆") + "</button>" +
+          "</div>" +
+        "</div>" +
+        '<button type="button" class="say-line" data-act="say-copy" data-val="' + esc(p.id) + '">' +
+          "<span>" + esc(p.text) + "</span>" +
+          '<small>' + (copied ? "Copied" : "Tap to copy") + "</small>" +
+        "</button>" +
+        '<div class="say-tip"><b>How to say it.</b> ' + esc(tipFor(p)) + "</div>" +
+        '<div class="say-meta">' +
+          (needObj ? '<span style="color:' + needObj.color + '">' + esc(needObj.icon + " " + needObj.name) + "</span> · " : "") +
+          sourceLabels(p.sources) +
+        "</div>" +
+      "</article>";
+    }
+
+    return '<section class="panel">' +
+      '<div class="between">' + chip("Say it") +
+        btn((s.showFavs ? "All lines" : "Saved · " + favs.length), "say-favs") +
+      "</div>" +
+      "<h2>" + (s.showFavs ? "Your saved lines." : "Tap a lean and a feeling. Get a line.") + "</h2>" +
+      '<p class="muted">Listening prompts, not a label. Only say what you mean.</p>' +
+      (s.showFavs ? "" :
+        '<div class="say-step"><div class="kicker">1 · What are they leaning towards?</div>' + needRow + "</div>" +
+        '<div class="say-step"><div class="kicker">2 · How should they feel?</div>' + feelRow + "</div>" +
+        '<div class="say-step"><div class="kicker">3 · Optional moment</div>' + sitRow + "</div>"
+      ) +
+      '<div class="say-results">' + results + "</div>" +
+    "</section>";
+  }
+
   function render() {
     const root = document.getElementById("app");
     const body =
       state.tab === "identify" ? identify() :
+      state.tab === "sayit" ? sayit() :
       state.tab === "practice" ? practice() :
       state.tab === "today" ? today() : playbook();
     root.innerHTML =
       '<div class="app"><div class="shell">' + hero() + body + "</div>" +
       '<p class="footer-note">This is to make conversations easier for them, never to push people. Add it to your home screen from the browser share menu. Progress is saved on this device.</p></div>';
+  }
+
+  function loadPhrases() {
+    fetch("phrases.json")
+      .then(function (r) {
+        if (!r.ok) throw new Error("phrases " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        state.say.phrases = Array.isArray(data) ? data : [];
+        state.say.loaded = true;
+        state.say.error = false;
+        if (state.tab === "sayit") render();
+      })
+      .catch(function () {
+        state.say.loaded = true;
+        state.say.error = true;
+        if (state.tab === "sayit") render();
+      });
   }
 
   document.addEventListener("DOMContentLoaded", function () {
@@ -532,6 +945,7 @@
     const root = document.getElementById("app");
     on(root);
     render();
+    loadPhrases();
     if ("serviceWorker" in navigator) {
       navigator.serviceWorker.register("sw.js").catch(function () { /* offline optional */ });
     }

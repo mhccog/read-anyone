@@ -7,6 +7,7 @@ A habit-forming, mobile-friendly guide to grabbing attention, building genuine r
 ## What’s in it
 
 - **Identify** — a 30-second listening flow with a reveal (pace, focus, and the lean)
+- **Say it** — tap a lean and a feeling, get lines and a delivery tip (363-phrase bank, saved lines stay on this device)
 - **Practice** — scenario cards with a score, combo, XP, levels and streaks (saved in `localStorage`)
 - **Today** — a daily type, a short drill, and a real-world mission
 - **Playbook** — principles, cheat sheet, everyday examples, a four-week habit plan, myths and sources
