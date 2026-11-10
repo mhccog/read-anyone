@@ -1,0 +1,19 @@
+{
+  "name": "Read Anyone in 30 Seconds",
+  "short_name": "Read Anyone",
+  "description": "A habit-forming guide to grabbing attention, building genuine rapport, and speaking so the conversation feels easy for the other person.",
+  "id": "/read-anyone/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0D12",
+  "theme_color": "#0B0D12",
+  "lang": "en-GB",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
