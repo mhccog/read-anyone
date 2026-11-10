@@ -286,3 +286,9 @@ h1 {
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+.tip .by {
+  font-size: 0.8em;
+  opacity: 0.55;
+  white-space: nowrap;
+}

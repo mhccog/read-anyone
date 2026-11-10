@@ -174,6 +174,10 @@
     const base = p.delivery || TIPS[ids[hashStr(p.id) % ids.length]] || TIPS.pause;
     return p.ctx ? p.ctx + " " + base : base;
   }
+  function byFor(p) {
+    if (!p.deliveryBy) return "";
+    return /^Vinh/.test(p.deliveryBy) ? "Vinh" : String(p.deliveryBy).split(" (")[0];
+  }
   function matchesTeacher(p, teacher) {
     if (teacher === "mix") return true;
     return teachersOf(p).indexOf(teacher) >= 0;
@@ -251,7 +255,8 @@
       technique: techniqueFor(m.p),
       teacher: teacherLabel(teachersOf(m.p)),
       why: whyFor(m.p),
-      tip: tipFor(m.p)
+      tip: tipFor(m.p),
+      by: byFor(m.p)
     };
     state.copied = false;
     state.showFavs = false;
@@ -323,7 +328,7 @@
         (r.loose ? '<span class="tag">Wider match</span>' : "") +
       "</div>" +
       '<p class="why"><b>Why. </b>' + esc(r.why) + "</p>" +
-      '<p class="tip"><b>How to say it. </b>' + esc(r.tip) + "</p>" +
+      '<p class="tip"><b>How to say it. </b>' + esc(r.tip) + (r.by ? ' <span class="by">' + esc(r.by) + "</span>" : "") + "</p>" +
       '<div class="actions">' +
         '<button type="button" class="btn primary" data-act="copy">' + (state.copied ? "Copied" : "Copy") + "</button>" +
         '<button type="button" class="btn" data-act="generate">Another</button>' +
