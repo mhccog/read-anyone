@@ -109,11 +109,16 @@
     error: false,
     result: null,
     seen: [],
+    seenWords: [],
+    words: [],
+    word: null,
     favs: [],
     showFavs: false,
     view: "gen",
     copied: false,
     copyTimer: 0,
+    wordCopied: false,
+    wordCopyTimer: 0,
     filterKey: ""
   };
 
@@ -182,13 +187,29 @@
     if (teacher === "mix") return true;
     return teachersOf(p).indexOf(teacher) >= 0;
   }
+  function feelsLike(p, feeling) {
+    if (p.feeling === feeling) return true;
+    return Array.isArray(p.feelings) && p.feelings.indexOf(feeling) >= 0;
+  }
 
   function activePhrases() {
     return (state.phrases || []).filter(function (p) { return !p.supersededBy; });
   }
+  function activeWords() {
+    return (state.words || []).filter(function (p) { return !p.supersededBy; });
+  }
 
-  function matchList(need, feeling, sit, teacher) {
-    const pool = activePhrases();
+  function resetIfKeyChanged() {
+    const key = currentKey();
+    if (state.filterKey !== key) {
+      state.seen = [];
+      state.seenWords = [];
+      state.filterKey = key;
+    }
+  }
+
+  function matchList(need, feeling, sit, teacher, pool) {
+    pool = pool || activePhrases();
     const needId = need && need !== "any" ? need : null;
     const sitId = sit && sit !== "all" ? sit : null;
     const seen = {};
@@ -207,21 +228,21 @@
       }, loose);
     }
     const wantTeacher = teacher && teacher !== "mix";
-    withTeacher(function (p) { return p.feeling === feeling && (!needId || p.need === needId || p.need === "any") && (!sitId || p.situation === sitId); }, false, wantTeacher);
+    withTeacher(function (p) { return feelsLike(p, feeling) && (!needId || p.need === needId || p.need === "any") && (!sitId || p.situation === sitId); }, false, wantTeacher);
     if (out.length < 1 && sitId) {
-      withTeacher(function (p) { return p.feeling === feeling && (!needId || p.need === needId || p.need === "any"); }, true, wantTeacher);
+      withTeacher(function (p) { return feelsLike(p, feeling) && (!needId || p.need === needId || p.need === "any"); }, true, wantTeacher);
     }
     if (out.length < 1 && needId) {
-      withTeacher(function (p) { return p.feeling === feeling && p.need === "any"; }, true, wantTeacher);
+      withTeacher(function (p) { return feelsLike(p, feeling) && p.need === "any"; }, true, wantTeacher);
     }
     if (out.length < 1) {
-      withTeacher(function (p) { return p.feeling === feeling; }, true, wantTeacher);
+      withTeacher(function (p) { return feelsLike(p, feeling); }, true, wantTeacher);
     }
     if (out.length < 1 && needId) {
       withTeacher(function (p) { return p.need === needId; }, true, wantTeacher);
     }
     if (out.length < 1 && wantTeacher) {
-      add(function (p) { return p.feeling === feeling && (!needId || p.need === needId || p.need === "any") && (!sitId || p.situation === sitId); }, true);
+      add(function (p) { return feelsLike(p, feeling) && (!needId || p.need === needId || p.need === "any") && (!sitId || p.situation === sitId); }, true);
     }
     if (out.length < 1) add(function () { return true; }, true);
     return out;
@@ -232,11 +253,7 @@
   }
 
   function pickLine() {
-    const key = currentKey();
-    if (state.filterKey !== key) {
-      state.seen = [];
-      state.filterKey = key;
-    }
+    resetIfKeyChanged();
     const list = matchList(state.need, state.feeling, state.sit, state.teacher);
     if (!list.length) {
       state.result = null;
@@ -260,6 +277,32 @@
     };
     state.copied = false;
     state.showFavs = false;
+  }
+
+  function pickWord() {
+    resetIfKeyChanged();
+    const list = matchList(state.need, state.feeling, state.sit, state.teacher, activeWords());
+    if (!list.length) {
+      state.word = null;
+      return;
+    }
+    let choices = list.filter(function (m) { return state.seenWords.indexOf(m.p.id) < 0; });
+    if (!choices.length) {
+      state.seenWords = [];
+      choices = list;
+    }
+    const m = choices[Math.floor(Math.random() * choices.length)];
+    state.seenWords.push(m.p.id);
+    state.word = {
+      p: m.p,
+      loose: m.loose,
+      technique: techniqueFor(m.p),
+      teacher: teacherLabel(teachersOf(m.p)),
+      why: whyFor(m.p),
+      tip: tipFor(m.p),
+      by: byFor(m.p)
+    };
+    state.wordCopied = false;
   }
 
   function loadFavs() {
@@ -294,11 +337,13 @@
       document.body.removeChild(ta);
     } catch (e) { /* copy optional */ }
   }
-  function copyText(text) {
+  function copyText(text, flag) {
+    const copiedKey = flag || "copied";
+    const timerKey = copiedKey === "wordCopied" ? "wordCopyTimer" : "copyTimer";
     function done() {
-      if (state.copyTimer) clearTimeout(state.copyTimer);
-      state.copied = true;
-      state.copyTimer = setTimeout(function () { state.copied = false; render(); }, 1600);
+      if (state[timerKey]) clearTimeout(state[timerKey]);
+      state[copiedKey] = true;
+      state[timerKey] = setTimeout(function () { state[copiedKey] = false; render(); }, 1600);
       render();
     }
     if (navigator.clipboard && navigator.clipboard.writeText) {
@@ -314,6 +359,26 @@
   }
   function picker(label, chips) {
     return '<div class="picker"><span class="label">' + esc(label) + '</span><div class="picks">' + chips + "</div></div>";
+  }
+
+  function wordCard() {
+    const r = state.word;
+    if (!r) return "";
+    return '<article class="say-first">' +
+      '<p class="say-label">Say first</p>' +
+      '<p class="technique">' + esc(r.technique) + "</p>" +
+      '<p class="word">' + esc(r.p.text) + "</p>" +
+      '<div class="meta">' +
+        '<span class="tag">' + esc(r.teacher) + "</span>" +
+        (r.loose ? '<span class="tag">Wider match</span>' : "") +
+      "</div>" +
+      '<p class="why"><b>Why. </b>' + esc(r.why) + "</p>" +
+      '<p class="tip"><b>How to say it. </b>' + esc(r.tip) + (r.by ? ' <span class="by">' + esc(r.by) + "</span>" : "") + "</p>" +
+      '<div class="actions">' +
+        '<button type="button" class="btn" data-act="copy-word">' + (state.wordCopied ? "Copied" : "Copy") + "</button>" +
+        '<button type="button" class="btn" data-act="another-word">Another</button>' +
+      "</div>" +
+    "</article>";
   }
 
   function resultCard() {
@@ -401,6 +466,7 @@
     } else {
       body =
         lean + vibe + moment + teacher +
+        (state.word ? wordCard() : "") +
         (state.result ? resultCard() : '<p class="note">Listening prompts, not a label. Only say what you mean.</p>');
     }
 
@@ -408,7 +474,7 @@
       '<div><div class="kicker">Read Anyone</div><h1>Say it</h1></div>' +
       '<button type="button" class="saved-btn' + (state.showFavs ? " is-on" : "") + '" data-act="favs">Saved · ' + state.favs.length + "</button>" +
     "</div>" +
-    '<p class="lede">Pick a lean, a vibe and a moment. Get a line you can actually say.</p>' +
+    '<p class="lede">Pick a lean, a vibe and a moment. Get a word to start with, then a line you can actually say.</p>' +
     body;
   }
 
@@ -429,7 +495,10 @@
       const changed = state[act] !== val;
       state[act] = val;
       state.showFavs = false;
-      if (state.loaded && !state.error && (changed || !state.result)) pickLine();
+      if (state.loaded && !state.error && (changed || !state.result)) {
+        pickLine();
+        pickWord();
+      }
       render();
       return;
     }
@@ -441,8 +510,19 @@
       render();
       return;
     }
+    if (act === "another-word") {
+      if (!state.loaded || state.error) return;
+      state.showFavs = false;
+      pickWord();
+      render();
+      return;
+    }
     if (act === "copy") {
       if (state.result) copyText(state.result.p.text);
+      return;
+    }
+    if (act === "copy-word") {
+      if (state.word) copyText(state.word.p.text, "wordCopied");
       return;
     }
     if (act === "fav") {
@@ -505,9 +585,17 @@
       })
       .then(function (data) {
         state.phrases = Array.isArray(data) ? data : [];
+        return fetch("words.json").then(function (r) {
+          if (!r.ok) throw new Error("words " + r.status);
+          return r.json();
+        }).catch(function () { return []; });
+      })
+      .then(function (words) {
+        state.words = Array.isArray(words) ? words : [];
         state.loaded = true;
         state.error = false;
         if (!state.result) pickLine();
+        if (!state.word) pickWord();
         render();
       })
       .catch(function () {

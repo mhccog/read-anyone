@@ -1,4 +1,4 @@
-const CACHE = "read-anyone-v7";
+const CACHE = "read-anyone-v8";
 const ASSETS = [
   "./",
   "./index.html",
@@ -13,7 +13,8 @@ const ASSETS = [
   "./icon-192-maskable.png",
   "./icon-512-maskable.png",
   "./og.png",
-  "./phrases.json"
+  "./phrases.json",
+  "./words.json"
 ];
 
 self.addEventListener("install", (event) => {

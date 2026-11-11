@@ -1,6 +1,6 @@
 # Say it
 
-A simple word and sentence generator: pick a lean, a vibe, a moment and a teacher, and the line updates as you tap.
+A simple word and sentence generator: pick a lean, a vibe, a moment and a teacher, and a “Say first” word plus a line update as you tap.
 
 **Live site:** [https://mhccog.github.io/read-anyone/](https://mhccog.github.io/read-anyone/)
 

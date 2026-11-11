@@ -279,6 +279,49 @@ h1 {
 .fav-card b { display: block; font-weight: 650; line-height: 1.4; letter-spacing: -0.2px; }
 .fav-card small { display: block; margin-top: 6px; color: var(--muted); }
 
+
+.say-first {
+  margin-top: 22px;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 14px 16px 12px;
+  box-shadow: none;
+  animation: in 320ms ease;
+}
+.say-first .say-label {
+  font-size: 11px;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 650;
+  margin: 0 0 6px;
+}
+.say-first .technique {
+  margin: 0 0 8px;
+  font-size: 10px;
+  letter-spacing: 1.4px;
+}
+.say-first .word {
+  margin: 0;
+  font-size: clamp(1.15rem, 3.6vw, 1.45rem);
+  font-weight: 650;
+  line-height: 1.25;
+  letter-spacing: -0.4px;
+}
+.say-first .meta { margin-top: 12px; }
+.say-first .why, .say-first .tip {
+  margin: 10px 0 0;
+  font-size: 13px;
+  line-height: 1.45;
+}
+.say-first .actions { margin-top: 14px; }
+.say-first .btn {
+  min-height: 36px;
+  padding: 7px 14px;
+  font-size: 13px;
+}
+.say-first + .result { margin-top: 14px; }
 @keyframes in {
   from { opacity: 0; transform: translateY(8px); }
   to { opacity: 1; transform: translateY(0); }
