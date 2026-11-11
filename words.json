@@ -2189,5 +2189,2987 @@
       "appreciated",
       "liked"
     ]
+  },
+  {
+    "id": "w126",
+    "text": "Tell me.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "'Tell me more?'",
+    "why": "Opening with an invitation to talk shows you came to listen, not to perform.",
+    "delivery": "Keep \"Tell me.\" low and open, then stop completely so they can take the floor.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w127",
+    "text": "I'm here.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "Two quiet words can start a chat by offering your attention, not a speech.",
+    "delivery": "Say \"I'm here.\" softly and still, and let the pause after it do the welcoming.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w128",
+    "text": "Go on.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Small-talk loop",
+    "why": "A short react, then the floor: an unhurried “Go on” opens by letting them start.",
+    "delivery": "Tip your chin slightly and say \"Go on.\" slower than the room, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w129",
+    "text": "With you.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Name it, don't calm it",
+    "why": "A short “With you” shows you have heard them, without telling them to calm down.",
+    "delivery": "Let \"With you.\" fall gently and hold a beat; do not rush your own view in after it.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w130",
+    "text": "I hear.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "Two plain words, without judgment, are often what someone needs before anything else.",
+    "delivery": "Keep \"I hear.\" level and unhurried, and leave the next breath empty.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w131",
+    "text": "I heard.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Graceful exit",
+    "why": "Closing on “I heard” leaves them feeling the conversation actually landed.",
+    "delivery": "Slow both words, especially \"heard\", and look at them as your pitch settles.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w132",
+    "text": "Heard.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "One clear word at the end can tell them what mattered was taken in, then you go.",
+    "delivery": "Land \"Heard.\" low and complete, then leave; do not add a summary on top.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w133",
+    "text": "Got it.",
+    "need": "any",
+    "feeling": "heard",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "A plain close that says you were listening, without turning the ending into a speech.",
+    "delivery": "Let \"Got it.\" drop like a full stop, a little quieter than the chat you just had.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w134",
+    "text": "I see.",
+    "need": "any",
+    "feeling": "understood",
+    "situation": "opener",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "A calm “I see” can open by showing you are already taking them seriously.",
+    "delivery": "Say \"I see.\" slowly, pitch falling, as a real start, not a brush-off.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w135",
+    "text": "Right.",
+    "need": "any",
+    "feeling": "understood",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Reflect their word",
+    "why": "A steady “Right” gathers you both, then you can ask for the next layer.",
+    "delivery": "Nod once on \"Right.\" and hold a short silence before you go on.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w136",
+    "text": "Got you.",
+    "need": "any",
+    "feeling": "understood",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Verbal mirror",
+    "why": "Two everyday words can open by showing you already have the gist.",
+    "delivery": "Keep \"Got you.\" plain and warm, then pause so they can correct or continue.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w137",
+    "text": "Makes sense.",
+    "need": "any",
+    "feeling": "understood",
+    "situation": "rapport",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "A clear “Makes sense” tells them you followed the point, not just the tone.",
+    "delivery": "Give both words equal time and let the second one fall, then hand the floor back.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w138",
+    "text": "I see.",
+    "need": "any",
+    "feeling": "understood",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Reflect their word",
+    "why": "Ending on “I see” leaves their meaning standing, instead of over-explaining.",
+    "delivery": "Soften \"I see.\" and let it finish fully before you say goodbye.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w139",
+    "text": "Understood.",
+    "need": "any",
+    "feeling": "understood",
+    "situation": "close",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "One competent, warm word can close a serious chat without a long recap.",
+    "delivery": "Take a breath, then say \"Understood.\" lower and slower, and stop there.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w140",
+    "text": "Got you.",
+    "need": "any",
+    "feeling": "understood",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "A short, plain close that shows you took their meaning with you.",
+    "delivery": "Keep \"Got you.\" even and kind, with your pitch down, then actually go.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w141",
+    "text": "At ease.",
+    "need": "any",
+    "feeling": "comfortable",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "At ease, not impressive",
+    "why": "Two words that keep the chat relaxed, so they do not have to perform either.",
+    "delivery": "Smile a little and let \"At ease.\" come out slower and softer than the room.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w142",
+    "text": "Easy now.",
+    "need": "any",
+    "feeling": "comfortable",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "A gentle “Easy now” can bring rushed energy down once you have matched their pace.",
+    "delivery": "Say \"Easy now.\" at their volume, stretching it, then stay there a moment.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w143",
+    "text": "No rush.",
+    "need": "any",
+    "feeling": "comfortable",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A plain “No rush” gives the conversation room to breathe.",
+    "delivery": "Keep \"No rush.\" flat and friendly, and do not speed up after you say it.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w144",
+    "text": "All good.",
+    "need": "any",
+    "feeling": "comfortable",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Shared mission",
+    "why": "A warm “All good” can lower the temperature without dismissing what they said.",
+    "delivery": "Let \"All good.\" be slow and open; it only works if your face stays kind after it.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w145",
+    "text": "It's ok.",
+    "need": "any",
+    "feeling": "comfortable",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Match their pace with a soft “It's ok”, then lead only once the room has settled.",
+    "delivery": "Keep \"It's ok.\" quiet and even, and leave a full beat before anything else.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w146",
+    "text": "No rush.",
+    "need": "any",
+    "feeling": "comfortable",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Resonate before you redirect",
+    "why": "A steady “No rush” shows you are not here to win the moment.",
+    "delivery": "Plant your feet and say \"No rush.\" lower than the disagreement, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w147",
+    "text": "Hey there.",
+    "need": "any",
+    "feeling": "liked",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Opening one-liner",
+    "why": "A simple, friendly “Hey there” is enough warmth to start; then one real question.",
+    "delivery": "Smile first, say \"Hey there.\" a little slower than usual, and wait.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w148",
+    "text": "Me too.",
+    "need": "any",
+    "feeling": "liked",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Yes, and",
+    "why": "A sincere “Me too” builds on what they said, instead of topping it.",
+    "delivery": "Lift \"Me too.\" just a little, then stop so they can enjoy the match.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w149",
+    "text": "Likewise.",
+    "need": "any",
+    "feeling": "liked",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere reaction",
+    "why": "One honest word of fellow-feeling, only if it is true.",
+    "delivery": "Say \"Likewise.\" warmly and let it fall; do not dress it up if you do not mean it.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w150",
+    "text": "Still here.",
+    "need": "any",
+    "feeling": "liked",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Attunement",
+    "why": "Even in a hard moment, a quiet “Still here” can tell them you have not pulled away.",
+    "delivery": "Soften \"Still here.\" and keep your body turned towards them as it lands.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w151",
+    "text": "With you.",
+    "need": "any",
+    "feeling": "liked",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Yes, and",
+    "why": "Stay on their side of the feeling, even if you do not yet share the conclusion.",
+    "delivery": "Keep \"With you.\" warm and short, then breathe before you add anything.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w152",
+    "text": "I'm here.",
+    "need": "any",
+    "feeling": "liked",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "Two plain words of presence, without a performance, can keep the warmth in the room.",
+    "delivery": "Say \"I'm here.\" quietly, pitch down, and do not follow it with a defence.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w153",
+    "text": "Mean it.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "rapport",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "A short, sincere “Mean it” is better than a padded promise.",
+    "delivery": "Slow \"Mean it.\" and let the last word fall, looking at them as you finish.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w154",
+    "text": "Straight up.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Spark, Point, Link",
+    "why": "Plain talk, said calmly, helps people trust the next thing you say.",
+    "delivery": "Keep \"Straight up.\" even and unhurried; no grin that undercuts it.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w155",
+    "text": "Straight.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "Cut the hedge. One steady word can tell them you will be direct.",
+    "delivery": "Stand still and let \"Straight.\" land low, then say the true thing.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w156",
+    "text": "Truly.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "A genuine “Truly” can hold a hard point without turning it into a fight.",
+    "delivery": "Let \"Truly.\" be low and slow, then talk about the situation, not them.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w157",
+    "text": "Mean it.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "End on a promise only if you will keep it; two plain words are enough.",
+    "delivery": "Look at them and say \"Mean it.\" slowly, then go, without adding a flourish.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w158",
+    "text": "Truly.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Spark, Point, Link",
+    "why": "A calm “Truly” at the start signals you will say only what you mean.",
+    "delivery": "Let \"Truly.\" come out low and unhurried, then begin with the true thing.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w159",
+    "text": "Honestly.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Break the script",
+    "why": "Said as a real stand, not as a filler hedge, it can reset a tense exchange.",
+    "delivery": "Keep \"Honestly.\" even and slow; if you do not mean the next line, do not say this.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w160",
+    "text": "Straight.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "One unpadded word can hold a disagreement in the honest register.",
+    "delivery": "Plant your feet and let \"Straight.\" land, then say the actual point.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w161",
+    "text": "Truly.",
+    "need": "any",
+    "feeling": "trusted",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Signal liking",
+    "why": "End with a word you mean, if you enjoyed them; people often liked you more than you think.",
+    "delivery": "Slow \"Truly.\" and let it fall, like a warm full stop, then go.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w162",
+    "text": "Hello.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "opener",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm hello",
+    "why": "An unhurried, slightly more formal hello can offer respect from the first word.",
+    "delivery": "Give \"Hello.\" more time than a throwaway hi, with a real look, then pause.",
+    "deliveryBy": "Van Edwards (Cues ch8)"
+  },
+  {
+    "id": "w163",
+    "text": "Hello.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Good-morning rep",
+    "why": "A clear, present hello, not tossed away as you walk in, treats them as worth the beat.",
+    "delivery": "Stand still for \"Hello.\" and let it be full-voiced but not loud, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w164",
+    "text": "Hello.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A plain, composed hello is enough; you do not need a big entrance.",
+    "delivery": "Say \"Hello.\" a little slower than the room, pitch down, and leave a small gap.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w165",
+    "text": "Well said.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "rapport",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "A specific “Well said” respects the point they just made, not a vague compliment.",
+    "delivery": "Lean slightly into \"Well said.\" and let it fall, then give them room again.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w166",
+    "text": "Well said.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "Give their point its due in two words, then let them keep talking.",
+    "delivery": "Nod on \"Well said.\" and hold two seconds after it, even if it feels long.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w167",
+    "text": "Well said.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Verbal mirror",
+    "why": "A short respect for the theme they just named, then the floor stays theirs.",
+    "delivery": "Keep \"Well said.\" at their pace, with a slow nod, and leave the next move to them.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w168",
+    "text": "Well said.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "close",
+    "sources": [
+      "CAP"
+    ],
+    "technique": "Appreciation Matrix",
+    "why": "Leaving on a precise kindness, then going, is a respectful way to end.",
+    "delivery": "Slow \"Well said.\" and look at them as it lands, then actually leave.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w169",
+    "text": "Respect.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "One sincere word of respect, given fully, is a stronger close than a long compliment.",
+    "delivery": "Let \"Respect.\" be warm and complete, with a falling pitch, then stop talking.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w170",
+    "text": "Respect.",
+    "need": "any",
+    "feeling": "respected",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Gratitude and enjoyment",
+    "why": "A plain “Respect”, if you mean it, is magnetic and needs no extra flourish.",
+    "delivery": "Keep \"Respect.\" steady and unhurried, then go while it still feels meant.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w171",
+    "text": "All good.",
+    "need": "any",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm hello",
+    "why": "A light “All good” can put someone at ease before you ask anything of them.",
+    "delivery": "Smile and keep \"All good.\" easy, not chirpy, then give them a beat.",
+    "deliveryBy": "Van Edwards (Cues ch8)"
+  },
+  {
+    "id": "w172",
+    "text": "It's ok.",
+    "need": "any",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A steady “It's ok” at the start can take the rush out of the room.",
+    "delivery": "Say \"It's ok.\" once, calmly, and do not pile a nervous extra line after it.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w173",
+    "text": "All good.",
+    "need": "any",
+    "feeling": "reassured",
+    "situation": "rapport",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "A clear, warm “All good” can settle someone who is checking they are on solid ground.",
+    "delivery": "Keep \"All good.\" even and kind, with your pitch down, then stay with them.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w174",
+    "text": "It's ok.",
+    "need": "any",
+    "feeling": "reassured",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Match a worried pace with a soft “It's ok”, and only then lead the energy up.",
+    "delivery": "Drop \"It's ok.\" to their volume and stretch it slightly, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w175",
+    "text": "No rush.",
+    "need": "any",
+    "feeling": "reassured",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "Two plain words can reassure without making a speech about it.",
+    "delivery": "Let \"No rush.\" sit low and still; do not fill the silence that follows.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w176",
+    "text": "All good.",
+    "need": "any",
+    "feeling": "reassured",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Resonate before you redirect",
+    "why": "A calm “All good” can hold the person steady before you talk about the difference.",
+    "delivery": "Nod and let \"All good.\" finish, fully, before you change direction at all.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w177",
+    "text": "Take care.",
+    "need": "any",
+    "feeling": "reassured",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Close with real warmth, not a faded goodbye, so they leave feeling looked after.",
+    "delivery": "Slow \"Take care.\" and let \"care\" fall, then go without trailing off.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w178",
+    "text": "With us.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Be a connector",
+    "why": "Two words that make room, so they are in the we, not at the edge.",
+    "delivery": "Turn slightly open as you say \"With us.\" and actually shift to include them.",
+    "deliveryBy": "Van Edwards (Cues ch8)"
+  },
+  {
+    "id": "w179",
+    "text": "Join in.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A light “Join in” hands them a way into the thread, without putting them on the spot.",
+    "delivery": "Keep \"Join in.\" bright but soft, then leave a gap for them to step into.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w180",
+    "text": "This way.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Introduce people",
+    "why": "A simple “This way” can pull someone into the group around something shared.",
+    "delivery": "Say \"This way.\" plainly, with an open hand, and then make the space real.",
+    "deliveryBy": "Vinh Giang (BWF ch10)"
+  },
+  {
+    "id": "w181",
+    "text": "We're ok.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Shared mission",
+    "why": "A quiet “We're ok” can pull a disagreement back onto the same side of the problem.",
+    "delivery": "Soften \"We're ok.\" and let it fall; do not use it to paper over a real difference.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w182",
+    "text": "Together.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Yes, and",
+    "why": "One word that keeps you in the same “and”, instead of an “us versus you”.",
+    "delivery": "Slow \"Together.\" and keep it low, like a reminder, not a slogan.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w183",
+    "text": "Same side.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Resonate before you redirect",
+    "why": "Two words that put you in their river first, before you offer another view.",
+    "delivery": "Keep \"Same side.\" steady and unhurried, then pause before any contrast.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w184",
+    "text": "In touch.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A warm “In touch” is a future cue that they are still part of the we.",
+    "delivery": "Lift \"In touch.\" slightly, then stop; do not tack on a long goodbye.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w185",
+    "text": "See you.",
+    "need": "any",
+    "feeling": "included",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Gratitude and enjoyment",
+    "why": "A plain “See you” keeps the door open without a performance.",
+    "delivery": "Say \"See you.\" clearly and kindly, then actually leave on that note.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w186",
+    "text": "You.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "opener",
+    "sources": [
+      "CAP"
+    ],
+    "technique": "Name Game",
+    "why": "A quiet, specific “you”, clearly about them, can make someone feel kindly picked out.",
+    "delivery": "Say \"You.\" softly, with a small nod towards them, and do not let it sound sharp.",
+    "deliveryBy": "Vinh Giang (BWF ch13)"
+  },
+  {
+    "id": "w187",
+    "text": "You.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Their presence, named in one warm word, can turn a hello into real attention.",
+    "delivery": "Lift \"You.\" slightly and smile into it, then leave a small gap so it can land.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w188",
+    "text": "It matters.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "'You're so…!'",
+    "why": "Name that this matters, if it does, instead of a vague “amazing”.",
+    "delivery": "Slow both words and let \"matters\" fall; keep the volume sincere, not theatrical.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w189",
+    "text": "This does.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Name the stakes",
+    "why": "A short “This does” can mark that what they just said is worth lingering on.",
+    "delivery": "Lean in a little on \"This does.\" and then stay quiet so they can go deeper.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w190",
+    "text": "It matters.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Make them feel interesting",
+    "why": "Two words that put the weight on their story, not on how impressive you sound.",
+    "delivery": "Keep \"It matters.\" low and plain, then give the floor straight back.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w191",
+    "text": "It does.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Shared mission",
+    "why": "Agree that the thing itself matters, even if you differ on what to do next.",
+    "delivery": "Nod and let \"It does.\" stand alone for a beat before you go on.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w192",
+    "text": "It matters.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "Name the importance of the situation, not as a way to win the person over.",
+    "delivery": "Say \"It matters.\" slowly and low, then talk about the situation itself.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w193",
+    "text": "It does.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Resonate before you redirect",
+    "why": "Get into their river first: “It does” agrees with the weight, before any redirect.",
+    "delivery": "Let \"It does.\" finish fully, pitch down, before you offer another view.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w194",
+    "text": "Thank you.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Graceful exit",
+    "why": "A full “Thank you”, aimed at them, makes the goodbye personal.",
+    "delivery": "Look at them, slow both words, and let your pitch settle on \"you\".",
+    "deliveryBy": "Vinh Giang (BWF ch13)"
+  },
+  {
+    "id": "w195",
+    "text": "Thank you.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Give the thanks the same life you would give a hello, not a muttered exit.",
+    "delivery": "Put warmth into \"Thank you.\" and let it land fully, then go.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w196",
+    "text": "Thank you.",
+    "need": "any",
+    "feeling": "important",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Gratitude and enjoyment",
+    "why": "Interpersonal gratitude, said simply to them, is enough of an ending.",
+    "delivery": "Say \"Thank you.\" slowly, as if you have time for both words, then leave.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w197",
+    "text": "Your take?",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Ask for their take",
+    "why": "Skip the fanfare and ask for their view on something real, from the start.",
+    "delivery": "Let \"Your take?\" rise gently, then wait; it should sound like a real invitation.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w198",
+    "text": "Thoughts?",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "What this chat is for",
+    "why": "One word can open by asking what they make of it, and meaning it.",
+    "delivery": "Keep \"Thoughts?\" light and upward, then leave the silence for them.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w199",
+    "text": "Your take?",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Opening one-liner",
+    "why": "“What's your take on all this?” lives in two words: a plain ask, then you listen.",
+    "delivery": "Ask \"Your take?\" at an easy volume and stop; do not answer it for them.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w200",
+    "text": "How so?",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Three follow-ups",
+    "why": "A warm “How so?” asks for the next layer of their thinking, not a debate.",
+    "delivery": "Tilt your head and keep \"How so?\" soft; wait longer than feels polite.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w201",
+    "text": "Say more.",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Make them feel interesting",
+    "why": "Two words that treat their idea as worth hearing in full.",
+    "delivery": "Soften \"Say more.\" and keep your body still, then do not interrupt the answer.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w202",
+    "text": "How so?",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Curious, not doubtful",
+    "why": "Curious before critical: a genuine “How so?” buys a kind pause instead of a snap.",
+    "delivery": "Keep \"How so?\" low and open, never sharp, and then stay quiet.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w203",
+    "text": "Which part?",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "Ask which part of the situation is the snag, rather than arguing with them.",
+    "delivery": "Let \"Which part?\" be even and calm, then wait for them to choose the bit.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w204",
+    "text": "Which part?",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Honest objection handling",
+    "why": "A sincere “Which part?” finds the real worry, instead of talking over it.",
+    "delivery": "Say \"Which part?\" once, plainly, and leave the silence for their answer.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w205",
+    "text": "Good point.",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Ask for their take",
+    "why": "Leave them with credit for the thought, then go; do not snatch the last word.",
+    "delivery": "Give \"Good point.\" a falling pitch and a small nod, then end there.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w206",
+    "text": "Good point.",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Spark, Point, Link",
+    "why": "Land on their point, clearly, then stop — people remember the ending.",
+    "delivery": "Slow \"Good point.\" and let it feel like a full stop, not a lead-in to your idea.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w207",
+    "text": "Noted.",
+    "need": "any",
+    "feeling": "smart",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A respectful, unfussy “Noted” can close a thoughtful chat without circling.",
+    "delivery": "Keep \"Noted.\" low and even, then actually stop talking.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w208",
+    "text": "After you.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "At ease, not impressive",
+    "why": "Two words that give them the first move, and take the pressure off the start.",
+    "delivery": "Open a hand and say \"After you.\" lightly, then wait without filling the gap.",
+    "deliveryBy": "Vinh Giang (BWF ch10)"
+  },
+  {
+    "id": "w209",
+    "text": "You lead.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Let them set the pace from the first moment; you can follow, then catch up later.",
+    "delivery": "Keep \"You lead.\" easy and downward, and then really let them start.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w210",
+    "text": "You first.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A short “You first” hands them the say, right at the beginning.",
+    "delivery": "Say \"You first.\" plainly, then stay quiet long enough for them to take it.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w211",
+    "text": "Your pace.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Clear, kind ask",
+    "why": "Leave the timing with them, clearly, so the chat does not feel pushed.",
+    "delivery": "Soften \"Your pace.\" and let it fall, then match whatever speed they choose.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w212",
+    "text": "You lead.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "A mid-chat “You lead” keeps them in charge of where the talk goes next.",
+    "delivery": "Keep \"You lead.\" light, then follow their thread instead of yanking a new one.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w213",
+    "text": "Whenever.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "One word that leaves the next step with them, without a speech about options.",
+    "delivery": "Let \"Whenever.\" be light and falling, and do not add a deadline after it.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w214",
+    "text": "Your call.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Clear, kind ask",
+    "why": "After you have both spoken, hand the decision back in two short words.",
+    "delivery": "Hand it back with a calm \"Your call.\" and stop there; do not argue for one option.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w215",
+    "text": "You decide.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "A calm “You decide” leads by giving the choice away, not by pushing harder.",
+    "delivery": "Say \"You decide.\" slowly, pitch down, and then be quiet.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w216",
+    "text": "Fair enough.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Golden bridge",
+    "why": "Two words that let them keep their dignity, and the say, in a tight moment.",
+    "delivery": "Give \"Fair enough.\" a little space around it, as a concession you mean.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w217",
+    "text": "Your call.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Graceful exit",
+    "why": "End by leaving the next step with them, then go — a clean, kind close.",
+    "delivery": "Let \"Your call.\" fall like a full stop, and do not reopen the chat.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w218",
+    "text": "You decide.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Spark, Point, Link",
+    "why": "Land one clear hand-off, then stop talking so the choice stays theirs.",
+    "delivery": "Keep \"You decide.\" steady and complete, then actually leave the pause empty.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w219",
+    "text": "Whenever.",
+    "need": "any",
+    "feeling": "control",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A composed “Whenever” closes the timing without circling or pressure.",
+    "delivery": "Say \"Whenever.\" lightly and go; do not tack on one last nudge.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w220",
+    "text": "Hi again.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "opener",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm hello",
+    "why": "A gentle “Hi again” can reopen a door without pretending nothing happened.",
+    "delivery": "Keep \"Hi again.\" warm and a little slower than a first hello, then wait.",
+    "deliveryBy": "Van Edwards (Cues ch8)"
+  },
+  {
+    "id": "w221",
+    "text": "Shall we?",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "A light “Shall we?” invites a fresh start at their pace, not a forced reset.",
+    "delivery": "Let \"Shall we?\" rise kindly, then wait for a yes in their face.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w222",
+    "text": "Here goes.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A plain “Here goes” starts again without a big speech about the past.",
+    "delivery": "Say \"Here goes.\" evenly, then begin; do not over-explain the restart.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w223",
+    "text": "We're good.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Shared mission",
+    "why": "Two words that can name a repair, if it is true, and put you back on the same side.",
+    "delivery": "Let \"We're good.\" be quiet and sure, not chirpy, then carry on together.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w224",
+    "text": "All good.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Yes, and",
+    "why": "A sincere “All good” builds on the repair instead of re-litigating it.",
+    "delivery": "Keep \"All good.\" low and warm, and do not reopen the old point.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w225",
+    "text": "It's ok.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Golden bridge",
+    "why": "A steady “It's ok” can let someone back in without making them lose face.",
+    "delivery": "Say \"It's ok.\" slowly and mean it; then leave a little room.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w226",
+    "text": "We're good.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "Remind you both that the person is not the problem, even while the situation is.",
+    "delivery": "Soften \"We're good.\" and keep it separate from the point you still need to work.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w227",
+    "text": "We're good.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Graceful exit",
+    "why": "Leave on a repaired note, then go, so the ending is warm and deliberate.",
+    "delivery": "Slow \"We're good.\" and let it settle, then actually leave.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w228",
+    "text": "All good.",
+    "need": "any",
+    "feeling": "reconciled",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Golden bridge",
+    "why": "A plain, composed close that lets both of you walk away with dignity.",
+    "delivery": "Keep \"All good.\" even and unhurried, then go while it still feels true.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w229",
+    "text": "Nice one.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Awe",
+    "why": "If you noticed something kind already, a simple “Nice one” says it early and means it.",
+    "delivery": "Smile and keep \"Nice one.\" light and specific-feeling, then move into the chat.",
+    "deliveryBy": "Van Edwards (Cues ch8)"
+  },
+  {
+    "id": "w230",
+    "text": "Lovely.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A little honest warmth at the start can make someone feel enjoyed, not assessed.",
+    "delivery": "Warm your face first so \"Lovely.\" comes out soft, not sugary.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w231",
+    "text": "Nice one.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere compliment",
+    "why": "Compliment freely, briefly, and never as a setup for a favour.",
+    "delivery": "Give \"Nice one.\" a real beat, pitch falling, and leave it there.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w232",
+    "text": "Nice one.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Share wins humbly",
+    "why": "Meet their win with a short, human “Nice one”, then let them have the moment.",
+    "delivery": "Brighten \"Nice one.\" a little, then stop so you do not take the story over.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w233",
+    "text": "Well done.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere compliment",
+    "why": "A specific, unfussy “Well done”, only if it is true, beats a grand compliment.",
+    "delivery": "Give both words equal time, settling on \"done\", and do not tack on a request.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w234",
+    "text": "Appreciate that.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Shared mission",
+    "why": "Thank them for the honesty, even when you do not yet agree with the conclusion.",
+    "delivery": "Slow \"Appreciate that.\" and let it stand before you speak to the difference.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w235",
+    "text": "Appreciate that.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "Appreciate the person and the effort, then talk about the situation itself.",
+    "delivery": "Keep \"Appreciate that.\" warm and complete; do not use it as a runway to a but.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w236",
+    "text": "Appreciate that.",
+    "need": "any",
+    "feeling": "appreciated",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Gratitude and enjoyment",
+    "why": "Two words of thanks in a tight moment can keep the respect in the room.",
+    "delivery": "Look at them and say \"Appreciate that.\" slowly, then pause.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w237",
+    "text": "Really?",
+    "need": "any",
+    "feeling": "curious",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Learn one new thing",
+    "why": "A genuine “Really?” aims to learn one new thing, not to challenge them.",
+    "delivery": "Let \"Really?\" lift with real interest, then hold the pause; it should never sound like a test.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w238",
+    "text": "Oh?",
+    "need": "any",
+    "feeling": "curious",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Curious, not doubtful",
+    "why": "A soft “Oh?” stays curious when you could have gone critical.",
+    "delivery": "Let \"Oh?\" be small and slightly higher, then pause to hear the rest.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w239",
+    "text": "How so?",
+    "need": "any",
+    "feeling": "curious",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere 'teach me'",
+    "why": "Ask them to walk you through it, and mean it, instead of pushing back at once.",
+    "delivery": "Keep \"How so?\" quiet and upward, then stay silent for a real answer.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w240",
+    "text": "Next time.",
+    "need": "any",
+    "feeling": "curious",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Graceful exit",
+    "why": "A future cue with a little curiosity in it, then you go.",
+    "delivery": "Lift \"Next time.\" slightly, then stop; do not drag the goodbye out.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w241",
+    "text": "More soon.",
+    "need": "any",
+    "feeling": "curious",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Pull the thread",
+    "why": "Leave one thread hanging kindly, so there is a reason to pick it up later.",
+    "delivery": "Warm \"More soon.\" and let it trail just a little, then actually leave.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w242",
+    "text": "Until then.",
+    "need": "any",
+    "feeling": "curious",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Gratitude and enjoyment",
+    "why": "A plain future cue, then you go — conversations rarely end when both people want them to.",
+    "delivery": "Let \"Until then.\" fall gently, and hold still for a second after it.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w243",
+    "text": "Nice work.",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere compliment",
+    "why": "Name the work, not a type of person: a brief, real compliment, then a question.",
+    "delivery": "Give \"Nice work.\" a considered pace, then stop so it does not sound automatic.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w244",
+    "text": "This!",
+    "need": "significance",
+    "feeling": "important",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Opening one-liner",
+    "why": "A short, genuine spark aimed at the thing they have built or just pointed to.",
+    "delivery": "Let \"This!\" be bright and brief, with your face already on the thing, then ask.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w245",
+    "text": "Nice work.",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Share wins humbly",
+    "why": "Meet the impact with a short “Nice work”, then let them tell you how it came together.",
+    "delivery": "Keep \"Nice work.\" warm and unhurried, then hand the story back to them.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w246",
+    "text": "Wow.",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Name the stakes",
+    "why": "A quieter wow, if you mean it, names the scale of what they just described.",
+    "delivery": "Let \"Wow.\" sit a little lower and longer than a cheer, then go still.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w247",
+    "text": "That's real.",
+    "need": "significance",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Shared mission",
+    "why": "Affirm the real impact they pointed to, before you differ on what happens next.",
+    "delivery": "Slow \"That's real.\" and let it land, then pause before any contrast.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w248",
+    "text": "It does.",
+    "need": "significance",
+    "feeling": "important",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Awe",
+    "why": "Agree that the impact is real, in two short words, without vague praise.",
+    "delivery": "Nod and let \"It does.\" fall; do not rush to shrink or inflate it.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w249",
+    "text": "That's real.",
+    "need": "significance",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "Speak to the real thing in the situation, not to a label about them.",
+    "delivery": "Keep \"That's real.\" low and even, then talk about the work, not the person.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w250",
+    "text": "It matters.",
+    "need": "significance",
+    "feeling": "important",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Name the stakes",
+    "why": "Name the stakes they just pointed to, then you can differ on the path.",
+    "delivery": "Lean into \"It matters.\" slowly, and leave a beat before your view.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w251",
+    "text": "Point taken.",
+    "need": "significance",
+    "feeling": "respected",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Resonate before you redirect",
+    "why": "Take in the weight of what they built or argued, before you redirect.",
+    "delivery": "Let \"Point taken.\" be complete and unhurried, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w252",
+    "text": "That's real.",
+    "need": "significance",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "A plain acknowledgement of the impact, without judgment or a counter-punch.",
+    "delivery": "Say \"That's real.\" once, clearly, and do not undercut it with a grin.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w253",
+    "text": "Nice work.",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Share wins humbly",
+    "why": "Leave them with credit for the work, then go; do not take the last of the story.",
+    "delivery": "Warm \"Nice work.\" and let it finish, then actually leave.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w254",
+    "text": "Hats off.",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A short, human close that points at what they did, if you mean it.",
+    "delivery": "Give \"Hats off.\" a little life and a falling pitch, then stop.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w255",
+    "text": "Wow!",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "'You're so…!'",
+    "why": "Be easily impressed by the thing they built, and say so, if you mean it.",
+    "delivery": "Let \"Wow!\" be slightly brighter than your last words, with your face already showing it.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w256",
+    "text": "Impressive.",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Name the stakes",
+    "why": "Name the impact you can actually see, not a vague “amazing”.",
+    "delivery": "Slow \"Impressive.\" and let it fall, looking at the work, so it sounds considered.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w257",
+    "text": "Congrats!",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Dreambuilding",
+    "why": "Leave them with a real congratulations on the win or the goal, then go.",
+    "delivery": "Let \"Congrats!\" be bright and a little slower than usual, so it sounds meant.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w258",
+    "text": "Well done.",
+    "need": "significance",
+    "feeling": "appreciated",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere compliment",
+    "why": "Specific credit for the work, then you listen again.",
+    "delivery": "Give both words time, and do not follow them with a favour.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w259",
+    "text": "Good start.",
+    "need": "approval",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Priming words",
+    "why": "A specific, early “Good start” is clearer than vague praise, if it is true.",
+    "delivery": "Keep \"Good start.\" warm and sure, then ask one real follow-up.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w260",
+    "text": "Yes.",
+    "need": "approval",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "A clear yes, at the beginning, can settle someone who is checking they are doing all right.",
+    "delivery": "Offer one clear \"Yes.\" with a falling pitch, and resist a second, nervous yes.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w261",
+    "text": "Good start.",
+    "need": "approval",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A little energy in a specific “Good start” helps them feel on solid ground.",
+    "delivery": "Brighten \"Good start.\" slightly, then pause so it can land.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w262",
+    "text": "Yes.",
+    "need": "approval",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Match their need for a clear signal with one calm yes, then lead gently on.",
+    "delivery": "Keep \"Yes.\" level and kind, at their volume, then continue unhurried.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w263",
+    "text": "Good start.",
+    "need": "approval",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere compliment",
+    "why": "Specific validation: what was good, in two words, never as flattery.",
+    "delivery": "Let \"Good start.\" be plain and meant, then ask something small.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w264",
+    "text": "Yes.",
+    "need": "approval",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "Cut the hedge. A steady yes is enough of a start for someone checking they are ok.",
+    "delivery": "Plant your feet and say \"Yes.\" once, clearly, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w265",
+    "text": "Spot on.",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Reflect their word",
+    "why": "A clear “Spot on” gives back the part that was right, specifically.",
+    "delivery": "Hit \"Spot on.\" with a small nod and a falling pitch, then let them go on.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w266",
+    "text": "Well said.",
+    "need": "approval",
+    "feeling": "respected",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "Specific validation of the wording they just found, then you keep listening.",
+    "delivery": "Slow \"Well said.\" and leave a beat, so it does not feel like a pat on the head.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w267",
+    "text": "Spot on.",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "CAP"
+    ],
+    "technique": "Thread Theory",
+    "why": "Agree clearly with the part you share, before you touch the part you do not.",
+    "delivery": "Keep \"Spot on.\" firm but not loud, then name which bit you mean if you go on.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w268",
+    "text": "Exactly.",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Yes, and",
+    "why": "Build on the part that is exact; “but” would wipe out what you just affirmed.",
+    "delivery": "Land \"Exactly.\" and take a breath before anything else.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w269",
+    "text": "True.",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Yes, and",
+    "why": "A sincere “True” validates the accurate piece, then you can add yours.",
+    "delivery": "Let \"True.\" fall quietly, and do not rush a contrast into the same breath.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w270",
+    "text": "Exactly.",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Resonate before you redirect",
+    "why": "Get into their river first with a clear exactly, then offer another view if you need to.",
+    "delivery": "Nod and let \"Exactly.\" sit, finished, before you change direction.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w271",
+    "text": "True.",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Verbal mirror",
+    "why": "Give the true part back in one word, then pause.",
+    "delivery": "Keep \"True.\" at their pace, then leave the next move to them for a beat.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w272",
+    "text": "Grateful.",
+    "need": "approval",
+    "feeling": "appreciated",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "One sincere word of thanks, said fully, can land more than a long compliment.",
+    "delivery": "Breathe, then let \"Grateful.\" come out lower and slower than the chat you just had.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w273",
+    "text": "Thank you.",
+    "need": "approval",
+    "feeling": "appreciated",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Close with a clear thank you for the specific thing they offered.",
+    "delivery": "Warm both words and look at them as \"you\" settles, then go.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w274",
+    "text": "Exactly!",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "opener",
+    "sources": [
+      "CAP"
+    ],
+    "technique": "Thread Theory",
+    "why": "If they have just got something right, a clear exactly is better than vague praise.",
+    "delivery": "Keep \"Exactly!\" warm, not loud, and then ask one follow-up.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w275",
+    "text": "Spot on.",
+    "need": "approval",
+    "feeling": "understood",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A precise close that names the bit that was right, then you go.",
+    "delivery": "Let \"Spot on.\" fall clearly, and do not add a long recap.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w276",
+    "text": "Welcome!",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A warm welcome, with a little life in it, makes room at the start.",
+    "delivery": "Open your palms a little on \"Welcome!\" and keep the word soft rather than formal.",
+    "deliveryBy": "Vinh Giang (BWF ch10)"
+  },
+  {
+    "id": "w277",
+    "text": "This way.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Two words and a turn of the body can bring someone in from the edge.",
+    "delivery": "Say \"This way.\" lightly and actually make the space as you speak.",
+    "deliveryBy": "Vinh Giang (BWF ch10)"
+  },
+  {
+    "id": "w278",
+    "text": "Come in.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Opening one-liner",
+    "why": "A plain “Come in” is enough to make room; then one real question.",
+    "delivery": "Keep \"Come in.\" unhurried and low, and turn your body towards them.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w279",
+    "text": "Join us.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Introduce people",
+    "why": "Two words that put them in the we, around whatever is already happening.",
+    "delivery": "Say \"Join us.\" openly, then introduce the thread they are walking into.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w280",
+    "text": "Me too.",
+    "need": "acceptance",
+    "feeling": "liked",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Use their words",
+    "why": "A sincere “Me too”, in their terms, makes shared ground without a speech.",
+    "delivery": "Keep \"Me too.\" simple and warm, then let them enjoy the overlap.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w281",
+    "text": "Together.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "One word that puts them in the we, when you genuinely mean it.",
+    "delivery": "Stretch \"Together.\" and let it settle, like a quiet full stop rather than a slogan.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w282",
+    "text": "Us.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Yes, and",
+    "why": "A quiet “us” can pull a disagreement back into the same sentence.",
+    "delivery": "Soften \"Us.\" and let it drop; do not use it to paper over a real difference.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w283",
+    "text": "We're ok.",
+    "need": "acceptance",
+    "feeling": "reconciled",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "Keep the we intact while you still work the situation.",
+    "delivery": "Keep \"We're ok.\" low and kind, then return to the point, not the person.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w284",
+    "text": "Same side.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Golden bridge",
+    "why": "Two words that leave them a way to stay in the we, instead of losing face.",
+    "delivery": "Say \"Same side.\" steadily, then pause before any contrast.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w285",
+    "text": "Us.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Resonate before you redirect",
+    "why": "Get into the we first; a short “Us” does that before you redirect.",
+    "delivery": "Let \"Us.\" be quiet and complete, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w286",
+    "text": "Soon!",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A future cue in the we, said with a little life, then you go.",
+    "delivery": "Lift \"Soon!\" a little, then stop; do not tack on a long goodbye.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w287",
+    "text": "In touch.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Two words that keep them inside the circle after you leave.",
+    "delivery": "Warm \"In touch.\" and let it land, then actually go.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w288",
+    "text": "See you.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Gratitude and enjoyment",
+    "why": "A plain “See you” keeps them in the we without a performance.",
+    "delivery": "Say \"See you.\" clearly and kindly, and leave on that note.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w289",
+    "text": "Soon.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A short future cue, then you go — no need to over-explain the ending.",
+    "delivery": "Let \"Soon.\" fall gently and hold a moment of stillness after it.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w290",
+    "text": "Welcome.",
+    "need": "acceptance",
+    "feeling": "included",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "A quieter welcome mid-chat can still tell someone they belong in the conversation.",
+    "delivery": "Soften \"Welcome.\" and let it fall, like a door left open.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w291",
+    "text": "Teach me?",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "'Tell me more' (Vinh)",
+    "why": "When you genuinely do not know, ask them to teach you, from the first beat.",
+    "delivery": "Let \"Teach me?\" rise kindly, then wait; it should sound eager, never teasing.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w292",
+    "text": "Thoughts?",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "What this chat is for",
+    "why": "Open by asking for their thinking, and then actually listen to it.",
+    "delivery": "Keep \"Thoughts?\" light, then leave a real gap for the answer.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w293",
+    "text": "Teach me?",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere 'teach me'",
+    "why": "Real interest in their expertise, only when you genuinely do not know.",
+    "delivery": "Ask \"Teach me?\" plainly and then go quiet; feigned interest would break this.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w294",
+    "text": "How?",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Opening one-liner",
+    "why": "A short how, asked sincerely, invites the method behind the work.",
+    "delivery": "Soften \"How?\" and let it rise, then wait for a real walk-through.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w295",
+    "text": "How so?",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Three follow-ups",
+    "why": "One more follow-up on the thinking, before you say anything about your own.",
+    "delivery": "Keep \"How so?\" curious and low, then do not interrupt.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w296",
+    "text": "Interesting.",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "A thinking “Interesting” buys you a kind pause, and asks for the method.",
+    "delivery": "Slow \"Interesting.\" and let it fall, then wait for the next layer.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w297",
+    "text": "How so?",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere 'teach me'",
+    "why": "Ask them to walk you through the reasoning, and mean it.",
+    "delivery": "Let \"How so?\" be soft and upward, then stay quiet long enough.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w298",
+    "text": "Interesting.",
+    "need": "intelligence",
+    "feeling": "smart",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Make them feel interesting",
+    "why": "Treat the disagreement as their thinking, worth hearing, not a chance to look sharp.",
+    "delivery": "Lean in slightly on \"Interesting.\" and then stop so they can say more.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w299",
+    "text": "Good point.",
+    "need": "intelligence",
+    "feeling": "respected",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Ask for their take",
+    "why": "Leave them with credit for the thought, then go.",
+    "delivery": "Nod and let \"Good point.\" settle, then end without adding your last idea.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w300",
+    "text": "Makes sense.",
+    "need": "intelligence",
+    "feeling": "understood",
+    "situation": "close",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm and competent words",
+    "why": "A clear close that shows you followed their reasoning.",
+    "delivery": "Give both words time, pitch falling, then actually leave.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w301",
+    "text": "Good point.",
+    "need": "intelligence",
+    "feeling": "respected",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Spark, Point, Link",
+    "why": "Land on their point, then stop, so the ending belongs to what they said.",
+    "delivery": "Slow \"Good point.\" and hold still for a second after it.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w302",
+    "text": "Makes sense.",
+    "need": "intelligence",
+    "feeling": "understood",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Reflect their word",
+    "why": "Give their meaning back in two words, then close.",
+    "delivery": "Keep \"Makes sense.\" low and complete, then go.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w303",
+    "text": "Noted.",
+    "need": "intelligence",
+    "feeling": "respected",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A respectful, unfussy close on an idea you are taking with you.",
+    "delivery": "Let \"Noted.\" be short, still, and slightly lower; then move on.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w304",
+    "text": "Good point.",
+    "need": "intelligence",
+    "feeling": "respected",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Make them feel interesting",
+    "why": "Leave them feeling the idea was worth hearing, not that you won the ending.",
+    "delivery": "Say \"Good point.\" plainly, then stop talking.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w305",
+    "text": "Hmm.",
+    "need": "intelligence",
+    "feeling": "curious",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "A thinking sound shows you are taking their reasoning in, not planning your reply.",
+    "delivery": "Keep \"Hmm.\" low and unhurried, eyes on them, and do not hurry the next sentence.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w306",
+    "text": "Alright?",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Name it, don't calm it",
+    "why": "A gentle check-in, not a diagnosis, can open a hard moment kindly.",
+    "delivery": "Keep \"Alright?\" soft and upward, then wait; do not rush to fill or fix.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w307",
+    "text": "Hey.",
+    "need": "pity",
+    "feeling": "comfortable",
+    "situation": "opener",
+    "sources": [
+      "CUES"
+    ],
+    "technique": "Warm hello",
+    "why": "A quieter hey, without the bang, can feel safer when someone is already tired.",
+    "delivery": "Drop the volume on \"Hey.\" and let it be warm, not chirpy, then pause.",
+    "deliveryBy": "Van Edwards (Cues ch8)"
+  },
+  {
+    "id": "w308",
+    "text": "Alright?",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Match a heavy mood with a soft check-in, and do not yank the energy up.",
+    "delivery": "Say \"Alright?\" at a lower volume and leave a long beat after it.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w309",
+    "text": "Hey.",
+    "need": "pity",
+    "feeling": "comfortable",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Give a little presence, not a lot of volume, when the moment is already heavy.",
+    "delivery": "Keep \"Hey.\" gentle and still, with your face already kind.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w310",
+    "text": "Alright?",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere reaction",
+    "why": "An honest, small check on how the day has felt, only to show care.",
+    "delivery": "Ask \"Alright?\" quietly and then stay quiet; do not turn it into a quiz.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w311",
+    "text": "Hey.",
+    "need": "pity",
+    "feeling": "comfortable",
+    "situation": "opener",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "A plain, unhurried hey is enough; you do not need a bright entrance.",
+    "delivery": "Say \"Hey.\" a little slower and softer than the room, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w312",
+    "text": "Rough.",
+    "need": "pity",
+    "feeling": "understood",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Name it, don't calm it",
+    "why": "A gentle “Rough” names the weight, then you pause. Do not rush to fix it.",
+    "delivery": "Let \"Rough.\" come out low and slow, then stay with them in the quiet.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w313",
+    "text": "Oof.",
+    "need": "pity",
+    "feeling": "understood",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Name it, don't calm it",
+    "why": "A small, human sound can show you felt the weight of what they just said.",
+    "delivery": "Let \"Oof.\" ride out on a quiet breath, and then leave them room.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w314",
+    "text": "Rough?",
+    "need": "pity",
+    "feeling": "understood",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Name it, don't calm it",
+    "why": "A gentle, checking “Rough?” names the weight as a question, then you listen.",
+    "delivery": "Keep \"Rough?\" soft and slightly rising, then wait; do not fix it yet.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w315",
+    "text": "That's hard.",
+    "need": "pity",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Name the feeling",
+    "why": "Name the hardness in the situation, not as a way to win, and then listen.",
+    "delivery": "Slow \"That's hard.\" and let it fall; do not jump to advice or a counter-point.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w316",
+    "text": "I know.",
+    "need": "pity",
+    "feeling": "heard",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "Two careful words, only if you do know some of this weight, then you pause.",
+    "delivery": "Keep \"I know.\" soft and low; if you do not know, do not say it.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w317",
+    "text": "That's hard.",
+    "need": "pity",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere reaction",
+    "why": "A short, honest reaction to a hard thing, without a speech or a fix.",
+    "delivery": "Let \"That's hard.\" be low and slow, then stay quiet.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w318",
+    "text": "Oof.",
+    "need": "pity",
+    "feeling": "understood",
+    "situation": "disagree",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Sincere reaction",
+    "why": "A small human sound can hold a hard disagreement without sharpening it.",
+    "delivery": "Breathe out \"Oof.\" softly and keep your face with them; then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch3)"
+  },
+  {
+    "id": "w319",
+    "text": "Take care.",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Graceful exit",
+    "why": "A two-word kindness, then you leave, so a hard chat ends gently and on purpose.",
+    "delivery": "Slow both words, especially \"care\", and let your voice drop.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w320",
+    "text": "Go easy.",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "close",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Name it, don't calm it",
+    "why": "A gentle close that leaves the weight acknowledged, not tidied away.",
+    "delivery": "Soften \"Go easy.\" and let it fade, then actually go.",
+    "deliveryBy": "Vinh Giang (BWF ch6)"
+  },
+  {
+    "id": "w321",
+    "text": "I'm here.",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Listen for what matters",
+    "why": "Leave the door open with two quiet words, then go, without trying to fix it all.",
+    "delivery": "Say \"I'm here.\" softly and still, and let that be the ending.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w322",
+    "text": "Take care.",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Generosity of energy",
+    "why": "Close with real warmth, at a lower volume, when the chat has been heavy.",
+    "delivery": "Keep \"Take care.\" slower and quieter than usual, then leave.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w323",
+    "text": "Go easy.",
+    "need": "pity",
+    "feeling": "reassured",
+    "situation": "close",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Heard and seen",
+    "why": "A plain, gentle close that leaves their experience standing.",
+    "delivery": "Let \"Go easy.\" sit almost under the breath, and let the silence finish it.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w324",
+    "text": "After you.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "At ease, not impressive",
+    "why": "Give them the first move. A short “After you” keeps the say with them.",
+    "delivery": "Open a hand and say \"After you.\" lightly, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch10)"
+  },
+  {
+    "id": "w325",
+    "text": "You first.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "opener",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Clear, kind ask",
+    "why": "Two words that hand them the floor and the say, right at the start.",
+    "delivery": "Keep \"You first.\" easy and downward, then stay quiet.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w326",
+    "text": "After you.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Let them set the first pace; you can follow, then catch up later if needed.",
+    "delivery": "Say \"After you.\" at an easy volume and really let them start.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w327",
+    "text": "You lead.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "opener",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "A calm “You lead” puts the direction in their hands from the first word.",
+    "delivery": "Let \"You lead.\" fall, then match whatever they do next.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w328",
+    "text": "Your call.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Clear, kind ask",
+    "why": "Keep it short. Offer the decision back, and let them make it.",
+    "delivery": "Keep \"Your call.\" even and low, and do not sell an option after it.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w329",
+    "text": "You choose.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Own it, because",
+    "why": "Hand the choice over, clearly, so they keep ownership of the next step.",
+    "delivery": "Soften \"You choose.\" and then be quiet while they take it.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w330",
+    "text": "Your call.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Lead by giving the call away, not by pushing the pace up.",
+    "delivery": "Say \"Your call.\" slowly, pitch down, and stop.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w331",
+    "text": "You lead.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "A mid-chat “You lead” keeps them in charge of the thread.",
+    "delivery": "Keep \"You lead.\" light, then follow rather than yank the energy.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
+  },
+  {
+    "id": "w332",
+    "text": "You choose.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "Short, plain, and theirs: two words, then you stop talking.",
+    "delivery": "Let \"You choose.\" be unhurried and complete, then wait.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w333",
+    "text": "Your call.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "rapport",
+    "sources": [
+      "BOM"
+    ],
+    "technique": "Speak plainly",
+    "why": "Cut the preamble. A steady “Your call” leaves the final say with them.",
+    "delivery": "Plant your feet and say \"Your call.\" once, then stay quiet.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w334",
+    "text": "You decide.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "The situation, not the person",
+    "why": "In a tight moment, hand the decision back so it does not become a wrestle.",
+    "delivery": "Keep \"You decide.\" calm and low, then leave the silence alone.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w335",
+    "text": "Your call.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "disagree",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Match, then lead",
+    "why": "Match the heat with a cooler “Your call”, and do not push after it.",
+    "delivery": "Let \"Your call.\" sit, finished, before anyone fills the gap.",
+    "deliveryBy": "Vinh Giang (BWF ch7)"
+  },
+  {
+    "id": "w336",
+    "text": "Your call.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Spark, Point, Link",
+    "why": "Land the close on their decision, then stop.",
+    "delivery": "Let \"Your call.\" drop like a full stop, and leave the ending alone.",
+    "deliveryBy": "Vinh Giang (BWF ch5)"
+  },
+  {
+    "id": "w337",
+    "text": "Done.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "close",
+    "sources": [
+      "BWF"
+    ],
+    "technique": "Spark, Point, Link",
+    "why": "A clean “Done” can close a decision once they have made it, without circling.",
+    "delivery": "Keep \"Done.\" short and still, slightly lower, then move on.",
+    "deliveryBy": "Vinh Giang (BWF ch8)"
+  },
+  {
+    "id": "w338",
+    "text": "Whenever.",
+    "need": "power",
+    "feeling": "control",
+    "situation": "disagree",
+    "sources": [
+      "CONV"
+    ],
+    "technique": "Clear, kind ask",
+    "why": "Leave the timing with them, even in a disagreement, so they keep the final say.",
+    "delivery": "Say \"Whenever.\" lightly, with a falling pitch, and do not add a deadline.",
+    "deliveryBy": "Vinh Giang (BWF ch4)"
   }
 ]

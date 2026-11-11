@@ -1,4 +1,4 @@
-const CACHE = "read-anyone-v8";
+const CACHE = "read-anyone-v9";
 const ASSETS = [
   "./",
   "./index.html",
