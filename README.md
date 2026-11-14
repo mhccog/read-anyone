@@ -4,6 +4,8 @@ A simple word and sentence generator: pick a lean, a vibe, a moment and a teache
 
 **Live site:** [https://mhccog.github.io/read-anyone/](https://mhccog.github.io/read-anyone/)
 
+**Ask** (the second tab): type a question, a word or “what does … mean” and get a plain-English answer from Vanessa Van Edwards, Chase Hughes or Vinh Giang, tagged with the teacher and source. It runs entirely in the browser from hand-written notes (`ask/kb.js`), with no AI API and no web results. To edit the notes, change `research/ask-kb/*.txt` and run `python3 research/build_ask_kb.py`. Manipulative techniques are listed only to say what they are and why they’re left out.
+
 The six needs are listening prompts from Chase Hughes (coach’s view, untested), not labels. Only say what you mean. Use this to make the conversation easier for the other person, never to push people.
 
 The earlier full guide (Identify, Practice, Today, Playbook) is preserved on the `v1-full-guide` tag: [browse it](https://github.com/mhccog/read-anyone/tree/v1-full-guide).

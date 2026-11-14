@@ -1,0 +1,139 @@
+## all-sincerity | ra | ideas | The sincerity test
+g: sincerity test
+a: sincerity test; sincerity; is this manipulation; is it manipulative; ethics; am i manipulating; ethical
+s: Read Anyone's rule for every line: would the other person, knowing your full intent, agree that what you did was in their interest? If not, don't use it. It comes from NCI material about Hughes's work (a secondary source), and it's why covert techniques are left out.
+u: Before you use a line, ask: would I be happy for them to know exactly why I said it?
+r: lo-overview, all-six-needs, all-read-anyone
+f: What does Read Anyone leave out? || Are the six needs labels?
+src: Read Anyone handbook §2
+
+## all-read-anyone | ra | about | About Read Anyone and this Ask section
+a: what is this; about this app; read anyone; how does ask work; sources; is this ai; where do answers come from
+s: Read Anyone is a simple line generator built on three teachers: Vanessa Van Edwards, Chase Hughes and Vinh Giang. This Ask section answers from a hand-written set of notes on their books, videos and interviews — in plain English, with sources. It runs on your phone with no AI and no web search, so if something isn't covered, it says so rather than guessing.
+u: Ask a question, a word or "what does X mean", and use the filter to stick to one teacher.
+r: all-sincerity, vve-about, vg-about, ch-about
+f: Who is Vanessa Van Edwards? || Who is Vinh Giang?
+src: Read Anyone technique inventory https://github.com/mhccog/read-anyone/blob/main/research/techniques-inventory.md
+
+## all-follow-ups | all | listening | Why follow-up questions work
+g: follow-up questions
+a: follow up questions; follow ups; ask more questions; likeable; why questions work; huang
+s: All three teachers push follow-up questions, and research agrees: people who ask more questions, especially follow-ups, are liked more (Huang and colleagues, 2017). Vanessa's version is "Tell me more?", Hughes's is the Ask step of his small-talk loop, and Vinh asks three follow-ups before talking about himself.
+u: Ask two follow-ups before you tell your own story.
+r: vve-tell-me-more, ch-smalltalk, vg-three-followups
+f: What is the small-talk formula? || What does Vinh say about strong emotion?
+src: Read Anyone handbook §4 || Huang et al. 2017 https://www.hbs.edu/faculty/Pages/item.aspx?num=52115
+
+## all-liking-gap | vve | ideas | The liking gap
+g: liking gap
+a: liking gap; do they like me; they didnt like me; overthinking after conversation
+s: After a conversation, people usually liked you more than you think (Boothby and colleagues, 2018). Vanessa uses this to encourage you to signal liking more clearly and to assume people already like you a little.
+u: If you enjoyed it, say so — "I really enjoyed that."
+r: vve-signal-liking, all-assume-liked
+f: How do I signal liking? || How do I end a conversation?
+src: Read Anyone handbook §4 || Conversation, Level 1
+
+## all-assume-liked | vve | confidence | Assume they already like you
+a: assume they like me; social anxiety; fear of rejection; power of assumption
+s: Vanessa's "power of assumption": walk in assuming people already like you a little more than you fear. The liking gap research suggests that's often true.
+u: Before you walk in, tell yourself "They're going to like me."
+r: all-liking-gap, vve-pygmalion
+f: What is the liking gap? || What is the Pygmalion effect?
+src: Read Anyone handbook §5.1
+
+## all-end-on-purpose | vve | exits | End on purpose
+a: when to end a conversation; conversations go on too long; ending; mastroianni
+s: A large study found conversations almost never end when both people want them to — only about 2% of the time (Mastroianni and colleagues, 2021). So ending warmly and on purpose is a kindness. Vanessa's exit: something in the future, a specific kindness, then go.
+u: Leave on a high rather than waiting for it to fizzle.
+r: vve-exit, vve-anchor-touch
+f: What is the graceful exit? || How do I leave someone who won't stop talking?
+src: Read Anyone handbook §4 || Mastroianni et al. 2021, as cited in the handbook
+
+## all-warmth-first | vve | ideas | Warmth first, then competence
+a: warmth first; first impression; trust; be liked and respected
+s: People size you up on two questions: can I trust you, and can I rely on you? Research (Fiske, Cuddy and Glick, 2007) shows warmth is judged first. So lead with interest, their name and a real smile, then make one clear point.
+u: In the first minute, be warm; in the second, be clear.
+r: vve-charisma, vve-permission-warmth
+f: What is charisma? || What is permission warmth?
+src: Read Anyone handbook §4 || Fiske, Cuddy & Glick 2007 https://doi.org/10.1016/j.tics.2006.11.005
+
+## all-label-feeling | vve,vg | listening | Naming a feeling calms it
+g: affect labelling
+a: label emotions; name feelings; it seems like; labelling; affect labeling
+s: Putting a feeling into words can reduce its intensity (Lieberman and colleagues, 2007). Vanessa uses it to calm people ("never say calm down") and Vinh uses it in his undercurrent skill — name the feeling gently, as a question.
+u: "Sounds like that was really frustrating?" — then pause.
+r: vve-calm, vg-undercurrent
+f: How do I calm someone down? || What is the undercurrent?
+src: Read Anyone handbook §4
+
+## all-awkward-silence | all | smalltalk | Awkward silences and pauses
+a: awkward silence; awkward pause; conversation dies; run out of things to say; silence; nothing to say; lull
+s: Three tools from the teachers. Vinh: a pause isn't a failure — you don't have to fill it, and a calm pause makes you look composed. Vanessa: use context cues around you, or signal a topic switch ("Totally shifting gears…"). Hughes: use FORK to pick a new area, or offer four threads in your next answer.
+u: Take a breath, then ask about something in the room or a FORK topic.
+r: vg-pause, vve-context-cues, ch-fork, vve-transition
+f: What is FORK? || What are context cues?
+src: Before We Forget How to Connect ch. 7 || Conversation, Level 1 || The Behavior Ops Manual p. 96
+
+## all-start-conversation | all | openers | How do I start a conversation?
+a: start a conversation; opener; first thing to say; talk to a stranger; approach someone; break the ice; icebreaker
+s: Vanessa: skip "Nice to meet you" and "What do you do?" — try "Working on anything exciting these days?" or "What was the highlight of your day?" Vinh: give a little extra energy to your hello and match their pace. Hughes: a simple open question like "How did you get started in this?", then run his small-talk loop.
+u: Pick one opener and use it three times this week.
+r: vve-power-questions, vg-generosity-energy, ch-one-liners, ch-smalltalk
+f: What are the nine power questions? || What is the small-talk formula?
+src: Conversation, Level 1 || Before We Forget How to Connect ch. 6 || The Behavior Ops Manual p. 96
+
+## all-body-language | all | body | Body language basics
+a: body language; nonverbal; what should my body do; posture; body cues
+s: Vanessa: open, visible hands, the Launch Stance, and warmth cues like the head tilt and slow triple nod. Vinh: stillness, the doorway reset and gestures in the Power Sphere. Hughes: move slower than the room and let your face show their story. All three say read changes, not single gestures — and never as a lie detector.
+u: Start with one: hands visible and still.
+r: vve-triple-threat, vve-warmth-cues, vg-power-sphere, ch-move-slower
+f: What is the Triple Threat? || What is the Power Sphere?
+src: Captivate ch. 2 || Cues ch. 3–5 || Before We Forget How to Connect ch. 8–13 || The Behavior Ops Manual p. 144
+
+## all-voice-competence | vg | voice | Your voice signals competence
+a: voice matters; sound smart; sound competent; voice research
+s: People who heard someone's pitch rated them more competent and thoughtful than people who only read the same words (Schroeder and Epley, 2015). That's why Vinh puts voice first.
+u: For anything important, call or speak rather than only writing.
+r: vg-delivery, vg-instrument
+f: Why does delivery matter? || What are the five vocal foundations?
+src: Read Anyone handbook §4
+
+## all-myth-93 | ra | ideas | Myth: 93% of communication is non-verbal
+a: 93 percent; 93%; mehrabian; non verbal communication percentage; 7 38 55
+s: A popular myth. It's a misreading of Albert Mehrabian, who said his findings don't apply to everyday conversation. Words matter.
+u: Get the words right and the delivery right — both count.
+r: all-voice-competence, lo-lie-spotting
+f: Can you spot liars from body language? || Do power poses work?
+src: Read Anyone handbook §10
+
+## all-myth-power-pose | ra | ideas | Myth: power poses change your hormones
+a: power pose; power posing; superman pose; hormones; amy cuddy
+s: The claim that power poses change hormones didn't replicate (Ranehill and colleagues, 2015). Open posture may still help you feel a little steadier.
+u: Use open posture for comfort, not as magic.
+r: vve-triple-threat, ch-composure
+f: What is the Launch Stance? || What is composure?
+src: Read Anyone handbook §10
+
+## all-rapport | all | ideas | How do I build rapport?
+a: rapport; build rapport; connect with someone; click with people; get along; bond
+s: Vinh: Match, Mirror and Lead — get in sync with their pace and volume, then lead gently. Vanessa: find threads in common ("Same here!"), use warmth cues and ask follow-ups. Hughes: make them feel heard and seen, and leave them feeling interesting.
+u: Match their pace for the first minute, then ask a follow-up.
+r: vg-match-mirror-lead, vve-thread-theory, ch-heard-seen
+f: What is Match, Mirror and Lead? || What is Thread Theory?
+src: https://vinhgiang.com/blog/how-to-build-rapport-with-absolutely-anyone Vinh's blog || Captivate ch. 5 || DOAC 2026
+
+## all-disagree | all | tough | How do I disagree without a fight?
+a: disagree; disagreement; push back; different opinion; conflict at work
+s: Hughes: resonate before you redirect, and leave a golden bridge so no one loses face. Vinh: "Yes, and" instead of "yes, but", and argue at the situation, not the person. Vanessa: affirm, create safety, and name the mission you share.
+u: Start with "I can see why…" then "and here's where I land."
+r: ch-resonate, vg-yes-and, vve-high-stakes, ch-golden-bridge
+f: What is the golden bridge? || What is "yes, and"?
+src: DOAC 2026 || Instagram Jun 2025 || Conversation, Level 1
+
+## all-confidence | all | confidence | How do I feel more confident talking to people?
+a: confidence; confident; shy; social anxiety; nervous talking to people; scared to talk
+s: Hughes: work on comfort first (ACSS), reframe nerves as excitement, and avoid collapse or posturing. Vinh: when a new habit feels fake, it's just unfamiliar — practise in tiny reps. Vanessa: go where you thrive, and assume people already like you a little.
+u: Choose one tiny rep today — a warm "Good morning!" with eye contact.
+r: ch-acss, ch-nervous-excited, vg-competence-stages, vve-social-game-plan
+f: What is ACSS? || Why does practising feel fake?
+src: DOAC 2024 || Before We Forget How to Connect ch. 14 || Captivate ch. 1

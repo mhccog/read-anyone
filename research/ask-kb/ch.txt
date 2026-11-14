@@ -1,0 +1,372 @@
+## ch-about | ch | about | Who is Chase Hughes?
+a: who is chase; about chase; chase book; behavior ops manual; nci; ellipsis manual; six minute x-ray
+s: Chase Hughes is a former US Navy behaviour trainer who teaches influence, body language and interrogation, mainly through The Behavior Ops Manual (2023) and his NCI University courses. On this page he's the teacher for the small-talk loop, composure, plain speech and the six needs as listening prompts.
+d: Much of his manual is written for influence and interrogation, so Read Anyone leaves far more of his work out than the other two teachers' — 40 of his 83 listed techniques. His credentials and claims are disputed by critics and none of his models has published validation, so treat his ideas as a coach's view: useful, untested.
+u: Pick Hughes on the Teacher chips for small talk, composure and plain, steady lines.
+r: ch-smalltalk, all-six-needs, lo-overview
+f: What does Read Anyone leave out from Hughes? || What is the small-talk formula?
+src: The Behavior Ops Manual || https://nci.university/ NCI University || Read Anyone handbook §3, §5.3
+
+## ch-smalltalk | ch | smalltalk | The small-talk formula: Listen, Display, React, Ask, Offer
+g: small-talk formula; small talk loop; LDRAO
+a: small talk formula; small talk; listen display react ask offer; how to do small talk; small talk loop; keep a conversation going
+s: Hughes's five-step loop: Listen properly; Display it on your face (react visibly to the high points); React with a few words; Ask one small follow-up question; then Offer a related story of your own. It matches research showing follow-up questions make people like you more.
+d: His stated aim for small talk is that the other person leaves feeling interesting — not that you seem interesting.
+u: Run the loop once in your next chat: listen, show it, react, ask, then offer.
+e: They: "We just got back from Lisbon." You (face lights up): "Oh, nice!" (react) "What was the highlight?" (ask) …then later, "I went years ago and got lost for a day — best day of the trip." (offer)
+r: ch-interesting, vve-treasure, all-follow-ups
+f: What does "interesting, not interested" mean? || What is FORK?
+src: The Behavior Ops Manual pp. 91–93, 448–450
+
+## ch-interesting | ch | smalltalk | Make them feel interesting, not interested
+a: interesting not interested; make them feel interesting; be interesting
+s: Hughes's goal for small talk: the other person should leave feeling interesting. Your curiosity does that — not your own clever stories.
+u: Ask yourself afterwards: "Did they leave feeling interesting?"
+r: ch-smalltalk, ch-role
+f: What is the small-talk formula? || What is role application?
+src: The Behavior Ops Manual p. 91
+
+## ch-one-new-thing | ch | smalltalk | Learn one new thing every conversation
+a: learn something new; one new thing; old friends; curiosity
+s: Set yourself a small goal: learn one new thing about the person in every conversation, even with people you've known for years. It keeps you curious and makes them feel interesting. Vanessa shares a similar habit.
+u: "What's something you've got into lately that I don't know about?"
+r: ch-smalltalk, ch-interesting
+f: How do I remember names and stories? || What is the small-talk formula?
+src: The Behavior Ops Manual pp. 92, 449 || Vanessa on X https://x.com/vvanedwards/status/2095555287851913413
+
+## ch-names-stories | ch | names | Remember names and stories
+a: remember names; forget names; remember details; bad memory; names
+s: Hughes says remembering names and stories is about motivation, not memory. Decide it matters, and keep notes on what people tell you.
+u: After a conversation, jot down their name and one detail in your phone.
+r: vve-name-game, ch-use-names, vve-last-time
+f: What is the Name Game? || How should I use names?
+src: The Behavior Ops Manual pp. 92, 448
+
+## ch-one-liners | ch | openers | Opening one-liners
+a: opening lines; openers; how to start a conversation; conversation starters; first line
+s: Hughes suggests simple, open starters like "How did you get started in the industry?" or "What's your take on all this?" — questions that invite a story or opinion.
+u: Use the setting: "What's your take on the talk?"
+r: vve-power-questions, ch-fork
+f: What is FORK? || What are Vanessa's power questions?
+src: The Behavior Ops Manual p. 96
+
+## ch-fork | ch | smalltalk | FORK topics
+g: FORK
+a: fork; family occupation recreation knowledge; small talk topics; what to talk about
+s: A military acronym Hughes uses for small talk: Family (people close to them), Occupation (what they do and like most about it), Recreation (what they do for fun) and Knowledge (what they know a lot about). Vinh's FORD is a close cousin, with Dreams instead of Knowledge.
+u: When you run dry, pick the next letter.
+r: vg-ford, ch-four-threads
+f: What is Vinh's FORD? || What is the Four Threads formula?
+src: The Behavior Ops Manual p. 96
+
+## ch-four-threads | ch | smalltalk | The Four Threads formula
+g: Four Threads
+a: four threads; answer questions better; where are you from; short answers; give them something to grab
+s: When someone asks you a basic question, answer with four hooks they can grab instead of one word. "Where are you from?" "Houston" ends the chat; "Originally Houston, but I left at eighteen for the navy and spent years in Hawaii" gives them four threads.
+u: Practise a four-thread answer to "Where are you from?" and "What do you do?"
+r: vg-threads, vve-logline
+f: What are Vinh's conversational threads? || How do I answer "What do you do?"
+src: The Behavior Ops Manual pp. 96–97, 450
+
+## ch-barkeep | ch | groups | Barkeep: meet, then introduce
+g: Barkeep
+a: barkeep; networking; introduce groups; work the room; party; meet people at an event
+s: Hughes's social challenge from military training: meet a small group and learn their names, then meet a second group, then introduce the second group to the first. Keep connecting people. Soon you're the thing everyone has in common. You can stop at any phase.
+u: At your next event, aim to introduce just two people who haven't met.
+r: vve-connector, vve-highlighter, ch-smalltalk
+f: What is a connector? || What is the Highlighter?
+src: The Behavior Ops Manual pp. 451–452
+
+## ch-compliments | ch | warmth | Sincere compliments
+a: compliment; compliments; flattery; suck up
+s: Compliment freely, Hughes says, but never suck up. A compliment must be true and not tied to a request.
+u: Give the compliment and ask for nothing afterwards.
+r: vve-compliments, lo-brain-pharmacist
+f: What does Vanessa say about compliments? || Why is compliment-then-ask left out?
+src: The Behavior Ops Manual p. 131
+
+## ch-insecurities | ch | warmth | Share your insecurities
+a: insecurities; imperfect; vulnerable; flaws; share weakness
+s: Openness invites openness. Hughes notes people like imperfect people, so sharing a real insecurity can make you easier to connect with.
+u: Share something small and true, not a dramatic confession.
+r: vve-anti-perfect, vg-vulnerability
+f: What does Vinh say about vulnerability? || What is the Franklin Effect?
+src: The Behavior Ops Manual p. 132
+
+## ch-reaction | ch | listening | Sincere reaction statements
+a: reaction statement; you must be shattered; empathy statement; show understanding
+s: The honest core of what Hughes calls a provocative statement: reflect what their day probably felt like — "You must be shattered" — to show understanding. Read Anyone keeps only this sincere use, never using statements to fish for information.
+u: Say it, then stop and let them respond.
+r: lo-elicitation, vg-undercurrent
+f: Why is elicitation left out? || What is the undercurrent?
+src: The Behavior Ops Manual pp. 348–349 || DOAC 2024 https://www.youtube.com/watch?v=RvjR9GM2kX8
+
+## ch-verbal-mirror | ch | listening | The verbal mirror
+g: verbal mirror; verbal reflection
+a: verbal mirror; repeat their words; repeat last words; echo; mirroring words
+s: Repeat the last few words someone said, or the theme, back to them. It shows you're listening and invites them to say more. Hughes draws it from FBI practice; Chris Voss teaches a similar mirror.
+u: They: "It's been a strange month." You: "A strange month?" Then wait.
+r: vg-reflection, vve-mirror
+f: What is Vinh's reflection? || What does mirroring mean?
+src: The Behavior Ops Manual pp. 354–356
+
+## ch-go-first | ch | warmth | Go first (sincere self-disclosure)
+a: go first; share first; self disclosure; open up first
+s: Share something of your own to make it easier for them to share. Read Anyone keeps only the sincere version of what Hughes calls "informational altruism" — sharing to connect, not to obligate them.
+u: Share at the depth you'd like them to match, then ask.
+r: vg-high-low-buffalo, lo-elicitation
+f: What is High, Low, Buffalo? || Why is elicitation left out?
+src: The Behavior Ops Manual p. 350
+
+## ch-teach-me | ch | smalltalk | Sincere "teach me"
+a: teach me hughes; ask their expertise; expert; dont know
+s: Show real interest in their expertise when you genuinely don't know. Pretending not to know to draw information out (feigned naivety) is left out.
+u: Only ask what you really want to learn.
+r: vve-teach-me, lo-elicitation
+f: What does Vanessa say about "teach me"? || What is elicitation?
+src: The Behavior Ops Manual p. 356
+
+## all-six-needs | ch | ideas | The six needs (listening prompts)
+g: six needs; Needs Map; significance; approval; acceptance; intelligence; hardship; power; pity; lean
+a: six needs; needs map; social needs; significance; approval; acceptance; intelligence; pity; hardship; power; strength; lean chips; what is lean; human needs
+s: Hughes describes six social needs: significance, approval, acceptance, intelligence, pity (shown here as Hardship) and strength or power. On Read Anyone they're the Lean chips — listening prompts for the quiet question someone might be asking, never labels for people. Most people show a mix.
+d: The quiet questions: Significance — do people see my impact? Approval — am I doing this right? Acceptance — do I belong? Intelligence — do people see I'm sharp? Hardship — does anyone see how hard this has been? Power — do I get the final say? Answer the quiet question sincerely. Never say "you're a significance person", and never use needs to steer or sell — that use is left out.
+u: Listen for what they're showing right now; if you're unsure, pick Anyone and ask a follow-up.
+r: lo-needs-steering, all-sincerity, vg-what-they-want
+f: Why don't you use needs to persuade? || What is the sincerity test?
+src: The Behavior Ops Manual pp. 366–372 || https://www.youtube.com/shorts/YzJI8GTHteQ Chase's needs Short || Read Anyone handbook §6
+
+## ch-values-map | ch | listening | Values Map: "so I can finally…"
+g: Values Map
+a: values; values map; what they want; end goal; so i can finally
+s: Listen for the end goal behind what people want — often heard as "so I can finally…". Hughes lists six values: connection, information, recognition, experience, freedom and growth. Read Anyone uses this only to ask honest questions about what matters to them.
+u: "And once that's sorted, what will it let you do?"
+r: all-six-needs, vve-primary-value
+f: What are the six needs? || What is Primary Value?
+src: The Behavior Ops Manual pp. 383–386
+
+## ch-decision-style | ch | ideas | Decision styles, spoken honestly
+g: decision styles
+a: decision style; how people decide; give reasons; deviance novelty social conformity necessity investment
+s: Hughes describes six decision styles: deviance, novelty, social, conformity, necessity and investment (people often use two neighbouring ones). Read Anyone uses them only to give the honest reason that matters to how someone decides — practical, value, new, or what others do — never to pressure.
+u: If they care about practicality, lead with the practical reason, truthfully.
+r: lo-persuasion-scripts, all-sincerity
+f: Why are persuasion scripts left out? || What is the sincerity test?
+src: The Behavior Ops Manual pp. 378–382
+
+## ch-their-words | ch | listening | Use their words
+a: use their words; their language; pronouns; i we they; sensory words
+s: Notice the words and pronouns people use (I, we, they; see, hear, feel) and speak in their terms — sincerely, to be understood. Using their words to steer a pitch is left out, and research doesn't support "visual/auditory/kinaesthetic" matching.
+u: If they say "the team", talk about "the team", not "you".
+r: vve-verbal-chameleon, lo-vak
+f: Why is sensory-preference persuasion left out? || What is a verbal chameleon?
+src: The Behavior Ops Manual pp. 393–400
+
+## ch-heard-seen | ch | ideas | Make people feel heard and seen
+a: heard and seen; most important people skill; feel heard; without judgment; ai
+s: In his 2026 Diary of a CEO interview, Hughes said the most important people skill is making people feel heard and seen — resonating with them without judging. He thinks it will matter more as AI grows.
+u: Before responding, check: have I shown I heard them?
+r: ch-resonate, vg-listening
+f: What is resonate before redirect? || What is listening the bigger half?
+src: DOAC 2026 https://www.youtube.com/watch?v=9uSXOr-AdAU
+
+## ch-resonate | ch | tough | Resonate before you redirect
+g: resonate before redirect; get into their river
+a: resonate; acknowledge first; disagree; change their mind; their river; opposing view
+s: Acknowledge someone's view first, genuinely, before you offer yours. Hughes calls it getting into their river before trying to steer the boat.
+u: "I can see why that matters to you. Here's where I land…"
+r: vg-yes-and, ch-golden-bridge, vg-situation-not-person
+f: What is the golden bridge? || What is "yes, and"?
+src: DOAC 2026 https://www.youtube.com/watch?v=9uSXOr-AdAU
+
+## ch-people-are-reasons | ch | ideas | People are reasons
+a: difficult people; annoying people; why people behave; everyone is suffering; mask; four ways of seeing people
+s: Hughes asks you to see everyone as carrying something and wearing a mask: behaviour has reasons, so people aren't broken — something is driving them.
+u: When someone's difficult, ask "What might be behind this?"
+r: vve-curious-critical, vg-undercurrent
+f: What is curious before critical? || What is the undercurrent?
+src: The Behavior Ops Manual pp. 297–302
+
+## ch-golden-bridge | ch | tough | The golden bridge
+g: golden bridge
+a: golden bridge; save face; back down; let them win; climb down; argument exit
+s: From Sun Tzu: build your opponent a golden bridge to retreat across. In everyday terms, let the other person back down without losing face.
+u: Give them an easy, dignified way out: "With what you knew then, that made sense."
+r: ch-resonate, vve-high-stakes
+f: What is resonate before redirect? || How do I handle a high-stakes conversation?
+src: The Behavior Ops Manual p. 51
+
+## ch-interruptions | ch | tough | Handling interruptions calmly
+a: interrupted; interruption; someone cuts me off; let me finish
+s: Stay calm and use their name: "One sec, James — let me finish this thought." Then finish it.
+u: Keep your voice level and don't speed up.
+r: vve-interruptions, vg-hard-to-interrupt
+f: What is the Bookmark? || How do I become hard to interrupt?
+src: The Behavior Ops Manual pp. 454–455
+
+## ch-plain-speech | ch | voice | Speak plainly: drop hedges
+a: hedging; hedge words; just; honestly; ill try; maybe; sound weak; tag questions; filler words
+s: Cut words that weaken what you say: "just", "honestly", "I'll try", "maybe" and needless tag questions ("…, right?"). Say a price, opinion or request once, calmly, then stop.
+u: Re-read your next email and delete every "just".
+r: vve-confident-language, vg-low-status
+f: What are low-status habits? || How do I sound confident?
+src: The Behavior Ops Manual pp. 453, 462–463
+
+## ch-objections | ch | tough | Honest objection handling (five S's)
+g: Sympathise Socialise Select Show Secure
+a: objection; objections; pushback; they say no; skeptical; worried customer; handle objection
+s: Hughes's five steps, used here only with true statements: Sympathise ("I felt the same"), Socialise ("many people do"), Select ("which part worries you most?"), Show (the real picture) and Secure ("does that help?").
+u: Only say "I felt the same" if you did.
+r: vve-nut-job, all-sincerity
+f: What is the NUT Job? || What is the sincerity test?
+src: The Behavior Ops Manual pp. 538–539
+
+## ch-use-names | ch | names | Use names and answer the implication
+a: use their name; names; hidden question; implication; tough question
+s: Use people's names, and when you're asked a question, answer both the question and its hidden implication — calmly.
+u: If asked "Is this on schedule?", answer that and the worry behind it.
+r: ch-names-stories, vve-name-game
+f: What is the Name Game? || How do I remember names?
+src: The Behavior Ops Manual pp. 887–889
+
+## ch-gratitude | ch | confidence | Gratitude and enjoyment
+a: gratitude; enjoyment; magnetic; enjoy the moment; grateful
+s: Two of Hughes's authority traits are gratitude towards people and visible enjoyment of the moment. He calls enjoyment highly magnetic. Gratitude has good research support.
+u: Thank one person specifically today and let yourself enjoy the conversation.
+r: ch-authority, vve-appreciation
+f: What is the authority triangle? || What is the Appreciation Matrix?
+src: The Behavior Ops Manual pp. 148–153
+
+## ch-acss | ch | confidence | ACSS: Authority, Comfort, Social skill, Skills
+g: ACSS
+a: acss; comfort; be comfortable; most comfortable person in the room
+s: Hughes's order of work: Authority and Comfort come before Social skills and Skills. Fix your comfort first — aim to be the most comfortable person in the room — and scripts matter much less.
+u: Before an event, work on calm rather than lines.
+r: ch-composure, ch-authority
+f: What is composure? || What is the authority triangle?
+src: DOAC 2024 https://www.youtube.com/watch?v=RvjR9GM2kX8 || The Behavior Ops Manual pp. 938–943
+
+## ch-authority | ch | confidence | Authority Triangle and five authority traits
+g: Authority Triangle; authority traits
+a: authority; presence; authority triangle; confidence discipline leadership gratitude enjoyment; life order
+s: Hughes sees authority as coming from behaviour, effect and habits, and from five traits: confidence, discipline, leadership, gratitude and enjoyment. He links it to order in your life (environment, time, appearance, social life, finances). It's self-work, not a tactic, and it isn't validated by research.
+u: Pick one area of life order to tidy this week.
+r: ch-acss, ch-gratitude, ch-lifestyle
+f: What are the lifestyle traits? || What is ACSS?
+src: The Behavior Ops Manual pp. 32, 122–198
+
+## ch-composure | ch | confidence | Composure: avoid collapse and posturing
+g: composure; collapse; posturing
+a: composure; nervous; calm; collapse; posturing; shrink; puff up; pendulum; stay calm
+s: Hughes describes a pendulum with two traps at either end: collapse (shrinking, apologising, going small) and posturing (puffing up, acting big). Composure sits in the middle. When things go wrong, tell yourself "this is part of life".
+u: Notice which way you swing under pressure, and aim for the middle.
+r: ch-move-slower, ch-nervous-excited, vg-presence
+f: Why move slower than the room? || Can I reframe nerves?
+src: The Behavior Ops Manual pp. 154–158, 164
+
+## ch-performance-mode | ch | confidence | Performance mode vs connection mode
+g: performance mode; connection mode
+a: performance; performing; self conscious; overthinking; camera view; nervous talking
+s: Talking to people isn't a performance. Hughes says shift your focus onto them instead of on how you're coming across — like switching from a camera pointed at you to one pointed at them.
+u: When you feel self-conscious, ask them a question.
+r: vve-at-ease, ch-role
+f: What is role application? || How do I be at ease?
+src: The Behavior Ops Manual p. 164
+
+## ch-nervous-excited | ch | confidence | Nervous = excited
+a: nervous; anxiety; anxious; butterflies; reframe nerves; im nervous
+s: Nerves and excitement feel almost the same in the body. Hughes suggests reframing nerves as excitement — research by Alison Wood Brooks supports saying "I'm excited" over "calm down".
+u: Before you walk in, say "I'm excited" to yourself.
+r: ch-composure, ch-stop-worrying
+f: What is composure? || How do I stop worrying?
+src: The Behavior Ops Manual pp. 164–165
+
+## ch-role | ch | confidence | Role application
+a: role; give yourself a role; my job is; host mindset
+s: Give yourself a role before you walk in: "My job is to make them feel interesting." A role takes the focus off you.
+u: Pick a role for your next event — host, connector or question-asker.
+r: ch-interesting, ch-performance-mode
+f: What is performance mode? || What does "interesting, not interested" mean?
+src: The Behavior Ops Manual p. 130
+
+## ch-rules-confidence | ch | confidence | Rules of confidence
+a: confidence; confident; self doubt; comparing myself; fake it
+s: Hughes's rules: everyone's faking it to some degree; expect good outcomes; the worst case is usually small; don't compare yourself with others.
+u: Before something scary, name the realistic worst case — it's usually small.
+r: ch-limiting-beliefs, ch-nervous-excited
+f: How do I change limiting beliefs? || Can I reframe nerves?
+src: The Behavior Ops Manual pp. 129, 134
+
+## ch-limiting-beliefs | ch | confidence | Limiting beliefs and self-talk
+a: limiting beliefs; self talk; growth mindset; negative thoughts; im not good at
+s: Spot the beliefs that hold you back ("I'm bad with people"), question them and rewrite them. Hughes pairs this with a growth mindset.
+u: Write one limiting belief and a truer rewrite.
+r: ch-rules-confidence, vg-relinking
+f: What is the second arrow? || What are the rules of confidence?
+src: The Behavior Ops Manual pp. 166–178
+
+## ch-lifestyle | ch | confidence | Lifestyle traits
+a: lifestyle; life order; appearance; finances; environment; time management
+s: Hughes believes order in five areas — environment, time, appearance, social life and finances — shows up in how you carry yourself.
+u: Pick the area that feels messiest and make one small fix.
+r: ch-authority
+f: What is the authority triangle? || What is ACSS?
+src: The Behavior Ops Manual pp. 179–183
+
+## ch-move-slower | ch | body | Move slower than the room
+g: swimming pool rule
+a: move slowly; slow movements; calm energy; swimming pool; calm assertive; jittery
+s: Fear speeds the body up. Hughes's rule of thumb: never move faster than you would in a swimming pool. Slow, deliberate movement reads as calm and trustworthy.
+u: Walk in at pool speed.
+r: vg-presence, ch-composure
+f: What does Vinh say about stillness? || What is composure?
+src: The Behavior Ops Manual pp. 144, 880
+
+## ch-display | ch | body | Display: let your face show their story
+a: display; react visibly; facial reaction; show interest
+s: React visibly to the high points of their story. Your face tells them you're with them — the "Display" step of the small-talk formula.
+u: Let your eyebrows and smile move when they hit the good part.
+r: ch-smalltalk, vg-expression
+f: What is the small-talk formula? || What does Vinh say about expression?
+src: The Behavior Ops Manual pp. 92, 129
+
+## ch-tonality | ch | voice | Tonality and pauses (Hughes)
+a: emphasis; which word to stress; tone hughes; stress words
+s: Where you put the emphasis changes the meaning of a sentence, so choose the word you stress, and pause around the key words.
+u: Say "I didn't say she took it" stressing a different word each time.
+r: vg-pause, vg-tonality
+f: How does Vinh use pauses? || How does your face change your tone?
+src: The Behavior Ops Manual pp. 498–499
+
+## ch-mammal | ch | story | Speak to the mammal: descriptive language
+a: descriptive language; concrete; vivid; story impact; reveal at the end
+s: Use concrete pictures people can see, and move the emotional reveal to the end of the sentence or story so it lands. Hughes outlines a Journey–Connection–Reveal shape.
+u: Replace one abstract word with a picture in your next story.
+r: vg-spark-point-link, vve-story-stack
+f: What is Spark–Point–Link? || What is the Story Stack?
+src: The Behavior Ops Manual pp. 452, 456–461, 473–484
+
+## ch-baseline | ch | body | Baseline and change
+g: baseline; five Cs
+a: baseline; body language change; read body language; clusters; context; five cs; what does it mean when
+s: Notice changes from someone's normal (their baseline), read clusters of signals in context and culture rather than one gesture — then ask, never conclude. A shift usually means stress or discomfort, not a lie.
+u: Gently ask: "Is this a comfortable thing to talk about?"
+r: lo-lie-spotting, vg-visual-radar, vg-vocal-radar
+f: Can you tell if someone is lying? || What is visual radar?
+src: The Behavior Ops Manual pp. 216–217, 302 || Read Anyone handbook §5.3
+
+## ch-stop-worrying | ch | confidence | Stop-worrying questions and day-tight compartments
+a: worry; worrying; overthinking; anxious thoughts; day tight compartments
+s: Two questions: what's worrying me, and what can I do about it? Then live in "day-tight compartments" — one day at a time.
+u: Write both answers down, do the first step, let the rest wait.
+r: ch-nervous-excited, ch-composure
+f: Can I reframe nerves? || What is composure?
+src: The Behavior Ops Manual pp. 165–166
+
+## ch-coaching | ch | practice | Self-coaching checklist
+a: review my conversations; self coaching; checklist; improve
+s: Hughes ends with a short self-coaching checklist for reviewing your own interactions afterwards.
+u: After an important chat, ask: did I listen, did they feel interesting, did I stay composed?
+r: vg-practical-magic, ch-smalltalk
+f: What is Practical Magic? || What is the small-talk formula?
+src: The Behavior Ops Manual p. 946

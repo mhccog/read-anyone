@@ -1,0 +1,861 @@
+## vve-about | vve | about | Who is Vanessa Van Edwards?
+a: who is vanessa; about vanessa; science of people; vanessa books; captivate cues conversation
+s: Vanessa Van Edwards runs Science of People, a behaviour research lab, and writes about the science of connection. On this page she's the teacher for openers, warmth and competence cues, follow-up questions and the nine power questions.
+d: Her three books here are Captivate (2017, fourteen "hacks" for first impressions and connection), Cues (2022, the body, voice and word signals behind charisma) and Conversation (2026, the three-level Conversation Blueprint). She curates a lot of research, but a few of her exact numbers are illustrations, so hold those loosely.
+u: Pick Van Edwards on the Teacher chips when you want openers, warmth and practical cues.
+r: vve-blueprint, vve-charisma, vve-triple-threat
+f: What is the Conversation Blueprint? || What are the nine power questions?
+src: scienceofpeople.com https://www.scienceofpeople.com/ || Read Anyone handbook §3
+
+## vve-blueprint | vve | ideas | The Conversation Blueprint
+g: Conversation Blueprint; three levels
+a: blueprint; levels of conversation; level 1 level 2 level 3; put people at ease connect deeply create meaning; go deeper in conversation
+s: Vanessa's map for a good conversation has three levels, taken in order and at the other person's pace: Level 1 puts people at ease (light facts and fun), Level 2 connects more deeply (goals, values, worries), and Level 3 creates meaning (the story they tell about their life).
+d: Each level has three power questions. You move up only when their answers get longer and warmer. If answers shrink, stay where you are or step back a level. Level 3 borrows from psychologist Dan McAdams's work on life stories.
+u: Start light, listen for energy, then go one level deeper than feels comfortable — but only as fast as they go.
+e: Level 1: "Working on anything exciting these days?" || Level 2: "What's your biggest goal right now?" || Level 3: "What would you do if you weren't afraid?"
+r: vve-power-questions, vve-go-deeper, vve-treasure
+f: What are the nine power questions? || How do I go deeper without being weird?
+src: Conversation, "The Conversation Blueprint" || https://www.scienceofpeople.com/conversation/ Science of People: Conversation
+
+## vve-power-questions | vve | openers | The nine power questions
+g: power questions; nine power questions
+a: 9 questions; best questions to ask; good questions; question list; conversation questions
+s: Vanessa's nine questions, three per level. Ease: exciting work, fun plans, passion project. Connect: biggest goal, what you've always wanted to learn, what you love to talk about. Meaning: which character you're most like, how you feel misunderstood, what you'd do if you weren't afraid.
+u: Use them in order. Save the Level 3 ones for people who already feel safe with you.
+e: "Working on anything exciting these days?" || "Have any fun plans coming up?" || "What's your personal passion project?" || "What's your biggest goal right now?" || "What have you always wanted to learn?" || "What do you love to talk about?" || "What book, movie or TV character are you most like?" || "How do you feel most misunderstood?" || "What would you do if you weren't afraid?"
+r: vve-blueprint, vve-pq-exciting, vve-pq-character
+f: Why "working on anything exciting" instead of "what do you do"? || What is the signature question?
+src: Conversation, Levels 1–3
+
+## vve-pq-exciting | vve | openers | "Working on anything exciting these days?"
+a: what do you do alternative; instead of what do you do; exciting work; job question; ask about work
+s: Vanessa's swap for "What do you do?" It lets people talk about work or anything better, and it doesn't feel like a question about their status or worth.
+u: Ask it lightly, then follow whatever lights them up, even if it isn't work.
+r: vve-power-questions, vve-treasure, vve-logline
+f: How do I answer "What do you do?" myself? || What is the treasure hunt?
+src: Conversation, Level 1 power question 1 || Read Anyone handbook §5.1
+
+## vve-pq-plans | vve | openers | "Have any fun plans coming up?"
+a: fun plans; weekend plans; future question
+s: The second Level 1 power question. It points the chat at something good in their near future, so it starts on a warm note.
+u: If they say "not really", share a small plan of your own and hand the question back.
+r: vve-power-questions, vve-ask-good
+f: What other openers does Vanessa suggest? || What is "ask for good"?
+src: Conversation, Level 1 power question 2
+
+## vve-pq-passion | vve | openers | "What's your personal passion project?"
+a: passion project; hobby question; side project
+s: The third Level 1 question. It invites a story instead of a fact, and most people light up when asked about the thing they do just because they love it.
+u: Follow up on the why: "What got you into that?"
+r: vve-power-questions, vve-pet-pest
+f: What are pet and pest projects? || What is the Conversation Blueprint?
+src: Conversation, Level 1 power question 3
+
+## vve-pq-goal | vve | deeper | "What's your biggest goal right now?"
+a: biggest goal; dreams question; ambitions
+s: A Level 2 power question that moves from facts to what someone is working towards. When they share it, get genuinely interested — Vanessa calls that dreambuilding.
+u: Only ask once the light chat is flowing, and be ready to be excited for them.
+r: vve-dreambuilding, vve-power-questions
+f: What is dreambuilding? || What if I don't like their dream?
+src: Conversation, Level 2 "Uncovering Secret Dreams"
+
+## vve-pq-learn | vve | deeper | "What have you always wanted to learn?"
+a: always wanted to learn; how to sound smart; curiosity question
+s: A Level 2 question that shows curiosity and makes you look thoughtful too. It reveals what someone values without asking about values directly.
+u: Follow up with "What's stopped you so far?" if the mood is right.
+r: vve-power-questions, vve-teach-me
+f: What is "teach me"? || What is the signature question?
+src: Conversation, Level 2 "How to Sound Smart"
+
+## vve-signature | vve | deeper | The signature question
+g: signature question
+a: what do you love to talk about; your own question; unique question; memorable question
+s: "What do you love to talk about?" is Vanessa's sixth power question, and she encourages you to build your own signature question — one you're known for, that people enjoy answering.
+u: Pick a question you'd genuinely love to hear answers to, and use it often enough that it becomes yours.
+r: vve-power-questions, vve-break-script
+f: How do I break the social script? || What are conversation sparkers?
+src: Conversation, Level 2 "Be Known as an Incredible & Unique Conversationalist"
+
+## vve-pq-character | vve | deeper | The character question
+g: character question
+a: what character are you most like; book movie tv character; back door question
+s: "What book, movie or TV character are you most like, and why?" is a Level 3 question. It's a gentle back door into how someone sees themselves, without asking anything too direct.
+u: Answer it yourself too, so it feels like play rather than an interview.
+r: vve-pq-misunderstood, vve-archetypes
+f: What are the five self-story archetypes? || What is Level 3?
+src: Conversation, Level 3 "Get People to Reveal Their True Selves"
+
+## vve-pq-misunderstood | vve | deeper | "How do you feel most misunderstood?"
+a: misunderstood question; deep question
+s: A Level 3 power question for relationships that can hold it. It shows you want to know the real person, not the polished one.
+u: Never ask it of a stranger. Ask it when there's trust, and listen without fixing.
+r: vve-pq-afraid, vve-fears
+f: What would you do if you weren't afraid? || How do I honour someone's fears?
+src: Conversation, Level 3
+
+## vve-pq-afraid | vve | deeper | "What would you do if you weren't afraid?"
+a: if you werent afraid; fear question; brave question
+s: The last of the nine power questions. It opens up hopes people rarely say out loud.
+u: If they share something big, respond with belief, not a reality check.
+r: vve-believe, vve-fears
+f: What is "I believe in you"? || How do I honour fears and desires?
+src: Conversation, Level 3
+
+## vve-treasure | vve | smalltalk | Small talk as a treasure hunt
+g: treasure hunt
+a: small talk; hate small talk; boring small talk; make small talk interesting; what do you like to do
+s: Vanessa treats small talk as hunting for what lights someone up. "What do you like to do?" beats "What do you do?" because it points at their interests rather than their job title.
+u: Watch for the topic that makes them speed up or smile, then dig there.
+r: vve-sparkers, vve-stories-not-facts, ch-smalltalk
+f: What are conversation sparkers? || What is Hughes's small-talk formula?
+src: Conversation, Level 1 "Turn Small Talk into a Treasure Hunt"
+
+## vve-stories-not-facts | vve | smalltalk | Ask for stories, not facts
+a: stories not facts; story questions; how was your weekend; positive memory prompt
+s: Ask for the story behind a fact. "Do anything fun this weekend?" pulls up a good memory, which feels better to share than a list of facts.
+u: When they give a fact, ask "How did that happen?" or "What was that like?"
+r: vve-treasure, vve-numbers-story
+f: How do I get quiet people to open up? || What is "tell me more"?
+src: Conversation, Level 1 "Ask for Stories, Not Facts"
+
+## vve-magic-phrases | vve | warmth | The five magic phrases
+g: magic phrases; five magic phrases
+a: magic phrase; best phrases; things to say
+s: Vanessa's five short phrases that build warmth: "I was just thinking of you", "Tell me more?", "Last time you mentioned…", "Same here!" and "You're so ___!" Each one only works when it's true.
+u: Look for honest moments to use each one this week.
+r: vve-thinking-of-you, vve-tell-me-more, vve-last-time, vve-same-here, vve-so-x
+f: What does "last time you mentioned" do? || Why say "same here"?
+src: Conversation, Level 1 "Five Magic Phrases"
+
+## vve-thinking-of-you | vve | warmth | "I was just thinking of you"
+a: thinking of you; reach out; text a friend
+s: The first magic phrase. When someone genuinely crosses your mind, tell them. It's a small, true signal that they matter to you.
+u: Send it the moment it happens — a text is enough.
+r: vve-magic-phrases, vve-pebbling
+f: What is pebbling? || What are the other magic phrases?
+src: Conversation, Level 1 magic phrase 1
+
+## vve-tell-me-more | vve | listening | "Tell me more?"
+a: tell me more; keep them talking; follow up question; follow-up questions
+s: Both Vanessa and Vinh rate this phrase highly. It invites more of what the person cares about, makes them feel heard, and buys you time. Research on follow-up questions backs it: people who ask more follow-ups are liked more.
+u: Say it with a slight lift and real curiosity, then stay quiet.
+r: vve-magic-phrases, vg-tell-me-more, all-follow-ups
+f: Why do follow-up questions work? || What does Vinh say about "tell me more"?
+src: Conversation, Level 1 magic phrase 2 || Huang et al. 2017, as cited in the handbook
+
+## vve-last-time | vve | warmth | "Last time you mentioned…"
+a: callback; remember details; last time you mentioned; follow up later
+s: The third magic phrase. Listen to remember, then call back a detail next time. It proves you were really listening.
+u: Jot down one detail after a conversation so you can bring it up later.
+r: vve-magic-phrases, ch-names-stories
+f: How do I remember names? || What is pebbling?
+src: Conversation, Level 1 magic phrase 3
+
+## vve-same-here | vve | warmth | "Same here!"
+a: same here; me too; in common; commonality
+s: The fourth magic phrase. When you spot a shared fact or feeling, say so. Similarity is one of the oldest findings in liking research.
+u: Only when it's true — fake common ground backfires and fails the sincerity test.
+r: vve-thread-theory, vve-magic-phrases
+f: What is Thread Theory? || What if we have nothing in common?
+src: Conversation, Level 1 magic phrase 4
+
+## vve-so-x | vve | warmth | "You're so ___!"
+a: youre so; be easily impressed; awe out loud; compliment
+s: The fifth magic phrase: be easily impressed and say it out loud. "You're so organised!" tells someone what you noticed and admire.
+u: Make it specific to something they just did.
+r: vve-compliments, vve-highlighter
+f: How do I give a good compliment? || What is the Highlighter?
+src: Conversation, Level 1 magic phrase 5
+
+## vve-priming | vve | openers | Priming words and first impressions
+g: priming words
+a: first impression; first 10 seconds; nice to meet you alternative; positive primer; wonderful to connect
+s: Vanessa suggests opening with a short positive primer like "Wonderful to connect" instead of the forgettable "Nice to meet you", and choosing warm, team words like "partner" and "collaborate".
+u: Plan your first sentence before you walk in so it's warm and specific.
+r: vve-permission-warmth, vve-triple-threat
+f: What is permission warmth? || What is the Triple Threat?
+src: Conversation, Level 1 "Ten Seconds to a Memorable First Impression"
+
+## vve-break-script | vve | openers | Break the social script
+g: social script
+a: autopilot; how are you alternative; boring questions; script
+s: Most small talk runs on autopilot ("How are you?" "Good, you?"). Vanessa says swap in a line that needs a real answer, like "What was the highlight of your day?"
+u: Pick one autopilot line you use and replace it this week.
+r: vve-how-are-you, vve-ask-good, vve-sparkers
+f: How do I answer "How are you?" || What are conversation sparkers?
+src: Conversation, Level 1 "The Weirdest, Best Party" || Read Anyone handbook §5.1
+
+## vve-high-stakes | vve | tough | High-stakes conversations: affirm, safety, shared mission
+a: high stakes; important meeting; nervous meeting; difficult conversation; job interview
+s: In a high-stakes talk, Vanessa says appreciate the other person, create a small pocket of safety, and name the mission you share. Asking for advice can also make you look more competent, not less.
+u: Open with one honest appreciation and "I think we both want…".
+r: vve-franklin, ch-golden-bridge, vg-yes-and
+f: What is the Franklin Effect? || How do I disagree nicely?
+src: Conversation, Level 1 "How to Handle High-Stakes Conversations"
+
+## vve-context-cues | vve | smalltalk | Context cues
+a: run out of things to say; nothing to say; what to talk about; how do you know the host
+s: When you run dry, use what's around you: the setting, the host, the event. "How do you know the host?" works almost anywhere.
+u: Scan the room for one shared thing before you start.
+r: vve-treasure, all-awkward-silence
+f: What do I do in an awkward silence? || What is Hughes's FORK?
+src: Conversation, Level 1 "Never Run Out of Things to Say"
+
+## vve-how-are-you | vve | smalltalk | Answering "How are you?"
+a: how are you; answer how are you; good thanks
+s: Instead of "Good, you?", have a small story or a fun answer ready, then turn it back with something better than the script, like "What's been good with you?"
+u: Keep one light, true story from your week ready to share.
+r: vve-break-script, vve-ask-good
+f: What is "ask for good"? || How do I answer "What do you do?"
+src: Conversation, Level 1 "How to Answer 'How Are You?'"
+
+## vve-logline | vve | smalltalk | A logline for "What do you do?"
+g: logline
+a: what do you do; answer what do you do; elevator pitch; describe my job
+s: Have a short, hooky one-liner about your work, and end with a hook back to them so the conversation continues.
+u: Write one sentence that a ten-year-old would find interesting, then add "How about you?"
+r: vve-pq-exciting, vve-verbal-catch, ch-four-threads
+f: What is Hughes's Four Threads formula? || What is verbal catch?
+src: Conversation, Level 1 "How to Answer 'What Do You Do?'"
+
+## vve-signal-liking | vve | warmth | Signal that you like them
+a: i like you; liking gap; show interest; they dont like me
+s: We like people who like us, and your signals are weaker than you think. Research on the "liking gap" shows people usually liked you more than you guessed, so amplify your warmth a little.
+u: Say what you enjoyed — "I really enjoyed that" — when it's true.
+r: vve-attunement, all-liking-gap
+f: What is the liking gap? || How do I end a conversation?
+src: Conversation, Level 1 "How to Create a Magnetic Presence" || Boothby et al. 2018, as cited in the handbook
+
+## vve-prepare-topics | vve | smalltalk | Prepare your topics
+a: be interesting; prepare for event; what to say at a party
+s: Interesting people arrive prepared: a few fresh questions and a couple of stories they're ready to tell.
+u: Before an event, note two questions and one recent story.
+r: vve-story-stack, vg-story-bank
+f: What is the Story Stack? || What is Vinh's Story Bank?
+src: Conversation, Level 1 "How to Be Interesting"
+
+## vve-can-i-guess | vve | smalltalk | "Can I guess?" for quieter people
+a: introverts; shy person; quiet person; talk to introverts
+s: Playful guessing ("Can I guess what you do?") invites quieter people in without putting them on the spot.
+u: Keep it light and let them correct you.
+r: vve-numbers-story, vg-match-mirror-lead
+f: How do I get people to open up? || How do I match a quiet person?
+src: Conversation, Level 1 "How to Talk to Introverts"
+
+## vve-numbers-story | vve | smalltalk | Numbers, then story
+a: open up; get people to talk; easy questions; how long have you lived here
+s: Start with easy number questions ("How long have you lived here?"), then build towards a story. Small, easy answers warm people up for bigger ones.
+u: Follow a number answer with "What brought you here?"
+r: vve-stories-not-facts, vve-can-i-guess
+f: Why ask for stories, not facts? || What is "tell me more"?
+src: Conversation, Level 1 "How to Encourage People to Open Up"
+
+## vve-yums | vve | warmth | Don't yuck my yums
+g: yuck my yums
+a: dont yuck; enthusiasm; they love something weird; respond to excitement
+s: When someone is excited about something, meet it with curiosity instead of a wince, even if it's not your thing.
+u: Ask "What do you love about it?"
+r: vve-dream-dont-love, vve-dreambuilding
+f: What if I don't like their dream? || What is dreambuilding?
+src: Conversation, Level 1 "Don't Yuck My Yums"
+
+## vve-transition | vve | smalltalk | Graceful topic transitions
+a: change topic; change the subject; shift gears; transition
+s: Signal the switch openly: "Totally shifting gears for a second, can I ask about…?" It feels smooth instead of abrupt.
+u: Use it when a topic has run dry rather than forcing it.
+r: vve-context-cues, all-awkward-silence
+f: What do I do when the conversation dies? || What is conversational confetti?
+src: Conversation, Level 1 "Talk About Shark Attacks"
+
+## vve-weather | vve | smalltalk | Weather only when it's good
+a: weather; talk about weather
+s: Vanessa says mention the weather only when it's good, and build on it. Bad-weather talk tends to drag the mood down.
+u: "Isn't this sunshine great? Got anything fun planned for it?"
+r: vve-ask-good
+f: What is "ask for good"? || What should I never ask?
+src: Conversation, Level 1 "Should I Ask About the Weather?"
+
+## vve-been-busy | vve | smalltalk | Never ask "Been busy?"
+a: been busy; busy; bad questions; dont ask
+s: "Been busy?" primes people to think about stress. Ask about something good instead.
+u: Swap it for "What's been the best part of your week?"
+r: vve-ask-good, vve-break-script
+f: What is "ask for good"? || How do I answer "How are you?"
+src: Conversation, Level 1 "Don't (Ever) Ask This"
+
+## vve-ask-good | vve | openers | Ask for good
+a: whats something good; icebreaker; meeting opener; dinner question
+s: Open meetings and dinners with "What's something good?" Emotions are contagious, so starting on a good note lifts the whole room.
+u: Go first with a small, real good thing.
+r: vve-been-busy, vve-weather
+f: What is conversational confetti? || What are good openers?
+src: Conversation, Level 1 "Use This Icebreaker…"
+
+## vve-confetti | vve | smalltalk | Conversational confetti
+g: conversational confetti
+a: tease a story; hook; can i tell you something weird
+s: Tease something interesting before you share it: "Can I tell you something really weird?" It sparks curiosity and gives the chat energy.
+u: Only tease what you can deliver — it must be genuinely interesting.
+r: vve-story-stack, vg-spark-point-link
+f: What is the Story Stack? || What is Spark–Point–Link?
+src: Conversation, Level 1 "A Trick from Master Conversationalists"
+
+## vve-mirror | vve | body | Be a mirror (mirroring)
+g: mirroring; mirror
+a: mirroring; mirror; mimic; copy their body language; chameleon
+s: Mirroring means subtly reflecting someone's positive gestures, posture or words. Vanessa says mirror the positive, never the negative, and keep it subtle — research on the "chameleon effect" found light mimicry raises liking, while obvious copying backfires.
+d: Vinh teaches a related idea, Match, Mirror and Lead: match their pace and volume first, then gently lead. Hughes's verbal mirror is the spoken version — repeat their last few words.
+u: Let it happen naturally; if you notice yourself copying, stop.
+r: vg-match-mirror-lead, ch-verbal-mirror, vve-warmth-cues
+f: What is Match, Mirror and Lead? || What is the verbal mirror?
+src: Conversation, Level 1 "Be a Mirror" || Cues ch. 4 || Chartrand & Bargh 1999, as cited in the handbook
+
+## vve-at-ease | vve | confidence | Be at ease, not impressive
+a: trying to impress; impress people; be cool; show off
+s: Drop the clever line. Vanessa says people connect with someone relaxed who lets them shine, not with someone performing.
+u: Make your goal "help them feel at ease" instead of "impress them".
+r: ch-performance-mode, vve-anti-perfect
+f: What is performance mode? || Should I show flaws?
+src: Conversation, Level 1 "Stop Trying to Impress People"
+
+## vve-exit | vve | exits | The graceful exit
+g: graceful exit
+a: end a conversation; leave a conversation; exit; wrap up; say goodbye; get away
+s: Vanessa's three-step exit: mention something in the future, give a specific compliment plus your next action, then wave and go. "Good luck with the launch next week — I loved hearing about it. I'm going to grab a drink. Talk soon!"
+d: A big study found conversations almost never end when both people want them to, so ending on purpose is a kindness, not a rejection.
+u: Leave on a high, not when the chat has fizzled.
+e: "I'm so glad we met. Good luck with the move! I'm going to say hi to the host."
+r: all-end-on-purpose, ch-barkeep, vve-anchor-touch
+f: Why end on purpose? || How do I leave someone who won't stop talking?
+src: Conversation, Level 1 "How to Gracefully End a Conversation" || Mastroianni et al. 2021, as cited in the handbook
+
+## vve-dreambuilding | vve | deeper | Dreambuilding
+g: dreambuilding
+a: support someones goal; react to good news; capitalisation; be excited for them
+s: When someone shares a goal or good news, get excited, bring ideas, and check back later. Research on responding to good news shows enthusiastic, active responses build relationships.
+u: Ask a follow-up and offer one idea or contact that might help.
+r: vve-pq-goal, vve-pebbling
+f: What if I don't like their dream? || What is pebbling?
+src: Conversation, Level 2 "Uncovering Secret Dreams"
+
+## vve-dream-dont-love | vve | deeper | When you don't love their dream
+a: dont like their dream; disagree with their plan; skeptical of their idea
+s: Instead of doubting, get curious: ask what got them into it and where they see it going.
+u: Curiosity first; give your view only if they ask.
+r: vve-yums, vve-curious-critical
+f: What is "curious before critical"? || What is dreambuilding?
+src: Conversation, Level 2 "What to Do When You Don't Like Their Dream"
+
+## vve-assertive | vve | tough | Assertive curiosity and a clear ask
+a: be assertive; ask for what i want; speak up; make a request
+s: Ask what, where, who and why to understand, then claim a goal and an action: "I need X. Can you do Y?"
+u: Keep the request short and specific, then stop talking.
+r: vve-own-it, ch-plain-speech
+f: How do I speak plainly? || How do I give a reason with a request?
+src: Conversation, Level 2 "Be More Assertive"
+
+## vve-feedback | vve | tough | Tough feedback, warmly
+a: give feedback; criticism; tell someone they did badly; constructive feedback
+s: Lead with your belief in them, be specific about what happened, then ask how you can help it not happen again.
+u: One issue at a time, said calmly, then listen.
+r: vve-nut-job, vg-situation-not-person
+f: How do I argue about the situation, not the person? || What is the NUT Job?
+src: Conversation, Level 2 "How to Deliver Tough Feedback"
+
+## vve-calm | vve | tough | Calm someone down by naming, not suppressing
+a: calm down; angry person; upset person; someone is upset; de-escalate
+s: Never say "calm down". Vanessa says acknowledge the feeling, then ask "Can you tell me more about that?" Research shows naming a feeling can lower its intensity, while suppressing it backfires.
+u: Name it as a question ("Sounds frustrating?") and slow your own voice.
+r: vg-undercurrent, vg-match-mirror-lead, all-label-feeling
+f: How do I name someone's feelings? || How does Vinh calm someone?
+src: Conversation, Level 2 "How to Calm Someone Down" || Lieberman et al. 2007, as cited in the handbook
+
+## vve-vips | vve | tough | Talking to your boss or VIPs
+a: boss; vip; important people; famous person; senior person; manager
+s: Skip the fan compliment. Talk to VIPs at Level 2: ask for their take on something real.
+u: "What's your read on where this is heading?" — then listen properly.
+r: vve-blueprint, ch-teach-me
+f: What is Level 2? || What is "teach me"?
+src: Conversation, Level 2 "How to Talk to Your Boss (or VIPs)"
+
+## vve-pebbling | vve | warmth | Pebbling (be a penguin)
+g: pebbling
+a: penguin; keep in touch; stay in touch; maintain friendships; send a link
+s: Penguins give pebbles as small gifts. Vanessa says send small "this made me think of you" pebbles — a link, a photo, a quick follow-up on something they told you.
+u: Send one pebble this week to someone you've been meaning to contact.
+r: vve-thinking-of-you, vve-last-time
+f: What are the magic phrases? || How do I make friends as an adult?
+src: Conversation, Level 2 "Be a Penguin"
+
+## vve-pet-pest | vve | deeper | Pet and pest projects
+g: pet project; pest project
+a: pet project; pest project; hassles; motivation; complain
+s: Ask about the project they love (pet) and the hassle they're living with (pest). For a pest, ask whether they want support or just a good rant.
+u: "Do you want ideas, or do you just want to vent?"
+r: vve-pq-passion, vg-traps
+f: What are the listening traps? || What is the passion project question?
+src: Conversation, Level 2 "Discover Hidden Motivations" and "Bond Over Pest Projects"
+
+## vve-humour | vve | warmth | Laughter, being your own butt and inside jokes
+a: be funny; humour; humor; self deprecation; inside jokes; laugh
+s: Shared laughs are relationship glue. Vanessa says the easiest way to be funny is to be your own butt — gently — and to call back a shared joke later.
+u: Laugh at yourself lightly; never at them.
+r: vg-humour, vve-anti-perfect
+f: What does Vinh say about humour? || Should I show my flaws?
+src: Conversation, Level 2 "The Easiest Way to Be Funny", "Be Your Own Butt"
+
+## vve-confident-language | vve | confidence | Simple, confident language
+a: sound confident; simple words; speak with confidence; im confident that
+s: Short, simple words make you sound smarter, not less. Vanessa also suggests "I'm confident that…" and framing what you want rather than what's wrong.
+u: Cut long words when a short one will do.
+r: ch-plain-speech, vve-vocal-power
+f: Which hedging words should I drop? || How do I sound confident?
+src: Conversation, Level 2 "Speak with Confidence"
+
+## vve-verbal-catch | vve | listening | Verbal catch: "How about you?"
+g: verbal catch
+a: talk too much; i talk too much; take turns; how about you; dominate conversation
+s: Treat conversation like a game of catch. After your bit, hand the ball back with "How about you?"
+u: If you've talked for over a minute, toss the ball back.
+r: vve-logline, ch-smalltalk
+f: How do I stop talking too much? || What is the small-talk formula?
+src: Conversation, Level 2 "Make Sure You Don't Talk Too Much"
+
+## vve-connector | vve | groups | Be a connector
+g: connector
+a: introduce people; introductions; networking; connect people
+s: Introduce people around a shared keyword: "You both love climbing!" It makes you memorable and makes them feel looked after.
+u: Give each person one interesting fact about the other.
+r: vve-highlighter, ch-barkeep
+f: What is the Highlighter? || What is Hughes's Barkeep?
+src: Conversation, Level 2 "How to Be a Connector" || Captivate ch. 4
+
+## vve-friends | vve | groups | How to make friends
+a: make friends; new friends; adult friendships; lonely
+s: Vanessa's approach: schedule regular social hours, build shared contexts (a class, a club, a regular spot), and try small "friendship tests" like a low-key invitation.
+u: Pick one regular thing and show up every week.
+r: vve-pebbling, vve-social-game-plan
+f: What is pebbling? || What is the Social Game Plan?
+src: Conversation, Level 2 "How to Make Friends"
+
+## vve-disliked | vve | confidence | The courage to be disliked
+a: not everyone likes me; people dont like me; rejection
+s: Not everyone will click with you, and that's fine. Accepting it frees you to be yourself with the people who do.
+u: Treat a flat conversation as information, not a verdict.
+r: all-liking-gap, ch-rules-confidence
+f: What is the liking gap? || What are Hughes's rules of confidence?
+src: Conversation, Level 2
+
+## vve-narrative-hints | vve | listening | Follow narrative hints
+a: their story; how they see their life; what did that teach you
+s: When someone hints at how they see their life ("I've always been the responsible one"), follow it: "What did that teach you?"
+u: Listen for "always", "never" and "I'm the kind of person who…".
+r: vve-archetypes, vve-change-story
+f: What are the five self-story archetypes? || How do I help someone change their story?
+src: Conversation, Level 3 "What's Your Story?" and "How to Listen"
+
+## vve-archetypes | vve | deeper | Five self-story archetypes
+g: self-story archetypes; archetypes
+a: ambitious hero; contented pragmatist; selfless helper; creative disruptor; unlucky struggler; personality types
+s: Vanessa describes five ways people tell their life story: the ambitious hero, contented pragmatist, selfless helper, creative disruptor and unlucky struggler. Read Anyone uses them only as colour for how to respond, never as a label.
+u: Never name the type out loud; just respond to the story they're telling.
+r: vve-narrative-hints, all-six-needs
+f: Are the six needs labels? || What is Level 3?
+src: Conversation, Level 3 "Know Who You're Dealing With"
+
+## vve-lucky | vve | deeper | "Are you lucky?"
+a: are you lucky; luck question; optimism
+s: One question that reveals optimism and how much control someone feels over their life.
+u: Ask it playfully, then follow up on their reason.
+r: vve-money, vve-archetypes
+f: What is the money question? || What are the self-story archetypes?
+src: Conversation, Level 3 "The One Question…"
+
+## vve-money | vve | deeper | The money question
+a: when do you feel rich; money narrative; money talk
+s: "When do you feel rich?" opens up how someone thinks about money. Only for people close enough to hold it.
+u: Share your own answer first.
+r: vve-lucky, vve-pq-misunderstood
+f: What is "are you lucky?" || What is Level 3?
+src: Conversation, Level 3 "A Question That Might Lead to Divorce"
+
+## vve-awe | vve | deeper | Awe
+a: awe; be amazed; connection ingredient
+s: Vanessa calls awe the most important connection ingredient: be ready to be amazed by someone's story.
+u: Listen as if their story could surprise you — it often will.
+r: vve-so-x, vve-believe
+f: What is "I believe in you"? || What is dreambuilding?
+src: Conversation, Level 3 "The Single Most Important Connection Ingredient"
+
+## vve-believe | vve | warmth | "I believe in you"
+a: i believe in you; encourage; support someone; courage
+s: Four words that fuel courage. Said with conviction, they can help someone take a step they're scared of.
+u: Say it slowly and mean it; don't add "but".
+r: vve-pq-afraid, vve-fears
+f: How do I honour someone's fears? || What is awe?
+src: Conversation, Level 3 "Four Words That Fuel Courage"
+
+## vve-fears | vve | deeper | Honour fears and desires
+a: someones fears; secret desires; scared; vulnerable conversation
+s: Make it safe for people to say what scares them and what they secretly want, then offer support rather than judgment.
+u: Thank them for telling you before you say anything else.
+r: vve-believe, vg-vulnerability
+f: What does Vinh say about vulnerability? || How do I help someone change their story?
+src: Conversation, Level 3 "Hidden Fears and Secret Desires"
+
+## vve-change-story | vve | deeper | Help change the story
+a: reframe; change the story; negative story; they think theyre a failure
+s: Help someone see the story they tell about themselves and find a kinder, truer version. Vinh's "second arrow" idea is a close cousin.
+u: Ask "Is there another way to read that?" rather than arguing.
+r: vg-relinking, vve-narrative-hints
+f: What is the second arrow? || What are narrative hints?
+src: Conversation, Level 3 "How to Change the Story"
+
+## vve-be-known | vve | deeper | Allow yourself to be known
+a: open up; share myself; be vulnerable; autopilot answers
+s: Connection runs both ways. Answer deep questions honestly instead of on autopilot.
+u: Next time someone asks a real question, give a real answer.
+r: vg-vulnerability, ch-go-first
+f: What does "go first" mean? || What does Vinh say about vulnerability?
+src: Conversation, Level 3 "Allow Yourself to Be Known"
+
+## vve-social-game-plan | vve | groups | The Social Game Plan
+g: Social Game Plan; Winger; Riser
+a: social game plan; winger; riser; thrive spots; networking event; party strategy; where to stand
+s: Captivate's first hack: go where you thrive, skip what you dread, and plan your position in the room. Bring a Winger (a friend on your social adventure) and pick a Riser (someone you want to level up with).
+d: Vanessa sorts places into thrive, neutral and survive spots, and the room into the start zone (entrance), side zone (corners) and social zone (where people come off the bar or food). The challenge: say no to one event you dread.
+u: At your next event, find the social zone instead of hovering by the door.
+r: vve-triple-threat, vve-friends
+f: What is the Triple Threat? || How do I join a group?
+src: Captivate ch. 1
+
+## vve-triple-threat | vve | body | The Triple Threat
+g: Triple Threat; Launch Stance
+a: first impression body language; launch stance; handshake; visible hands; posture first impression
+s: Vanessa's three first-impression cues: visible hands, the Launch Stance (shoulders down and back, chin and chest up, space between arms and body) and good eye contact.
+d: The "60–70% eye contact" figure she uses is best treated as a rule of thumb, not a lab number. Her challenge for this chapter is a handshake audit.
+u: Before you walk in, check: hands out of pockets, shoulders down, chin up.
+r: vve-charisma-cues, vg-posture-doorway
+f: What is Vinh's doorway reset? || What are charisma cues?
+src: Captivate ch. 2
+
+## vve-sparkers | vve | openers | Conversation sparkers and hot buttons
+g: conversation sparkers; sparkers; hot buttons
+a: sparkers; conversation sparks; spark; hot button; novel questions; interesting questions
+s: Conversation sparkers are fresh questions that get people out of autopilot. Hot buttons are the topics that make someone lean in — when you spot one, dig there.
+u: Replace one stale question ("Where are you from?") with a sparker ("Working on anything exciting?").
+r: vve-treasure, vve-power-questions, vve-break-script
+f: What are the nine power questions? || What is the treasure hunt?
+src: Captivate ch. 3
+
+## vve-name-game | vve | names | The Name Game
+g: Name Game
+a: remember names; forget names; names; name memory; bad with names
+s: Vanessa's three steps to remember a name: hear it (really listen), repeat it back ("Mike, nice to meet you"), and anchor it to someone you already know with the same name, picturing them together.
+d: She calls it a fun way to gamify names and suggests teaching it to friends so you can help each other find anchors. Practise on a TV show: try the steps every time a new character appears.
+u: Say the name back once, clearly, in the first sentence.
+r: ch-names-stories, ch-use-names
+f: What if I forget a name? || What does Hughes say about names?
+src: Captivate ch. 3 (pp. 68–69)
+
+## vve-highlighter | vve | groups | The Highlighter (raving introductions)
+g: Highlighter
+a: introduce someone; raving introduction; introductions; tell people what impresses you
+s: Introduce people by their best qualities ("This is Sam — she just ran her first marathon"). Vanessa says be a highlighter: point out what's great in others.
+u: Next time you introduce someone, add one thing that impresses you about them.
+r: vve-connector, vve-pygmalion
+f: What is a connector? || What is the Pygmalion effect?
+src: Captivate ch. 4
+
+## vve-pygmalion | vve | ideas | Expect the best (Pygmalion)
+g: Pygmalion effect
+a: pygmalion; expectations; expect the best; vow of silence
+s: Your expectations of people shape how they behave around you. Listen for the good and you'll tend to bring it out.
+u: Before a meeting, decide one good thing you expect from the other person.
+r: vve-highlighter, all-assume-liked
+f: What is the Highlighter? || Do people like me more than I think?
+src: Captivate ch. 4
+
+## vve-thread-theory | vve | smalltalk | Thread Theory
+g: Thread Theory; five whys
+a: thread theory; me too; commonalities; five whys; common ground; things in common
+s: Look for three things in common in the first three minutes, ask "why?" in different ways to go deeper (the five whys), and offer help where you can. Shared threads tie people together.
+u: When you hit a "me too", ask "What got you into it?"
+r: vve-same-here, vve-teach-me, vg-threads
+f: What if we have nothing in common? || What are Vinh's conversational threads?
+src: Captivate ch. 5
+
+## vve-teach-me | vve | smalltalk | "Teach me?"
+a: teach me; nothing in common; no common ground; dont know anything about it
+s: When there's no "me too", Vanessa says ask them to teach you. People enjoy explaining what they know, and you learn something.
+u: "I know nothing about that — teach me?"
+r: vve-thread-theory, ch-teach-me
+f: What does Hughes say about "teach me"? || What is Thread Theory?
+src: Captivate ch. 5
+
+## vve-decoder | vve | body | The Decoder: seven microexpressions
+g: microexpressions; Decoder
+a: microexpression; facial expressions; read faces; seven emotions; contempt; fear face
+s: Captivate's Decoder teaches the seven universal expressions (anger, contempt, happiness, fear, surprise, disgust, sadness). Read Anyone uses this only to notice a feeling and respond kindly — never to decide someone is lying.
+u: If you see a flash of a feeling, respond to it gently: "Did that land oddly?"
+r: lo-lie-spotting, vg-visual-radar
+f: Can you spot liars from body language? || What is visual radar?
+src: Captivate ch. 6
+
+## vve-speed-read | vve | ideas | Speed-Reading personality (Big Five)
+g: Big Five; Speed-Read
+a: personality; big five; openness; conscientiousness; extraversion; agreeableness; neuroticism; read personality
+s: Vanessa uses the Big Five traits to adapt how you talk: openness, conscientiousness, extraversion, agreeableness and neuroticism. It's a guide for adapting, not a way to label people.
+u: Notice, adapt a little, and stay open to being wrong.
+r: all-six-needs, vve-archetypes
+f: Are the six needs labels? || What is the Appreciation Matrix?
+src: Captivate ch. 7
+
+## vve-appreciation | vve | warmth | The Appreciation Matrix
+g: Appreciation Matrix; appreciation languages
+a: thank someone; appreciation; love languages; show appreciation; gratitude
+s: People feel appreciated in different ways: words, time, acts of service, gifts and (where appropriate) touch. Vanessa says thank people their way, not yours.
+u: Notice how someone thanks others — that's often how they like to be thanked.
+r: ch-gratitude, vve-primary-value
+f: What is Primary Value? || What does Hughes say about gratitude?
+src: Captivate ch. 8
+
+## vve-primary-value | vve | ideas | Primary Value
+g: Primary Value
+a: what people value; resources; love service status money goods information
+s: Based on Foa's resource theory, people trade six kinds of value: love, service, status, money, goods and information. Knowing what someone values helps you give in a way that means something to them.
+u: Ask yourself what this person seems to value most, then offer that sincerely.
+r: vve-appreciation, ch-values-map
+f: What is Hughes's Values Map? || What is the Appreciation Matrix?
+src: Captivate ch. 9
+
+## vve-story-stack | vve | story | Story Stack and the Boomerang
+g: Story Stack; Boomerang
+a: story stack; stories to tell; boomerang; what story to tell
+s: Prepare stories for common topics, each with a hook, a struggle and vivid words. After you tell one, boomerang the topic back: "Has that ever happened to you?"
+u: Build a stack of three stories for the topics that come up most.
+r: vg-story-bank, vg-spark-point-link
+f: What is Vinh's Spark–Point–Link? || What is the Story Bank?
+src: Captivate ch. 10
+
+## vve-own-it | vve | tough | Own It! (buy-in and "because")
+g: Own It
+a: buy in; get buy-in; because; give a reason; delegate; ownership
+s: Share the mission, hand over real ownership, and give a reason when you ask for something. The word "because" with a real reason makes requests feel fair.
+u: "Could you take this on, because you know the client best?"
+r: vve-assertive, ch-decision-style
+f: How do I make a clear ask? || What are decision styles?
+src: Captivate ch. 11
+
+## vve-franklin | vve | warmth | The Franklin Effect and being anti-perfect
+g: Franklin Effect; anti-perfect
+a: ask for advice; franklin effect; show weakness; flaws; pratfall
+s: Asking someone for advice tends to make them like you more, and admitting a small weakness makes you easier to warm to. Vanessa calls it being anti-perfect.
+u: Ask for genuine advice on something you actually want help with.
+r: vve-anti-perfect, ch-insecurities
+f: Should I share my insecurities? || What is "teach me"?
+src: Captivate ch. 12
+
+## vve-anti-perfect | vve | warmth | Show a small imperfection
+a: imperfect; be human; perfect; flaws early
+s: Showing a small human imperfection early helps people relax, because they stop waiting for the flaw.
+u: Admit something small and true, lightly.
+r: vve-franklin, ch-insecurities, vg-vulnerability
+f: What does Vinh say about vulnerability? || What is the Franklin Effect?
+src: Captivate ch. 12 || Read Anyone handbook §5.1
+
+## vve-nut-job | vve | tough | The NUT Job
+g: NUT Job
+a: nut; name understand transform; fear; worried person; objection
+s: For someone who's worried or resistant: Name the fear, Understand it, Transform it into a solution together.
+u: "Sounds like you're worried about the cost. Tell me more?" — then work on it together.
+r: ch-objections, vve-calm
+f: How does Hughes handle objections honestly? || How do I calm someone down?
+src: Captivate ch. 13
+
+## vve-say-no | vve | tough | Counter-offers and saying no
+a: say no; decline; counter offer; turn down
+s: Say no to the thing, yes to the person: "I can't do dinner, but let's grab a coffee."
+u: Offer the version you can genuinely do.
+r: vve-assertive, ch-plain-speech
+f: How do I make a clear ask? || How do I speak plainly?
+src: Captivate ch. 13
+
+## vve-attunement | vve | warmth | Attunement
+g: attunement
+a: attunement; belonging; curiosity; enjoy their company
+s: Vanessa's final hack: reciprocal liking, belonging and curiosity. Her challenge: tell one person you enjoy their company.
+u: Say it today to someone it's true about.
+r: vve-signal-liking, all-liking-gap
+f: What is the liking gap? || How do I signal liking?
+src: Captivate ch. 14
+
+## vve-charisma | vve | ideas | Charisma = warmth + competence
+g: charisma; Charisma Dial; warmth and competence; Danger Zone
+a: charisma; warm; competent; charismatic; likeable and smart; danger zone; charisma dial
+s: Vanessa defines charisma as a balance of warmth (can I trust you?) and competence (can I rely on you?). Her Charisma Dial means turning one up or down to suit the moment. Low on both is her "Danger Zone".
+d: This rests on well-supported research on warmth and competence (Fiske, Cuddy and Glick, 2007). Competence without warmth reads as cold; warmth without competence can read as nice but not credible.
+u: In most first meetings, lead with warmth, then show one clear point of competence.
+r: vve-warmth-cues, vve-power-cues, all-warmth-first
+f: What are warmth cues? || What are power cues?
+src: Cues ch. 1 || Fiske, Cuddy & Glick 2007, as cited in the handbook
+
+## vve-cue-cycle | vve | ideas | The Cue Cycle
+g: Cue Cycle
+a: cues are contagious; decode encode; cue cycle
+s: Vanessa says cues spread between people: we decode others' signals, encode our own, and internalise them. Your calm or tension can rub off on others.
+u: Change your own cues first — they set the tone.
+r: vve-charisma, vve-danger-cues
+f: What are danger-zone cues? || What is charisma?
+src: Cues ch. 2
+
+## vve-charisma-cues | vve | body | Charisma cues: lean, no blocks, face them
+g: charisma cues; anti-blocking; fronting
+a: lean in; blocking; face them; fronting; personal space; body language interest
+s: Show interest with your body: lean in a little, remove barriers between you (laptops, crossed arms, bags), point toes, torso and head towards them, respect personal space and use purposeful eye contact.
+u: Clear the table between you and turn your whole body their way.
+r: vve-warmth-cues, vve-triple-threat
+f: What are warmth cues? || What is the Triple Threat?
+src: Cues ch. 3
+
+## vve-warmth-cues | vve | body | Warmth cues
+g: warmth cues
+a: look warm; friendly body language; approachable; head tilt; eyebrow raise
+s: Vanessa's warmth cues: a well-timed head tilt, a slow triple nod, a quick eyebrow raise for interest, a real smile, light appropriate touch, and mirroring the positive.
+u: Pick one — the head tilt while listening is easiest — and practise it this week.
+r: vve-triple-nod, vve-head-tilt, vve-mirror
+f: What is the triple nod? || What does a head tilt do?
+src: Cues ch. 4
+
+## vve-triple-nod | vve | body | The slow triple nod
+g: triple nod; slow triple nod
+a: nod; nodding; triple nod; nod three times; get people to talk more
+s: A slow nod in threes while someone talks encourages them to keep going and shows you're with them. Speed matters: slow nods feel thoughtful, fast nods look like "hurry up".
+d: Vanessa's exercise: say "I hear you… I hear you… I hear you" slowly, about one per second, nodding with each. The often-quoted "67% longer" figure is best held loosely. To show quiet disagreement, she says simply withhold your nods.
+u: Use it when you want someone to open up more.
+r: vve-warmth-cues, vve-head-tilt, vve-vocal-invitations
+f: What does a head tilt do? || What are vocal invitations?
+src: Cues ch. 4 || Conversation, Level 1
+
+## vve-head-tilt | vve | body | The head tilt
+g: head tilt
+a: head tilt; tilt head; tilt
+s: A slight head tilt while someone talks says "I'm listening, tell me more". Vanessa says time your tilts for the moments that matter rather than holding one all the time.
+u: Tilt when they get to the important part.
+r: vve-triple-nod, vve-warmth-cues
+f: What is the triple nod? || What are warmth cues?
+src: Cues ch. 4
+
+## vve-power-cues | vve | body | Power cues
+g: power cues; steeple; lower-lid flex
+a: look confident; competent body language; steeple; lower lid; explanatory gestures; palms down; take up space
+s: Vanessa's competence cues: confident posture that takes up space, a focused lower-lid flex when listening hard, the steeple (fingertips touching), explanatory gestures that show your point, and palms down for a firm point.
+u: Use gestures that show the size, shape or number you're describing.
+r: vve-charisma, vg-power-sphere
+f: What is Vinh's Power Sphere? || How do I stop interruptions?
+src: Cues ch. 5
+
+## vve-interruptions | vve | tough | Stop interruptions nicely: Fish, Bookmark, Anchor Touch, Preview
+g: the Fish; the Bookmark; Anchor Touch; Preview technique
+a: interrupted; interrupt; interrupter; someone keeps interrupting; talks too much; droner; won't stop talking; get a word in
+s: Vanessa's gentle toolkit for interrupters and talkers: the Fish (open your mouth slightly, as if about to speak), the Bookmark (raise a hand, palm out, to hold your place), the Anchor Touch (a light touch on the arm to bring them back, only where touch is welcome), and the Preview (say "I've got three points" up front).
+u: Start with the Preview before you speak, and the Bookmark if they jump in.
+r: ch-interruptions, vve-exit
+f: What does Hughes say about interruptions? || How do I end a conversation?
+src: Cues ch. 5
+
+## vve-anchor-touch | vve | exits | Leaving a monologue
+a: someone wont stop talking; trapped in conversation; escape conversation; long story
+s: When someone's lost in a monologue, Vanessa suggests the Fish, then the Bookmark, then, if touch is appropriate, a light Anchor Touch on the arm. Use the pause to add your bit — or to say a warm goodbye.
+u: Pair the pause with a graceful exit line.
+r: vve-interruptions, vve-exit
+f: What is the graceful exit? || How do I stop interruptions?
+src: Cues ch. 5
+
+## vve-danger-cues | vve | body | Danger-zone cues
+g: danger-zone cues; resting face
+a: distancing; self soothing; blocking; lip purse; shame; resting face; incongruence; bad body language
+s: Cues that lower trust: distancing, self-comforting (rubbing, fidgeting), blocking, signs of shame, lip purses and a cold resting face. Notice them in yourself first. When your words and body don't match, people trust the body less.
+u: Check your resting face in a video call — soften it a little.
+r: vve-cue-cycle, vg-expression
+f: What does Vinh say about facial expression? || What are warmth cues?
+src: Cues ch. 6
+
+## vve-vocal-power | vve | voice | Vocal power
+g: uptalk; vocal fry; power pause
+a: sound confident; uptalk; vocal fry; voice confidence; end sentences down; um
+s: Vanessa's vocal power basics: speak at your natural low pitch, end statements going down rather than up (no uptalk), avoid vocal fry, control your volume, and use a power pause instead of "um".
+u: Record yourself and check the last word of each sentence goes down.
+r: vg-melody, vg-pause, vve-vocal-variety
+f: How does Vinh use pauses? || What is vocal variety?
+src: Cues ch. 7
+
+## vve-permission-warmth | vve | openers | Permission warmth (the vocal hug)
+g: permission warmth; vocal hug
+a: warm greeting; greet someone; so good to see you; vocal hug; say hi
+s: Open with genuine warmth in your voice: "So good to see you!" It gives the other person permission to be warm back.
+u: Lift your voice a little on the hello.
+r: vg-generosity-energy, vve-priming
+f: What is generosity of energy? || What are priming words?
+src: Cues ch. 8
+
+## vve-vocal-invitations | vve | listening | Vocal invitations
+g: vocal invitations
+a: listening sounds; mm hm; uh huh; and then; encourage them to talk
+s: Little listening sounds and nudges — "Mm-hm… and then?" — invite people to keep going.
+u: Pair them with a slow nod.
+r: vve-triple-nod, vve-tell-me-more
+f: What is the triple nod? || What is "tell me more"?
+src: Cues ch. 8
+
+## vve-vocal-variety | vve | voice | Vocal variety and a nonverbal script
+g: vocal variety; nonverbal script
+a: vocal variety; monotone; boring voice; script my delivery; presentation voice
+s: Vary your voice so people stay with you. For important talks, Vanessa suggests marking your script with where to smile, pause and emphasise.
+u: Mark three words to stress and one place to pause in your next talk.
+r: vg-melody, vg-rate, vve-vocal-power
+f: What is Vinh's siren technique? || How does Vinh think about rate?
+src: Cues ch. 8
+
+## vve-verbal-chameleon | vve | voice | Warm vs competent words (verbal chameleon)
+g: verbal chameleon; warm words; competent words
+a: word choice; warm words; competent words; email tone; match their style
+s: Count the warm words (thanks, excited, together) and competent words (results, plan, data) in what you write and say. Then shift the mix to match the other person's style — a verbal chameleon.
+u: Before sending an email, check you've got at least one warm word.
+r: vve-charisma, ch-their-words
+f: What does Hughes say about using their words? || What is charisma?
+src: Cues ch. 9
+
+## vve-imagery | vve | ideas | Imagery cues
+g: imagery cues
+a: profile photo; background; colours; clothes; video background
+s: Colours, props, backgrounds and photos also send warmth or competence signals — think about your profile picture or video background.
+u: Check your profile photo shows your hands or a real smile.
+r: vve-charisma, vg-video
+f: What does Vinh say about video calls? || What is charisma?
+src: Cues ch. 10
+
+## vve-curious-critical | vve | tough | Curious before critical
+a: curious before critical; frustrated with someone; annoyed; judge someone
+s: When someone frustrates you, ask what explanation you'd give if you'd done the same thing. It turns judgment into curiosity.
+u: Ask "What might be going on for them?" before you react.
+r: ch-people-are-reasons, vg-undercurrent
+f: What does Hughes mean by "people are reasons"? || What is the undercurrent?
+src: Vanessa on TikTok, via Read Anyone handbook §5.1
+
+## vve-compliments | vve | warmth | Memorable compliments
+a: compliment; compliments; give a compliment; praise; if you think something nice say it
+s: If you think something nice, say it. Make it specific, skip the obvious, and praise what they worked on rather than what they were born with.
+u: "The way you handled that question was so calm" beats "You're great".
+r: vve-so-x, ch-compliments
+f: What does Hughes say about compliments? || What is "You're so ___!"?
+src: Vanessa on X, Sep 2026 https://x.com/vvanedwards/status/2096268031156478239 || Read Anyone handbook §5.1
+
+## vve-go-deeper | vve | deeper | Go one level deeper
+a: go deeper; deep conversation; meaningful conversation; shallow conversation; move past small talk
+s: Research cited by Vanessa shows people expect deep talk to be more awkward than it is, and enjoy it more than they predict. Go one level deeper than feels comfortable — at their pace.
+u: Swap "What do you do?" for "What's something you're working on that you actually care about?"
+r: vve-blueprint, vve-power-questions
+f: What is the Conversation Blueprint? || What are the nine power questions?
+src: Conversation research guide https://www.scienceofpeople.com/conversation-guide/ || Kardas, Kumar & Epley 2022, as cited in the handbook
