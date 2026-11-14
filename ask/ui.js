@@ -77,7 +77,7 @@
     const fw = (e.f || []).slice(0, 2).map(words);
     (e.r || []).map(E).filter(Boolean).filter(function (x) {
       const t = words(x.t.replace(/\(.*?\)/g, ""));
-      return !fw.some(function (f) { const hit = t.filter(function (w) { return f.indexOf(w) >= 0; }).length; return t.length && hit / t.length >= 0.6; });
+      return !fw.some(function (f) { const hit = t.filter(function (w) { return f.indexOf(w) >= 0; }).length; return t.length && hit / t.length >= 0.5; });
     }).slice(0, 2).forEach(function (x) { c.push(chip(x.t.replace(/ \(left out\)$/, ""), "data-id", x.i, "rel")); });
     if (extra) c.push.apply(c, extra);
     return c.length ? '<div class="fus"><p class="lbl">Ask next</p><div class="chips">' + c.join("") + "</div></div>" : "";
@@ -92,7 +92,7 @@
     return '<div class="meta">' + whoTags(e) + '<span class="tag' + (e.c === "leftout" ? " out" : "") + '">' + esc(CAT[e.c] || e.c) + "</span></div>" +
       '<p class="a-title">' + esc(e.t) + "</p>";
   }
-  function tryLine(e) { return e.u ? '<p class="tip"><b>' + (e.c === "leftout" ? "Honest alternative. " : "Try this. ") + "</b>" + esc(e.u) + "</p>" : ""; }
+  function tryLine(e) { return e.u ? '<p class="tip"><b>' + (e.c === "leftout" && e.i !== "lo-overview" ? "Honest alternative. " : "Try this. ") + "</b>" + esc(e.u) + "</p>" : ""; }
   function body(res) {
     if (res.kind === "unsure") {
       const alts = (res.alts || []).map(E).filter(Boolean);

@@ -11,7 +11,7 @@ src: Read Anyone technique inventory §3c https://github.com/mhccog/read-anyone/
 g: embedded commands
 a: embedded commands; embedded command; hidden commands; nlp commands; deliberate ambiguity; covert suggestion
 s: An embedded command hides an instruction inside a normal sentence, often marked with a change of tone, hoping the listener acts on it without noticing. Hughes teaches them in the manual. Read Anyone leaves them out because they work by going around someone's awareness, so they fail the sincerity test.
-u: The honest alternative: make a clear, open request and give a real reason — "Could you look at this by Friday, because the client needs it?"
+u: Make a clear, open request and give a real reason — "Could you look at this by Friday, because the client needs it?"
 r: vve-assertive, vve-own-it, all-sincerity
 f: How do I make a clear ask? || What is the sincerity test?
 src: The Behavior Ops Manual pp. 523–531, 819–823 (excluded, H60)
@@ -20,7 +20,7 @@ src: The Behavior Ops Manual pp. 523–531, 819–823 (excluded, H60)
 g: covert hypnosis
 a: hypnosis; hypnotic language; covert hypnosis; trance; fractionation; inductions; double binds; presuppositions; implied directives
 s: Hughes's manual covers hypnotic language patterns, inductions, fractionation, double binds and presuppositions designed to guide someone's state without their full awareness. Read Anyone leaves all of it out because it's covert and fails the sincerity test.
-u: The honest alternative for keeping attention: tell a real story well with Vinh's Spark–Point–Link, and use pauses.
+u: Tell a real story well with Vinh's Spark–Point–Link, and use pauses.
 r: vg-spark-point-link, vg-pause, all-sincerity
 f: What is Spark–Point–Link? || What is the sincerity test?
 src: The Behavior Ops Manual pp. 499–522, 566–581 (excluded, H59, H63)
@@ -29,7 +29,7 @@ src: The Behavior Ops Manual pp. 499–522, 566–581 (excluded, H59, H63)
 g: PCP model
 a: pcp; perception context permission; get people to do things; behaviour change model
 s: Hughes's PCP model (Perception, Context, Permission) is a planning tool for getting someone to act out of character. Read Anyone leaves it out because it's built for covert influence rather than connection.
-u: The honest alternative: say what you want openly and make the other person's choice easy — Vanessa's "Own It!" and a clear ask.
+u: Say what you want openly and make the other person's choice easy — Vanessa's "Own It!" and a clear ask.
 r: vve-own-it, vve-assertive, lo-overview
 f: What is Own It? || What else is left out?
 src: The Behavior Ops Manual pp. 29–31 (excluded, H44)
@@ -38,7 +38,7 @@ src: The Behavior Ops Manual pp. 29–31 (excluded, H44)
 g: Six-Axis Model; FATE model; Hierarchy of Influence
 a: six axis; six-axis model; fate model; hierarchy of influence; taxonomy; skills map; influence models
 s: These are Hughes's frameworks for planning compliance — which levers to pull to move someone. Read Anyone leaves them out because they're influence engineering, not connection.
-u: The honest alternative: Vinh's Match, Mirror and Lead — get in sync first, then lead gently and openly.
+u: Vinh's Match, Mirror and Lead — get in sync first, then lead gently and openly.
 r: vg-match-mirror-lead, lo-overview
 f: What is Match, Mirror and Lead? || What is the sincerity test?
 src: The Behavior Ops Manual pp. 16–28, 33–37 (excluded, H45)
@@ -47,7 +47,7 @@ src: The Behavior Ops Manual pp. 16–28, 33–37 (excluded, H45)
 g: frame control
 a: frame control; frames; warning shot; pace their reality; those types; status games; yes set
 s: Tactics for winning status and agreement — calling out "those types", warning shots, pacing someone's reality to build a yes-set. They're left out because they pressure people through identity and status.
-u: The honest alternative: resonate before you redirect, and give them a golden bridge.
+u: Resonate before you redirect, and give them a golden bridge.
 r: ch-resonate, ch-golden-bridge
 f: What is resonate before redirect? || What is the golden bridge?
 src: The Behavior Ops Manual pp. 40–56 (excluded, H46)
@@ -57,7 +57,7 @@ g: lie detection; Behavioral Table of Elements; deception rating
 a: lie; lying; liar; spot a liar; tell if someone is lying; deception; detect lies; behavioral table of elements; deception rating scale; microexpressions lie
 s: Both Hughes (the Behavioral Table of Elements and a deception rating scale) and Van Edwards (microexpressions) present ways to read lies from the body. Read Anyone leaves lie-spotting out: research finds people are about 54% accurate at spotting lies — near chance — and microexpression training didn't reliably help.
 d: A change in someone's behaviour usually means stress or discomfort, not dishonesty. Treating a gesture as proof can damage trust and be plain wrong.
-u: The honest alternative: notice a change from their normal, then ask kindly — "Is this a comfortable thing to talk about?"
+u: Notice a change from their normal, then ask kindly — "Is this a comfortable thing to talk about?"
 r: ch-baseline, vg-visual-radar, vve-decoder
 f: What is baseline? || What is visual radar?
 src: The Behavior Ops Manual pp. 205–278 (excluded, H48) || Captivate ch. 6 (excluded, V91) || Bond & DePaulo 2006, as cited in the handbook
@@ -66,7 +66,7 @@ src: The Behavior Ops Manual pp. 205–278 (excluded, H48) || Captivate ch. 6 (e
 g: Six-Minute X-Ray; Behavior Compass
 a: six minute x-ray; 6mx; profiling; profile someone; behavior compass; eye accessing; blink rate; read anyone in minutes
 s: Hughes's Six-Minute X-Ray and related tools (Behavior Compass, eye-accessing cues, blink rates) claim to profile someone's needs, fears and decision style in minutes. Read Anyone leaves them out: there's no published validation, and brief impressions pick up only a little, not a full profile.
-u: The honest alternative: use the six needs only as listening prompts, and ask follow-up questions.
+u: Use the six needs only as listening prompts, and ask follow-up questions.
 r: all-six-needs, all-follow-ups
 f: Are the six needs labels? || Why do follow-up questions work?
 src: The Behavior Ops Manual pp. 279–422 (excluded, H49) || Ambady & Rosenthal 1992, as cited in the handbook
@@ -75,7 +75,7 @@ src: The Behavior Ops Manual pp. 279–422 (excluded, H49) || Ambady & Rosenthal
 g: elicitation
 a: elicitation; elicit information; false statements; bracketing; disbelief; criticism; complaint baiting; feigned naivety; hourglass; loaded questions; get information out of someone; interrogation style questions
 s: Elicitation gets people to reveal information without asking directly — saying something deliberately wrong so they correct you, bracketing numbers, feigning disbelief or naivety, or using an "hourglass" of questions. It was designed for intelligence work. Read Anyone leaves it out because it relies on deception and covert extraction.
-u: The honest alternative: ask genuine questions and follow-ups. Research shows people who ask more follow-up questions are liked more.
+u: Ask genuine questions and follow-ups. Research shows people who ask more follow-up questions are liked more.
 r: all-follow-ups, ch-reaction, ch-teach-me
 f: What is a sincere reaction statement? || Why do follow-up questions work?
 src: The Behavior Ops Manual pp. 346–363 (excluded, H51, H52, H80, H81)
@@ -84,7 +84,7 @@ src: The Behavior Ops Manual pp. 346–363 (excluded, H51, H52, H80, H81)
 g: brain pharmacist
 a: use needs to persuade; hidden fears; needs persuasion; feed their need; exploit needs; fears map
 s: Hughes also teaches using someone's dominant need or hidden fear as a lever — feeding it so they'll comply. Read Anyone leaves that use out. The six needs stay only as listening prompts.
-u: The honest alternative: answer the quiet question sincerely, with nothing asked in return.
+u: Answer the quiet question sincerely, with nothing asked in return.
 r: all-six-needs, lo-brain-pharmacist
 f: What are the six needs? || Why is compliment-then-ask left out?
 src: The Behavior Ops Manual pp. 373–377 (excluded, H50)
@@ -92,7 +92,7 @@ src: The Behavior Ops Manual pp. 373–377 (excluded, H50)
 ## lo-brain-pharmacist | ch | leftout | Compliment, then ask (left out)
 a: compliment then ask; brain pharmacist; flatter before asking; compliment before favour; butter up
 s: Hughes describes complimenting someone's core need right before making a request ("become the brain pharmacist"). Read Anyone leaves out compliment-then-ask sequencing because the compliment becomes a tool for the favour.
-u: The honest alternative: give compliments with nothing attached, and make requests separately and openly.
+u: Give compliments with nothing attached, and make requests separately and openly.
 r: ch-compliments, vve-compliments, vve-assertive
 f: How do I give a good compliment? || How do I make a clear ask?
 src: DOAC 2024; The Behavior Ops Manual p. 376 (excluded, H83)
@@ -100,7 +100,7 @@ src: DOAC 2024; The Behavior Ops Manual p. 376 (excluded, H83)
 ## lo-persuasion-scripts | ch | leftout | Persuasion scripts and decision-map drills (left out)
 a: persuasion scripts; decision map scripts; sales scripts; persuasion; how to persuade; convince someone; influence someone
 s: The manual includes scripts that weave someone's decision style and values into pitches with embedded pointers. Read Anyone leaves them out because they use embedded commands and negative dissociation.
-u: The honest alternative: give the true reason that matters to how they decide, once, and let them choose.
+u: Give the true reason that matters to how they decide, once, and let them choose.
 r: ch-decision-style, vve-own-it
 f: What are decision styles? || What is Own It?
 src: The Behavior Ops Manual pp. 601, 806–817 (excluded, H53)
@@ -109,7 +109,7 @@ src: The Behavior Ops Manual pp. 601, 806–817 (excluded, H53)
 g: identity hacking
 a: identity hacking; identity hack; consistency hack; pre commitment; get them to commit; foot in the door
 s: Getting someone to state a trait about themselves ("I'm someone who helps"), then using it to make a request they'd feel inconsistent refusing. Read Anyone leaves it out because it pressures people through their identity.
-u: The honest alternative: ask plainly and make "no" easy to say.
+u: Ask plainly and make "no" easy to say.
 r: vve-assertive, vve-say-no
 f: How do I make a clear ask? || How do I say no?
 src: The Behavior Ops Manual pp. 423–430, 489–493 (excluded, H55, H78)
@@ -117,7 +117,7 @@ src: The Behavior Ops Manual pp. 423–430, 489–493 (excluded, H55, H78)
 ## lo-dissociation | ch | leftout | Negative dissociation (left out)
 a: negative dissociation; positive association; pair with disliked group
 s: Pairing a behaviour with a group someone dislikes (or likes) to shift what they do. Left out as covert influence.
-u: The honest alternative: talk about the behaviour itself and why it matters to you.
+u: Talk about the behaviour itself and why it matters to you.
 r: vg-situation-not-person
 f: How do I argue at the situation, not the person? || What else is left out?
 src: The Behavior Ops Manual pp. 493–497, 520–522 (excluded, H56)
@@ -125,7 +125,7 @@ src: The Behavior Ops Manual pp. 493–497, 520–522 (excluded, H56)
 ## lo-entrainment | ch | leftout | Behavioural entrainment and body steering (left out)
 a: entrainment; behavioural entrainment; eyebrow flash steering; compliance wedge; social vacuum; nod inducing; get people to nod
 s: Techniques for leading someone's body to lead their mind — getting them to nod, steering with eyebrow flashes, using silence or objects to push compliance. Left out as covert compliance.
-u: The honest alternative: Vanessa's warmth cues and the slow triple nod to show you're listening — not to steer.
+u: Vanessa's warmth cues and the slow triple nod to show you're listening — not to steer.
 r: vve-warmth-cues, vve-triple-nod
 f: What is the triple nod? || What are warmth cues?
 src: The Behavior Ops Manual pp. 431–446 (excluded, H57)
@@ -133,7 +133,7 @@ src: The Behavior Ops Manual pp. 431–446 (excluded, H57)
 ## lo-confusion | ch | leftout | The confusion technique (left out)
 a: confusion technique; confuse then command; kelly method; confusion weapon
 s: Deliberately confusing someone, then giving a command while they're looking for clarity. Left out as covert.
-u: The honest alternative: be clear — 3-2-1 structure and a single clear point.
+u: Be clear — 3-2-1 structure and a single clear point.
 r: vg-321, ch-plain-speech
 f: What is the 3-2-1 method? || How do I speak plainly?
 src: The Behavior Ops Manual pp. 540–566 (excluded, H62)
@@ -141,7 +141,7 @@ src: The Behavior Ops Manual pp. 540–566 (excluded, H62)
 ## lo-scarcity | ch | leftout | Scarcity, fear and strategic absence (left out)
 a: scarcity; fomo; fear of missing out; strategic absence; play hard to get; pressure tactics; grief process method
 s: Using scarcity, regret or fear of missing out — or withdrawing on purpose — to drive someone to act. Left out because it pressures through fear.
-u: The honest alternative: say what's true about timing once, calmly, and let them decide.
+u: Say what's true about timing once, calmly, and let them decide.
 r: ch-plain-speech, ch-objections
 f: How do I handle objections honestly? || How do I speak plainly?
 src: The Behavior Ops Manual pp. 531–538, 582–585 (excluded, H61, H64)
@@ -149,7 +149,7 @@ src: The Behavior Ops Manual pp. 531–538, 582–585 (excluded, H61, H64)
 ## lo-touch | ch | leftout | Timed touch as a tactic (left out)
 a: touch; when to touch someone; physical contact; nine best times to touch
 s: Hughes lists "best times" to make physical contact to deepen connection. Read Anyone leaves timed touch as a tactic out because touch needs consent, not strategy.
-u: The honest alternative: only light, welcome touch that you'd use anyway, and never as a technique.
+u: Only light, welcome touch that you'd use anyway, and never as a technique.
 r: vve-warmth-cues, all-sincerity
 f: What are warmth cues? || What is the sincerity test?
 src: The Behavior Ops Manual pp. 585–586 (excluded, H65)
@@ -157,7 +157,7 @@ src: The Behavior Ops Manual pp. 585–586 (excluded, H65)
 ## lo-bias-hacking | ch | leftout | Hacking cognitive biases (left out)
 a: cognitive biases; anchoring; bias hacking; exploit biases; zeigarnik; reciprocity trick
 s: The manual walks through about 40 cognitive biases and how to exploit them. Knowing biases can protect you, but using them on people is left out as manipulation.
-u: The honest alternative: say the full, true picture and give people time.
+u: Say the full, true picture and give people time.
 r: ch-objections, lo-overview
 f: What else is left out? || How do I handle objections honestly?
 src: The Behavior Ops Manual pp. 615–634 (excluded, H67)
@@ -166,7 +166,7 @@ src: The Behavior Ops Manual pp. 615–634 (excluded, H67)
 g: interrogation
 a: interrogation; interview techniques; hbi; police interview; make someone confess; question someone
 s: Hughes's interrogation and interview protocols are built to get admissions under pressure. Left out: they're interrogation, not conversation.
-u: The honest alternative: ask open questions, reflect, and make it safe to talk — Vinh's reflection and Vanessa's "tell me more".
+u: Ask open questions, reflect, and make it safe to talk — Vinh's reflection and Vanessa's "tell me more".
 r: vg-reflection, vve-tell-me-more
 f: What is reflection? || What is "tell me more"?
 src: The Behavior Ops Manual pp. 683–714, 836–842 (excluded, H70, H82)
@@ -182,7 +182,7 @@ src: The Behavior Ops Manual pp. 587–614, 659–683, 732–796 (excluded, H66,
 ## lo-vak | ch | leftout | Sensory-preference persuasion (left out)
 a: vak; visual auditory kinesthetic; sensory words persuasion; nlp; representational systems
 s: Matching someone's "visual, auditory or kinaesthetic" words to make a pitch resonate. Left out: it's a persuasion use, and research doesn't support VAK matching.
-u: The honest alternative: simply use their words so you're understood.
+u: Simply use their words so you're understood.
 r: ch-their-words
 f: How do I use their words? || What else is left out?
 src: The Behavior Ops Manual pp. 393–397 (excluded, H76)
@@ -190,7 +190,7 @@ src: The Behavior Ops Manual pp. 393–397 (excluded, H76)
 ## lo-memory | ch | leftout | Memory, regression and state induction (left out)
 a: false memory; regression; past event recall; brainwave entrainment; sleep deprivation; borrowing emotion
 s: Techniques for triggering memories or states to steer someone, plus darker material on false memories and sleep deprivation. Left out as covert or harmful.
-u: The honest alternative: Vinh's storytelling — share your own memories openly and invite theirs.
+u: Vinh's storytelling — share your own memories openly and invite theirs.
 r: vg-storytelling, vg-high-low-buffalo
 f: What is High, Low, Buffalo? || What is the Story Bank?
 src: The Behavior Ops Manual pp. 455–457, 484–489, 636–656 (excluded, H58, H68)
