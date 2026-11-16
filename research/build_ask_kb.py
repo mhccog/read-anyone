@@ -118,7 +118,7 @@ for t in topics:
     for n in t["n"]:
         for s_ in byid.get(n, {}).get("src", []):
             key = s_.get("u") or s_["l"]
-            if key in seen_l: continue
+            if key in seen_l or any(s_["l"].startswith(r) for r in t["res"]): continue
             seen_l.add(key); src.append(s_)
     t["src"] = src[:7]
     who = []
