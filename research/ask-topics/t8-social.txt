@@ -1,0 +1,119 @@
+## t-end | endings | How do I end a conversation?
+q: end a conversation; end conversation; exit; leave a conversation; wrap up; wrap it up; get away politely; say goodbye; finish talking; walk away; leave politely; leave a party; leave the party; leave early; how to leave
+n: vve-exit, all-end-on-purpose, vve-thinking-of-you, ch-gratitude, vve-connector
+b: End on purpose, while it's still good — that's kinder than waiting for it to fizzle. Research by Mastroianni found most conversations don't end when either person wants them to, so you're probably doing them a favour. Vanessa's three-step exit: mention something in their future, give a specific compliment, then say what you're off to do. Chase adds a moment of thanks, which leaves a warm last impression. If you can, introduce them to someone else on your way out, so nobody's left standing alone.
+say: "Good luck with the launch next week — I loved hearing about it. I'm going to grab a drink. Talk soon!"
+tip: Smile, keep the energy up through the last line, and actually move — don't hover after you've said goodbye.
+short: End on a high: mention their future, give a specific compliment, and say what you're off to do.
+f: How do I get away from someone who won't stop talking? || How do I network without feeling fake? || How do I keep in touch with people?
+src: Mastroianni et al. 2021
+
+## t-escape | endings | How do I get away from someone who won't stop talking?
+q: wont stop talking; cant get away; trapped in conversation; stuck talking; escape a conversation; talker; chatterbox; monopolise; get out of a conversation
+n: vve-exit, vve-connector, all-end-on-purpose, ch-gratitude
+b: Wait for a breath, then end kindly and firmly. Vanessa's gentle sequence for a monologue: the Fish (open your mouth slightly, as if about to speak), then the Bookmark (raise a hand, palm out), and use the pause to say a warm goodbye. Mention something they said so they know you listened. An introduction is the easiest way out: bring someone in, then step back. A quick thank-you keeps it warm, not abrupt. Don't invent elaborate excuses; one clear line and moving your feet does it.
+say: "I've loved hearing about your trip — I promised I'd catch up with Sam, so I'll let you go."
+tip: Touch your glass or bag as you speak, turn your feet towards your exit, and keep smiling as you go.
+short: Wait for a breath, sum up something they said, then name your next move and go.
+f: How do I end a conversation? || How do I introduce people? || How do I join a group conversation?
+src:
+
+## t-join-group | social | How do I join a group conversation?
+q: join a group; join a conversation; group conversation; group of people; break into a group; walk up to a group; circle of people
+n: vg-entering-group, vve-context-cues, vve-break-script, vg-generosity-energy
+b: Approach a group that's open, listen first, then add to what's already being said. Vinh's way in: hover near the group, catch someone's eye, wait for a natural gap, then add to the topic they're already on rather than changing it. Vanessa suggests a short, warm opener that connects to the setting. Once you're in, ask someone a question so the group naturally opens up.
+say: "Mind if I join you? This sounded too good to miss."
+tip: Approach from the side, smile at whoever's speaking, and keep your first line short and light.
+short: Join a group at the edge, listen first, then add to their topic.
+f: How do I start a conversation? || I'm shy at parties || How do I network without feeling fake?
+src:
+
+## t-networking | social | How do I network without feeling fake?
+q: networking; network; networking event; conference; meet people professionally; mixer; business event; schmooze; professional contacts
+n: vve-social-game-plan, vve-pq-exciting, vve-connector, vve-prepare-topics, ch-people-are-reasons, vve-exit, all-sincerity
+b: Treat it as meeting interesting people, not collecting contacts. Vanessa's Social Game Plan: go to events where you thrive, skip the ones you dread, plan where you'll stand, and bring a friend if you can. Prepare a couple of questions that skip "What do you do?" — her favourite is "Working on anything exciting these days?" The quickest way to feel less fake is to be useful: introduce people who should meet. Chase's reminder is that people are the point, not the business card. And end conversations on purpose so you're not stuck.
+say: "Working on anything exciting at the moment?"
+tip: Keep one hand free, smile before you approach, and follow up within a day with something specific.
+short: Network by picking your events, asking better questions and introducing people — useful, not salesy.
+f: How do I start a conversation? || How do I end a conversation? || How do I introduce people?
+src:
+
+## t-introduce | social | How do I introduce people?
+q: introduce people; introductions; introduce someone; connect two people; how to introduce; mutual friend
+n: vve-highlighter, vve-connector, ch-barkeep, vve-name-game
+b: Introduce people with a hook, not just names. Vanessa says be a highlighter: introduce people by their best qualities, then give them a shared keyword to talk about — "You both love climbing!" It makes them feel looked after and makes you memorable. Chase's Barkeep challenge turns this into a habit: meet a small group and learn their names, then meet a second group, then introduce the two. Soon you're the thing everyone has in common. Once they're talking, step back and let it run.
+say: "Sam, this is Priya — she just ran her first marathon. Priya, Sam's training for his."
+tip: Use an upbeat tone, gesture to each person with an open palm as you say their name, then step back.
+short: Introduce people by their best qualities and give them a shared hook to talk about.
+f: How do I remember names? || How do I network without feeling fake? || How do I end a conversation?
+src:
+
+## t-friends | social | How do I make friends?
+q: make friends; making friends; friendship; new friends; lonely; loneliness; no friends; adult friends; find my people
+n: vve-friends, all-liking-gap, ch-go-first, ch-insecurities, vg-vulnerability, vve-thinking-of-you
+b: Show up repeatedly, go first, and assume people like you more than you think. Vanessa's approach: schedule regular social time, build shared contexts — a class, a club, a regular spot — and try small, low-key invitations. The liking gap research says people usually liked you more than you guessed, so ask again. Chase's go-first principle helps: share something real, and they'll find it easier to share back; people like imperfect people. Vinh adds that real struggles connect more than polished highlights. And reaching out is appreciated more than we expect.
+say: "I really enjoyed chatting last time — want to grab a coffee next week?"
+tip: Keep the invite specific and light, with a smile, and don't over-explain it.
+short: Make friends by showing up regularly, going first and reaching out more than feels natural.
+f: How do I keep in touch or reconnect with people? || How do I go deeper? || I'm shy at parties
+src: Boothby et al. 2018 · Liu et al. 2023
+
+## t-keep-touch | social | How do I keep in touch or reconnect with people?
+q: keep in touch; reconnect; reach out; rekindle; lost touch; old friend; follow up with someone; stay in touch; catch up
+n: vve-thinking-of-you, vve-last-time, vve-friends, ch-go-first, ch-gratitude
+b: Reach out first with something specific. Vanessa's "thinking of you" message works because it shows you remembered — mention something they told you last time. Research by Liu and colleagues found people underestimate how much others appreciate being reached out to. Chase's go-first principle applies here too: suggest a concrete time rather than "we should catch up". If it's been a while, you can simply say you miss them. Small, regular contact matters more than big gestures.
+say: "I saw this and thought of you — how did the new job turn out?"
+tip: Send it warmly and briefly, with a question they can answer easily.
+short: Reach out first with something specific, and suggest a concrete time.
+f: How do I make friends? || How do I text better? || How do I thank someone properly?
+src: Liu et al. 2023
+
+## t-texting | social | How do I text better?
+q: texting; text; texts; messaging; dms; reply to a text; text conversation; whatsapp; what to text; dry texter
+n: vve-thinking-of-you, vve-last-time, vve-magic-phrases, vg-threads, vve-pq-plans
+b: Make your texts specific and easy to reply to. Vanessa's magic phrases work brilliantly in text: "I was just thinking of you" (when it's true) and "Last time you mentioned…" both show you remember. Ask a question that invites a story, not a yes or no. Vinh's thread idea works in text too — pick up the detail with the most energy in their last message. Keep messages short and warm, not walls of text. And if you want to meet, suggest a time rather than chatting forever.
+say: "How did the interview go? I've been wondering since you mentioned it!"
+tip: Read it aloud before sending — if it sounds flat, add one warm word or a question.
+short: Text with something specific and an easy question, then move towards a plan.
+f: How do I keep in touch or reconnect with people? || How do I make friends? || What do I say on a date?
+src:
+
+## t-date | social | What do I say on a date?
+q: date; first date; dating; romantic; flirting; flirt; crush; date conversation; second date; how to flirt; talk to girls; talk to guys; talk to women; talk to men; someone i fancy; attractive
+n: vve-blueprint, vve-signal-liking, vve-pq-exciting, vg-high-low-buffalo, vve-warmth-cues, vve-yums, all-sincerity
+b: Be curious, show you're enjoying it, and go a little deeper as you go. Vanessa says your signals of liking are weaker than you think, so turn your warmth up: smile, lean in, react. Skip interview-style questions; start light, then move to goals and what matters to them, at their pace — her Conversation Blueprint. Vinh's High, Low, Buffalo is a playful way in: a high, a low and something random, and you go first. Meet their passions with curiosity, even the odd ones. If you'd like to see them again, say so — warmth plus directness is attractive.
+say: "I've really enjoyed this. What's something you're looking forward to right now?"
+tip: Lean in slightly, keep your voice warm and unhurried, and let the pauses breathe.
+short: On a date, be curious, show you're enjoying it, and go deeper at their pace.
+f: How do I go deeper? || How do I be more likeable? || How do I text better?
+src:
+
+## t-meetings | work | How do I come across well in work meetings?
+q: work meetings; meetings; meeting; speak up in meetings; contribute in meetings; team meeting; standup; workplace; colleagues; at work
+n: vg-spark-point-link, vg-hard-to-interrupt, vve-power-cues, ch-plain-speech, vg-wins, vve-ask-good
+b: Speak early, keep it short, and land your point. Vinh's Spark, Point, Link keeps you tight: a quick hook, one clear point, then link it to what the meeting needs. Speaking in the first few minutes makes it easier to contribute later. Vanessa's competence cues help: sit up, hands visible, explanatory gestures. Chase says drop the hedges and say it once. When you share a win, Vinh suggests crediting the people who helped. And Vanessa's trick for opening your own meeting: "What's something good?" lifts the room.
+say: "Building on Sam's point — I think the key is the deadline. Can we decide by Friday?"
+tip: Lean in slightly, keep a steady pace, and let your pitch drop at the end of your point.
+short: In meetings, speak early, land one clear point, and give credit to others.
+f: I keep getting interrupted || How do I sound more confident? || How do I talk to my boss or someone important?
+src:
+
+## t-interview | work | How do I do well in a job interview?
+q: job interview; interview; interviewing; hiring; recruiter; job application; tell me about yourself interview
+n: vve-logline, vve-triple-threat, vg-spark-point-link, vg-story-bank, vve-story-stack, all-voice-competence, ch-nervous-excited
+b: Prepare stories, not just answers. Pick three or four from your work with real stakes, and shape them Vinh's way: start at the moment of tension, give one clear point, then link it to the job. Vanessa suggests a short, hooky logline for "Tell me about yourself" and her Triple Threat for the first seconds: hands visible, Launch Stance and good eye contact. Nervous? Chase's reframe is "I'm excited", not "calm down". End by asking a real question about the team or the work.
+say: "One example: we were three weeks behind, so I split the project into two releases — and we shipped on time."
+tip: Practise your top stories aloud, and pause after the result so it lands.
+short: In interviews, prepare short stories with clear stakes and a result, and open with a strong first impression.
+f: How do I tell a good story? || How do I sound more confident? || How do I calm my nerves before a big moment?
+src: Brooks 2014
+
+## t-family | social | How do I talk better with my partner or family?
+q: partner; family; spouse; parents; kids; children; relationship; boyfriend; girlfriend; husband; wife; close people; people closest to me
+n: vg-listening, vg-traps, vve-appreciation, vve-dreambuilding, ch-heard-seen, ch-one-new-thing
+b: Listen to them like someone new, and say the appreciation out loud. Vinh says listening is the bigger half of connection; ask yourself afterwards what seemed to matter most to them. Watch his traps — judging, advising, mind reading — which creep in most with people we know well. Chase's habit is to learn one new thing in every conversation, even with people you've known for years. Vanessa says thank people their way (words, time, help), and when they share a goal, get excited and help them dream it up.
+say: "I noticed how much effort you put into today — thank you."
+tip: Put your phone away, face them fully, and keep your voice soft and warm.
+short: With close people, listen without fixing, learn something new, and say appreciation out loud.
+f: How do I make someone feel heard? || How do I keep in touch or reconnect with people? || How do I thank someone properly?
+src:

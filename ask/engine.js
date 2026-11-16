@@ -37,7 +37,7 @@
     need: ["needs"], needs: ["need"], lean: ["needs"], sincere: ["sincerity"], honest: ["sincerity", "honest"], ethics: ["sincerity", "ethical"], ethical: ["sincerity"],
     smalltalk: ["small", "talk"], chat: ["conversation"], talk: ["conversation"],
     sorry: ["apologize"], apologize: ["sorry"], posture: ["posture", "stance"], slouch: ["posture"],
-    tilt: ["head"], pace: ["rate", "speed"], pacing: ["rate", "movement"], smile: ["warmth"], warm: ["warmth"], friendly: ["warmth"]
+    tilt: ["head"], likeable: ["likable", "liked"], likable: ["likeable"], liked: ["likeable"], charismatic: ["charisma"], magnetic: ["charisma"], rude: ["disrespect"], disrespect: ["rude"], dates: ["date"], dating: ["date"], text: ["texting"], texting: ["text"], meeting: ["meetings"], meetings: ["meeting"], interview: ["interviewing"], date: ["dating"], lonely: ["friends"], introvert: ["introverts", "shy"], overthink: ["overthinking"], overthinking: ["overthink"], blank: ["freeze"], freeze: ["blank"], girl: ["date", "flirt"], girls: ["date", "flirt"], guy: ["date"], guys: ["date"], crush: ["date", "flirt"], smarter: ["smart", "confident"], smart: ["confident"], apologise: ["apologize", "sorry"], apology: ["apologize", "sorry"], raise: ["pay", "salary"], salary: ["pay", "raise"], pace: ["rate", "speed"], pacing: ["rate", "movement"], smile: ["warmth"], warm: ["warmth"], friendly: ["warmth"]
   };
   // author words in the query act as a soft filter
   const AUTHOR_WORDS = { vanessa: "vve", edwards: "vve", van: "vve", vve: "vve", vinh: "vg", vin: "vg", giang: "vg", chase: "ch", hughes: "ch", hughess: "ch" };
@@ -94,7 +94,7 @@
     function add(w, wt) { const s = stem(w); if (!s || STOP.has(s)) return; out[s] = Math.max(out[s] || 0, wt); }
     raw.forEach(function (w) { add(w, 1); (SYN[w] || SYN[stem(w)] || []).forEach(function (x) { x.split(" ").forEach(function (y) { add(y, 0.6); }); }); });
     Object.keys(out).forEach(function (s) {
-      if (DF[s]) return; if (s.length < 5) { if (out[s] === 1 && s.length >= 3) unknown++; return; }
+      if (DF[s] || TDF[s]) return; if (s.length < 5) { if (out[s] === 1 && s.length >= 3) unknown++; return; }
       const max = s.length >= 7 ? 2 : 1; let best = null, bd = 9;
       for (const v of VOCAB) { if (Math.abs(v.length - s.length) > max || v[0] !== s[0]) continue; const d = lev(s, v, max); if (d < bd) { bd = d; best = v; } if (bd === 0) break; }
       if (best && bd <= max) out[best] = Math.max(out[best] || 0, out[s] * (bd === 1 ? 0.85 : 0.65));
@@ -156,7 +156,7 @@
   }
   const FU = {
     deeper: /^(more|tell me more|more please|go deeper|deeper|explain( more| that| it| this)?|elaborate|why( is that| does that work| does it work)?|details?|go on|continue|keep going|say more)$/,
-    example: /\b(examples?|for instance|show me|what would (i|that) say|what do i say|script|phrase it|sound like)\b/,
+    example: /\b(examples?|for instance|show me|what would (i|that) say|script|phrase it|sound like)\b/,
     use: /\b(how do i (use|apply|do|practi[cs]e) (it|this|that)|use it|apply (it|this)|in practice|practically)\b/,
     related: /\b(related|similar|what else|anything else)\b/
   };
@@ -198,5 +198,127 @@
     for (const x of sc.slice(1, 8)) { if (alts.length >= 3) break; if (x.sc >= top.sc * 0.5) alts.push(x.e); }
     return { kind: "answer", main: top.e, alts: alts, conf: top.sc < 8 ? "low" : "ok", score: top.sc };
   }
-  window.ASK_ENGINE = { build: build, score: score, answer: answer, expand: expand, clean: clean, byId: function (id) { return BYID[id]; }, all: function () { return E; } };
+  // ---------- blended topics (All mode) ----------
+  let T = [], TIDX = [], TBY = {}, TDF = {}, TN = 0, TAVG = {}, TTITLE = {}, NOTE2T = {};
+  const TW = { t: 3.5, q: 3.6, s: 1.2, b: 0.9, l: 0.8, f: 0.25 };
+  function buildTopics(kb) {
+    T = kb.topics || []; TBY = {}; TDF = {}; TN = T.length; TTITLE = {}; NOTE2T = {};
+    const lens = { t: 0, q: 0, s: 0, b: 0, l: 0, f: 0 };
+    TIDX = T.map(function (t) {
+      TBY[t.i] = t; TTITLE[clean(t.t)] = t.i;
+      t.n.forEach(function (n, k) { (NOTE2T[n] = NOTE2T[n] || []).push([t.i, k]); });
+      const ln = t.n.map(function (n) { const e = BYID[n]; return e ? [e.t, e.a.join(" "), (GLOSS[n] || []).join(" ")].join(" ") : ""; }).join(" ");
+      const f = { t: stems(t.t), q: stems(t.q.join(" ")), s: stems(t.short), b: stems(t.b + " " + t.say + " " + t.tip), l: stems(ln), f: stems(t.f.join(" ")) };
+      const tf = {}, len = {};
+      for (const k in f) { lens[k] += f[k].length; len[k] = f[k].length; const m = {}; f[k].forEach(function (w) { m[w] = (m[w] || 0) + 1; }); tf[k] = m; }
+      const all = new Set(); for (const k in f) f[k].forEach(function (w) { all.add(w); }); all.forEach(function (w) { TDF[w] = (TDF[w] || 0) + 1; });
+      const phr = [clean(t.t)].concat(t.q.map(clean)).filter(Boolean);
+      const gl = []; t.n.forEach(function (n) { (GLOSS[n] || []).forEach(function (g) { gl.push(clean(g)); }); const e = BYID[n]; if (e) e.a.forEach(function (a) { gl.push(clean(a)); }); });
+      return { tf: tf, len: len, phr: phr, gl: gl };
+    });
+    for (const k in lens) TAVG[k] = lens[k] / TN || 1;
+    VOCAB = Array.from(new Set(VOCAB.concat(Object.keys(TDF))));
+  }
+  function tidf(w) { const df = TDF[w] || 0; return Math.log(1 + (TN - df + 0.5) / (df + 0.5)); }
+  function scoreTopics(q) {
+    const qs = expand(q); const qc = " " + clean(q) + " "; const nWords = clean(q).split(" ").filter(Boolean).length;
+    const orig = Object.keys(qs).filter(function (w) { return qs[w] >= 1; });
+    const k1 = 1.2, b = 0.7, res = [];
+    for (let n = 0; n < TN; n++) {
+      const ix = TIDX[n]; let sc = 0, hit = 0; const hits = {};
+      for (const w in qs) {
+        let tfw = 0;
+        for (const f in TW) { const c = ix.tf[f][w]; if (c) tfw += TW[f] * c / (1 - b + b * ix.len[f] / TAVG[f]); }
+        if (tfw > 0) { hit += qs[w]; sc += qs[w] * tidf(w) * (tfw * (k1 + 1)) / (tfw + k1); if (ix.tf.q[w] || ix.tf.t[w] || ix.tf.s[w]) hits[w] = 1; }
+      }
+      const cov = orig.length ? hit / Math.max(1, orig.length) : 0;
+      sc *= 0.4 + 0.6 * Math.min(1, cov);
+      let pb = 0;
+      for (const p of ix.phr) {
+        if (p.length < 3) continue; const pw = p.split(" ").length;
+        if (qc.indexOf(" " + p + " ") >= 0) pb = Math.max(pb, 5 + 1.6 * pw);
+        else if (pw > 1 && nWords > 1 && (" " + p + " ").indexOf(qc) >= 0) pb = Math.max(pb, 5);
+      }
+      for (const g of ix.gl) { if (g.length > 3 && g.split(" ").length > 1 && qc.indexOf(" " + g + " ") >= 0) { pb = Math.max(pb, 4.5); break; } }
+      sc += pb;
+      if (qs._unknown) sc *= Math.pow(0.6, qs._unknown);
+      if (sc > 0) res.push({ t: T[n], sc: sc, hits: hits, pb: pb });
+    }
+    res.sort(function (x, y) { return y.sc - x.sc; });
+    return { list: res, qs: qs, orig: orig };
+  }
+  // the note whose glossary term / alias the question names directly ("what is the triple nod")
+  function termNote(q) {
+    const qc = " " + clean(q) + " "; let best = null, bl = 0;
+    for (const e of E) {
+      const cands = (GLOSS[e.i] || []).concat([e.t.replace(/\(.*?\)/g, "")]);
+      for (const g of cands) { const c = clean(g); if (c.length < 4) continue; if (qc.indexOf(" " + c + " ") >= 0 && c.length > bl) { bl = c.length; best = e; } }
+    }
+    return best;
+  }
+  function topicFor(noteId, ranked) {
+    const ts = NOTE2T[noteId] || []; if (!ts.length) return null;
+    const rank = {}; (ranked || []).forEach(function (x, k) { rank[x.t.i] = k; });
+    ts.sort(function (a, b) { const ra = rank[a[0]] == null ? 999 : rank[a[0]], rb = rank[b[0]] == null ? 999 : rank[b[0]]; return ra - rb || a[1] - b[1]; });
+    return TBY[ts[0][0]];
+  }
+  const OFF = "That's outside what Vanessa, Chase and Vinh teach";
+  function answerAll(q, state) {
+    const cq = clean(q); const last = state.lastT && TBY[state.lastT];
+    if (last && isFollow(q) && !TTITLE[cq]) {
+      let mode = null; for (const k in FU) if (FU[k].test(cq)) { mode = k; break; }
+      const r0 = scoreTopics(q).list[0];
+      if (mode || !r0 || r0.sc < 7) return { kind: "tfollow", mode: mode || "deeper", main: last };
+    }
+    if (TTITLE[cq]) return { kind: "topic", main: TBY[TTITLE[cq]] };
+    const named = authorsIn(q);
+    if (named.length === 1 && !Object.keys(expand(q)).filter(function (w) { return !/^(who|about|tell|background)$/.test(w); }).length) {
+      const ab = BYID[{ vve: "vve-about", vg: "vg-about", ch: "ch-about" }[named[0]]];
+      if (ab) return { kind: "term", lead: ab, main: TBY["t-teachers"] };
+    }
+    const r = scoreTopics(q); const L = r.list; const top = L[0];
+    const it = intent(q);
+    const tn = termNote(q);
+    // a named technique: lead with a one-line definition, then the blended topic it belongs to
+    if (tn && (it.term || !top || top.sc < 9 || (NOTE2T[tn.i] || []).some(function (x) { return x[0] === top.t.i; }))) {
+      const tp = topicFor(tn.i, L) || (top && top.t);
+      return { kind: "topic", lead: tn, main: tp };
+    }
+    if (!top || top.sc < 4.2) {
+      const known = r.orig.length - (r.qs._unknown || 0);
+      if (!r.orig.length && !top) return { kind: "off" };
+      if ((known <= 0 || r.qs._unknown) && (!top || top.pb === 0)) return { kind: "off" };
+      return { kind: "topic", main: TBY["t-general"], general: true, alts: L.slice(0, 3).map(function (x) { return x.t; }) };
+    }
+    const out = { kind: "topic", main: top.t };
+    // bridge: a second topic that covers words the first one doesn't
+    for (const x of L.slice(1, 5)) {
+      if (x.sc < top.sc * 0.55 || x.sc < 5) break;
+      if (x.t.i === "t-general" || !x.pb) continue;
+      const extra = Object.keys(x.hits).filter(function (w) { return !top.hits[w] && r.qs[w] >= 1; });
+      if (extra.length) {
+        const words = cq.split(" ").filter(function (w) { return extra.indexOf(stem(NORM[w] || w)) >= 0; });
+        out.bridge = { t: x.t, words: words.length ? words.slice(0, 3).join(" ") : null };
+        break;
+      }
+    }
+    return out;
+  }
+  function answerTeacher(q, state) {
+    // notes from one teacher; vague questions are routed through the matching topic's notes
+    const res = answer(q, state);
+    if (res.kind === "follow" || res.kind === "related") return res;
+    const L = scoreTopics(q).list; const top = L[0];
+    const own = res.main && res.main.w.indexOf(state.author) >= 0;
+    if (top && top.sc >= 6 && (res.kind === "unsure" || res.score < 9 || !own)) {
+      const ns = top.t.n.map(function (n) { return BYID[n]; }).filter(function (e) { return e && e.w.indexOf(state.author) >= 0; });
+      if (ns.length) {
+        const sc = score(q, { author: state.author }); const rank = {}; sc.forEach(function (x, k) { rank[x.e.i] = k; });
+        ns.sort(function (a, b) { return (rank[a.i] == null ? 999 : rank[a.i]) - (rank[b.i] == null ? 999 : rank[b.i]); });
+        return { kind: "answer", main: ns[0], alts: ns.slice(1, 3), conf: "ok", score: 10, via: top.t };
+      }
+    }
+    return res;
+  }
+  window.ASK_ENGINE = { build: function (kb) { build(kb); buildTopics(kb); }, answerAll: answerAll, answerTeacher: answerTeacher, scoreTopics: scoreTopics, topic: function (id) { return TBY[id]; }, topics: function () { return T; }, topicFor: topicFor, OFF: OFF, buildNotes: build, score: score, answer: answer, expand: expand, clean: clean, byId: function (id) { return BYID[id]; }, all: function () { return E; } };
 })();

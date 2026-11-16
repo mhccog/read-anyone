@@ -1,0 +1,59 @@
+## t-sound-confident | voice | How do I sound more confident?
+q: sound confident; confident voice; voice; sound more confident; authority; sound authoritative; weak voice; upspeak; uptalk; question voice; sound smart; sound smarter; sound smart; sound intelligent; sound professional
+n: all-voice-competence, vve-vocal-power, vve-confident-language, ch-plain-speech, ch-tonality, vg-melody, vg-pause
+b: Slow down, let your pitch drop at the end of statements, and stop shrinking your words. Vanessa and Vinh both say end statements going down — rising at the end makes them sound like questions. Vanessa adds: speak at your natural low pitch and use short, simple words. Chase's fix is to cut hedges like "just", "maybe" and "I'll try", then say it once and stop. He also says choose which word to stress and pause around it. Research backs the point: people who hear a pitch judge the speaker more competent than people who read it.
+say: "Here's what I'd recommend."
+tip: Breathe low, keep an unhurried pace, and let your pitch fall on the last word.
+short: Sound confident by slowing down, dropping your pitch at the end, and cutting hedge words.
+f: How do I stop saying um? || I talk too fast or ramble || My voice is monotone
+src: Schroeder & Epley 2015
+
+## t-um | voice | How do I stop saying "um"?
+q: um; uh; filler words; fillers; like; you know; stop saying um; ums and ahs; stammering
+n: vg-pause, vve-vocal-power, vg-practice, vg-instrument
+b: Don't fight the "um" — replace it with a pause. Vinh, who calls himself the Pause Guy, says when you feel a filler coming, stop, breathe, find your next thought and carry on. A pause sounds composed and gives people time to take in what you said; Vanessa calls it a power pause. To find your pattern, record yourself telling a two-minute story and listen back. Then practise in tiny daily reps, because you can't just delete a habit — you have to replace it.
+say: "That's a good question. [pause] Here's how I'd look at it."
+tip: When you feel an "um" coming, close your mouth, breathe in through your nose, then carry on.
+short: Swap fillers for a short pause — it sounds composed and gives you time to think.
+f: How do I sound more confident? || I talk too fast or ramble || How do I get better at talking to people?
+src:
+
+## t-too-fast | voice | I talk too fast or ramble
+q: talk too fast; speak too fast; rush; rambling; ramble; i ramble; nervous talking; slow down; get to the point
+n: vg-rate, vg-pause, vg-spark-point-link, ch-move-slower, vg-calm-pace
+b: Slow down in the places that matter, and know your point before you start. Vinh's rule is to vary your speed: quicker for excitement, slower for the important bit — then pause after it. Chase says slower speech and movement come across as calm and in control. For rambling, Vinh's Spark, Point, Link keeps you on track: a spark that grabs attention, the single point you want to make, then a link back to them. If you notice you've drifted, it's fine to say so and land it.
+say: "Let me get to the point — the main thing is this."
+tip: Breathe at every full stop, and slow right down on the one sentence you most want remembered.
+short: Slow down on what matters, pause after it, and know your one point before you begin.
+f: How do I stop saying um? || How do I tell a good story? || How do I sound more confident?
+src: Before We Forget How to Connect ch. 3, 15 · The Behavior Ops Manual p. 163
+
+## t-quiet | voice | My voice is too quiet
+q: quiet voice; too quiet; soft spoken; people cant hear me; speak up; mumble; mumbling; louder; project my voice
+n: vg-volume, vg-instrument, vve-vocal-power, vg-practice
+b: Volume is a dial, so learn where yours sits and practise turning it. Vinh maps volume from 1 to 10: Whisper (1–2), Close Conversation (3–4), Everyday Leader (5–6), Projection (7–8) and Emergency (9–10). Ask three people where your normal volume sits — quiet speakers are often a 3 when the moment needs a 5. Then practise moving between zones. Breathe low so the sound comes from your body, not a strained throat. Vanessa adds control: a fuller, steady volume reads as capable.
+say: "Can everyone hear me okay at the back?"
+tip: Breathe low, open your mouth a little wider, and send your last word to the furthest person.
+short: Treat volume like a dial — find your usual zone and practise moving up to "Everyday Leader".
+f: How do I sound more confident? || My voice is monotone || How do I speak in front of a group?
+src:
+
+## t-monotone | voice | My voice is monotone
+q: monotone; boring voice; flat voice; voice sounds dull; expressive voice; vocal variety; intonation; melody
+n: vg-melody, vg-instrument, vg-tonality, vg-rate, vve-vocal-variety
+b: Your voice is an instrument, and monotone just means playing a few keys. Vinh's five foundations are tonality, rate, melody, volume and pause, and he says most people use only about a fifth of their pitch range. Try his siren: read a passage starting at your lowest note, climb slowly to your highest, then back down. His other trick: your face drives your tone, so let the feeling show on your face and your voice will follow. Vanessa suggests marking important scripts with where to pause, smile and emphasise.
+say: "And then — you won't believe this — it worked."
+tip: Pause before the surprise, then lift your pitch on "worked". Exaggerate in practice so normal feels lively.
+short: Fix a flat voice by using more of your range — sirens, pauses, and letting your face lead your tone.
+f: How do I sound more confident? || How do I tell a good story? || My voice is too quiet
+src:
+
+## t-video | voice | How do I come across well on video calls?
+q: video call; zoom; teams call; online meeting; on camera; webcam; virtual meeting; video
+n: vg-video, vve-imagery, vg-expression, vve-triple-nod
+b: Bring a bit more of everything than you would in person. Vinh's checklist: camera on at hello, torso and hands in shot, good light and sound, and a little more energy than feels natural, since the screen flattens you. Let your face move — a blank face reads as "doesn't care". Vanessa notes your background and picture send warmth or competence signals too, so check what's behind you. Nod visibly while others talk. And for your key point, looking at the lens rather than the faces makes it feel like eye contact.
+say: "Can I jump in with one thought here?"
+tip: Look at the lens on your key sentence, smile, and speak about 10% more energetically than in person.
+short: On video: camera on, hands in shot, good light, and a bit more energy than in person.
+f: How do I come across well in work meetings? || What do I do with my hands? || How do I sound more confident?
+src:

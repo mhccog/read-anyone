@@ -1,0 +1,99 @@
+## t-start | openers | How do I start a conversation?
+q: start a conversation; opener; openers; first thing to say; talk to a stranger; approach someone; break the ice; icebreaker; conversation starters; how to begin; first line; nice to meet you
+n: vve-pq-exciting, vve-break-script, vve-priming, vve-permission-warmth, vg-generosity-energy, ch-one-liners, vve-context-cues, vve-sparkers, all-start-conversation
+b: Open warm, then ask something that needs a real answer. Vanessa's research says autopilot lines like "Nice to meet you" and "What do you do?" are forgettable, so swap in a sparker: "Working on anything exciting these days?" or "What was the highlight of your day?" If you're somewhere specific, use it — "How do you know the host?" works almost anywhere. Vinh's piece is energy: give your hello a little more life than feels necessary. Chase's is to keep it open and simple — "How did you get started in this?" — and then actually listen to the answer.
+say: "So good to meet you. Working on anything exciting these days?"
+tip: Smile first, then speak. Lift your voice slightly on the hello and let the question end with a gentle rise.
+short: Start warm and swap autopilot questions for one that needs a real answer.
+f: What do I say when I go blank? || How do I keep a conversation going? || What are good questions to ask?
+src: Conversation, Level 1 · DOAC 2026 (Vanessa) https://www.youtube.com/watch?v=q2cg1gEYWJQ
+
+## t-what-say | openers | What do I say? (I go blank)
+q: what do i say; what should i say; i go blank; mind goes blank; dont know what to say; nothing to say; freeze up; run out of things to say; stuck
+n: vve-context-cues, ch-fork, vg-ford, vg-tell-me-more, vve-tell-me-more, vve-prepare-topics
+b: When your mind goes blank, you don't need something clever — you need something easy. Three fallbacks. Look around: the place, the event, the food — Vanessa's context cues. Pick a FORK topic, Chase's shortcut: Family, Occupation, Recreation, Knowledge (Vinh uses FORD, with Dreams instead). Or go back to what they last said and ask for more; Vinh points out that "tell me more" buys you thinking time and makes them feel heard. And before events, arrive with two questions and one short story ready, so you're never starting from zero.
+say: "Wait, go back — tell me more about that."
+tip: Pause for a breath before you speak. A calm pause reads as thoughtful, not stuck.
+short: When you go blank, use the setting, a FORK topic, or ask them to tell you more.
+f: What do I do in an awkward silence? || How do I keep a conversation going? || How do I start a conversation?
+src: The Behavior Ops Manual p. 96 · @askvinh (FORD) · DOAC 2025 (Vinh)
+
+## t-small-talk | smalltalk | How do I make small talk less boring?
+q: small talk; boring small talk; hate small talk; small talk tips; better small talk; shallow conversation; surface level
+n: ch-smalltalk, vve-treasure, vve-stories-not-facts, ch-interesting, vve-been-busy, vve-weather, vve-ask-good, vve-sparkers
+b: Small talk gets boring when it's a swap of facts, so turn it into a hunt for what lights them up. Vanessa calls it a treasure hunt: ask for stories, not facts, and dig wherever their voice speeds up. Chase gives you a simple loop to run: listen, let your face show you heard it, react in a few words, ask one small follow-up, then offer a related bit of your own. His aim is that they walk away feeling interesting. Skip "Been busy?" and bad-weather moaning — they drag the mood down. Ask for something good instead.
+say: "What's been the best part of your week so far?"
+tip: Let your face react before your words do — eyebrows up, a real smile — then ask your follow-up.
+short: Make small talk a treasure hunt — ask for stories and follow what lights them up.
+f: How do I keep a conversation going? || How do I go deeper? || What are good questions to ask?
+src: The Behavior Ops Manual pp. 91–93 · Conversation, Level 1
+
+## t-intros | smalltalk | How do I answer "How are you?" and "What do you do?"
+q: how are you; what do you do; answer what do you do; describe my job; elevator pitch; introduce myself; where are you from; tell me about yourself
+n: vve-how-are-you, vve-logline, ch-four-threads, vve-verbal-catch
+b: Answer with something they can grab, then hand it back. For "How are you?", Vanessa suggests a tiny real story instead of "Good, you?" — something from your week — then turn it back with a better question. For "What do you do?", have a short, plain one-liner about your work. Chase's Four Threads trick works for any basic question: give the answer plus three or four hooks, so they can pick whichever interests them. Then finish with "How about you?" so it doesn't become a monologue.
+say: "Honestly, good — I finally fixed my bike this weekend. What's been good with you?"
+tip: Keep it under fifteen seconds, smile on the hook, and end with your voice rising gently on the question back.
+short: Answer basic questions with a few hooks they can grab, then hand the question back.
+f: How do I keep a conversation going? || How do I start a conversation? || I talk too much
+src: Conversation, Level 1 · The Behavior Ops Manual pp. 96–97
+
+## t-silence | smalltalk | What do I do in an awkward silence?
+q: awkward silence; awkward pause; silence; conversation dies; conversation died; lull; dead air; it went quiet; uncomfortable silence
+n: all-awkward-silence, vg-pause, vve-transition, vve-context-cues, ch-fork
+b: First, don't panic — a short silence feels far longer to you than to them. Vinh, the self-described "Pause Guy", says you don't have to fill a pause at all — a calm one makes you look composed. If it stretches, change lanes openly; Vanessa's line is "Totally shifting gears for a second…", which feels smooth rather than abrupt. Or pick up an earlier thread — something they mentioned in passing — or a FORK topic from Chase. Calling back to something they said earlier also shows you were really listening.
+say: "Going back to something you said earlier — how did the move go?"
+tip: Let the silence sit for one easy breath, smile, then speak a little slower than before.
+short: A short silence is fine — let it breathe, then pick up an earlier thread or shift gears openly.
+f: What do I say when I go blank? || How do I keep a conversation going? || They seem bored
+src: Before We Forget How to Connect ch. 7 · Conversation, Level 1
+
+## t-keep-going | smalltalk | How do I keep a conversation going?
+q: keep a conversation going; keep it going; conversation flow; follow up; follow-up questions; what to ask next; conversation dies quickly; one word answers
+n: all-follow-ups, vg-threads, ch-four-threads, vve-thread-theory, ch-smalltalk, vve-tell-me-more, vg-three-followups
+b: The secret is follow-ups, not new topics. Research by Huang and colleagues found people who ask more follow-up questions are liked more, and all three teachers build on this. Listen for threads, as Vinh calls them — a detail, a feeling, a change in their voice — and pull on the one with the most life in it. Vanessa's "Tell me more?" and Chase's small-talk loop do the same job. Give threads back too: when it's your turn, answer with a few hooks they can grab. If someone shows strong feeling, Vinh's rule is three follow-ups before you say anything about yourself.
+say: "Wait, how did that happen?"
+tip: Ask it with real curiosity and a slight rise, then stay quiet and let them run with it.
+short: Keep it going with follow-up questions on the thread with the most life in it.
+f: What do I do in an awkward silence? || How do I go deeper? || I talk too much
+src: Huang et al. 2017 · Before We Forget How to Connect ch. 23
+
+## t-deeper | deeper | How do I go deeper and have meaningful conversations?
+q: go deeper; deep conversation; meaningful conversation; real conversation; beyond small talk; connect deeply; deep questions; intimate conversation; get to know someone
+n: vve-blueprint, vve-go-deeper, vve-power-questions, vg-high-low-buffalo, ch-go-first, vve-pq-goal, vve-pq-afraid
+b: Go one level deeper than feels comfortable, at their pace. Vanessa's Conversation Blueprint moves from easy facts, to goals and values, to the story someone tells about their life — and research shows people enjoy deep talk far more than they expect. Move up a level only when their answers get longer and warmer. Vinh's way in is to go first: share a high, a low and something random about yourself (his High, Low, Buffalo), with a real answer, and they'll usually match your depth. Chase agrees — openness invites openness.
+say: "What's something you're working towards right now that you actually care about?"
+tip: Slow down and soften your voice on the question, then give them a beat of silence to think.
+short: To go deeper, move one level at a time — from facts to goals to their story — and go first.
+f: What are good questions to ask? || How do I make friends? || How do I make someone feel heard?
+src: Conversation, Levels 1–3 · Kardas, Kumar & Epley 2022
+
+## t-nothing-common | smalltalk | We have nothing in common
+q: nothing in common; no common ground; different from me; dont relate; cant relate; different interests; old people; young people
+n: vve-teach-me, vve-thread-theory, vve-same-here, ch-teach-me, vve-yums
+b: Nothing in common is actually a gift — it means they can teach you something. Vanessa's move when there's no "me too" is to ask them to teach you, and Chase agrees as long as you genuinely want to learn. People love explaining what they know. Meanwhile keep listening for small overlaps — a place, a worry, a love of bad coffee — and when you find one, say "Same here!" Similarity is one of the oldest findings in liking research. And if they're into something you'd never choose, meet it with curiosity, not a wince.
+say: "I know nothing about that — teach me? What got you into it?"
+tip: Lean in a little and keep your eyebrows up while they explain. Your face shows you mean it.
+short: When you've nothing in common, ask them to teach you — and keep listening for small overlaps.
+f: How do I keep a conversation going? || What are good questions to ask? || How do I be more likeable?
+src: Captivate ch. 5
+
+## t-questions | openers | What are good questions to ask?
+q: good questions; questions to ask; best questions; interesting questions; question list; power questions; what to ask
+n: vve-power-questions, vve-signature, vve-pq-learn, ch-one-liners, vg-ford, vve-lucky
+b: The best questions invite a story and are easy to answer. Vanessa's nine power questions work in order. Light: "Working on anything exciting these days?", "Any fun plans coming up?" Deeper: "What's your biggest goal right now?", "What have you always wanted to learn?" Meaningful (only with trust): "What would you do if you weren't afraid?" Chase likes open, opinion-style questions such as "What's your take on all this?" Vinh's favourite easy one is "What do you do in your free time?" Pick one you'd genuinely love to hear answered and make it your signature question.
+say: "What do you love to talk about?"
+tip: Ask one question, then stop. Don't stack a second question on top while they're thinking.
+short: Good questions invite a story — start light, go deeper as trust grows, and ask one at a time.
+f: How do I go deeper? || How do I start a conversation? || How do I keep a conversation going?
+src: Conversation, Levels 1–3
+
+## t-interesting | story | How do I be more interesting?
+q: be interesting; more interesting; boring person; im boring; i have nothing interesting; interesting to talk to
+n: ch-interesting, vve-prepare-topics, vve-story-stack, vg-storytelling, vve-confetti, vve-at-ease
+b: The quickest way to be interesting is to be interested — Chase's aim is that the other person leaves feeling interesting. But it helps to have a few things ready to share too. Vinh suggests a "Story Bank" on your phone: whenever something moves you — frustration, surprise, pride — jot it down. Vanessa says arrive prepared with a couple of fresh stories and questions, and tease a good one ("Can I tell you something weird that happened?"). Drop the urge to impress; being relaxed and curious is more magnetic than being clever.
+say: "Can I tell you the strangest thing that happened to me this week?"
+tip: Lean in slightly and drop your volume a touch on the tease — it pulls people closer.
+short: Be interested first, and keep a small bank of real stories ready to share.
+f: How do I tell a good story? || How do I make small talk less boring? || How do I be more likeable?
+src: The Behavior Ops Manual p. 91 · Before We Forget How to Connect ch. 15

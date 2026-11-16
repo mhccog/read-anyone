@@ -4,14 +4,14 @@
   "use strict";
   const $ = function (s) { return document.querySelector(s); };
   const esc = function (s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); };
-  const KEY = "read-anyone-ask-v1";
+  const KEY = "read-anyone-ask-v2";
   const norm = function (s) { return String(s || "").toLowerCase().replace(/[’']/g, "").replace(/[^a-z0-9]+/g, " ").trim(); };
   const FKEY = "read-anyone-ask-author";
   const WHO = { vve: "Van Edwards", vg: "Giang", ch: "Hughes", all: "All three", ra: "Read Anyone" };
   const FILTERS = [["all", "All"], ["vve", "Van Edwards"], ["ch", "Hughes"], ["vg", "Giang"]];
-  const CAT = { openers: "Openers", smalltalk: "Small talk", listening: "Listening", body: "Body language", voice: "Voice", story: "Stories", deeper: "Going deeper", warmth: "Warmth", exits: "Endings", names: "Names", tough: "Hard moments", confidence: "Confidence", groups: "Groups", practice: "Practice", ideas: "Big idea", leftout: "Left out", about: "About" };
+  const CAT = { openers: "Openers", smalltalk: "Small talk", listening: "Listening", body: "Body language", voice: "Voice", story: "Stories", deeper: "Going deeper", warmth: "Warmth", exits: "Endings", names: "Names", tough: "Hard moments", confidence: "Confidence", groups: "Groups", practice: "Practice", ideas: "Big idea", leftout: "Left out", about: "About", likeability: "Likeability", speaking: "Speaking", work: "Work", endings: "Endings", social: "Social life", growth: "Getting better", ethics: "Ethics", general: "General" };
   const STARTERS = {
-    all: ["What does mirroring mean?", "Name Game", "How do I end a conversation?", "How does Vinh use pauses?", "What is the triple nod?", "What is the sincerity test?"],
+    all: ["I get nervous meeting people", "What do I say?", "They seem bored", "How do I be more likeable?", "How do I end a conversation?", "Someone is being rude to me"],
     vve: ["Name Game", "What are the nine power questions?", "What is the triple nod?", "How do I end a conversation?", "What is Thread Theory?"],
     ch: ["What is the small-talk formula?", "What is FORK?", "What are the six needs?", "What is composure?", "What does Read Anyone leave out?"],
     vg: ["How does Vinh use pauses?", "What is the Power Sphere?", "High, Low, Buffalo", "What is Match, Mirror and Lead?", "What are the listening traps?"]
@@ -39,15 +39,15 @@
     try { hist = JSON.parse(localStorage.getItem(KEY) || "[]"); } catch (e) { hist = []; }
     log().innerHTML = ""; welcome();
     hist.forEach(function (h) { if (h.r === "u") drawUser(h.q, false); else drawBot(h.res, false); });
-    const lb = hist.slice().reverse().find(function (h) { return h.r === "b" && h.res && h.res.main; });
-    if (lb) { state.last = lb.res.main; state.recent = [lb.res.main]; }
+    const lb = hist.slice().reverse().find(function (h) { return h.r === "b" && h.res; });
+    if (lb) setLast(lb.res);
     $("#askClear").hidden = !hist.length;
     if (hist.length) scrollEnd(false);
   }
   function welcome() {
     const d = document.createElement("div"); d.className = "msg bot welcome";
     const st = STARTERS[state.author] || STARTERS.all;
-    d.innerHTML = '<div class="bub"><p>Type a question, a word, or “what does … mean”. Every answer names its teacher and source. If it isn’t in their work, I’ll say so.</p><div class="chips">' +
+    d.innerHTML = '<div class="bub"><p>' + (state.author === "all" ? "Ask me anything about talking to people — vague is fine. I’ll blend Vanessa, Chase and Vinh into one answer you can use straight away." : "Ask anything, and I’ll answer from " + esc(WHO[state.author]) + "’s work only.") + '</p><div class="chips">' +
       st.map(function (s) { return '<button type="button" class="chip fu" data-q="' + esc(s) + '">' + esc(s) + "</button>"; }).join("") + "</div></div>";
     log().appendChild(d);
   }
@@ -66,7 +66,7 @@
       }
       return "<span>" + esc(s.l) + "</span>";
     });
-    return parts.length ? '<p class="src"><b>Source. </b>' + parts.join(" · ") + "</p>" : "";
+    return parts.length ? '<details class="srcs"><summary>Where this comes from</summary><p class="src">' + parts.join(" · ") + "</p></details>" : "";
   }
   function chip(label, attr, val, cls) { return '<button type="button" class="chip fu' + (cls ? " " + cls : "") + '" ' + attr + '="' + esc(val) + '">' + esc(label) + "</button>"; }
   function followChips(e, extra) {
@@ -93,7 +93,64 @@
       '<p class="a-title">' + esc(e.t) + "</p>";
   }
   function tryLine(e) { return e.u ? '<p class="tip"><b>' + (e.c === "leftout" && e.i !== "lo-overview" ? "Honest alternative. " : "Try this. ") + "</b>" + esc(e.u) + "</p>" : ""; }
+  const TP = function (id) { return window.ASK_ENGINE ? window.ASK_ENGINE.topic(id) : null; };
+  const unq = function (x) { return String(x || "").replace(/^[“"]|[”"]$/g, ""); };
+  function tWho(t) { return (t.w || []).map(function (x) { return '<span class="tag who who-' + esc(x) + '">' + esc(WHO[x] || x) + "</span>"; }).join(""); }
+  function tHead(t) { return '<div class="meta">' + tWho(t) + '<span class="tag">' + esc(CAT[t.c] || t.c) + '</span></div><p class="a-title">' + esc(t.t) + "</p>"; }
+  function sayBlock(t) {
+    const m = /^(“[^”]*”|"[^"]*")\s*(.*)$/.exec(t.say); const line = m ? unq(m[1]) : unq(t.say); const after = m && m[2] ? ' <span class="mute">' + esc(m[2]) + "</span>" : "";
+    return '<div class="say"><p class="lbl">Try saying</p><p class="say-line">“' + esc(line) + "”" + after + "</p></div>";
+  }
+  function tChips(t, extra) {
+    const c = [], seen = {}; seen[norm(t.t)] = 1;
+    (extra || []).forEach(function (x) { if (x && !seen[norm(x.t)]) { seen[norm(x.t)] = 1; c.push(chip(x.t, "data-tid", x.i, "rel")); } });
+    (t.f || []).forEach(function (f) { if (!seen[norm(f)] && c.length < 4) { seen[norm(f)] = 1; c.push(chip(f, "data-q", f)); } });
+    return c.length ? '<div class="fus"><p class="lbl">Ask next</p><div class="chips">' + c.join("") + "</div></div>" : "";
+  }
+  function leadNote(e) {
+    if (!e) return "";
+    const nm = e.t.replace(/ \(left out\)$/, "").replace(/[?.!]$/, "");
+    let h = '<p class="lead">' + (e.c === "about" ? "" : "<b>" + esc(nm) + ".</b> ") + esc(e.s) + "</p>";
+    if (e.c === "leftout" && e.u && e.i !== "lo-overview") h += '<p class="tip"><b>The honest alternative. </b>' + esc(e.u.replace(/^(the )?honest alternative:\s*/i, "")) + "</p>";
+    return h;
+  }
+  function topicBody(res) {
+    const t = TP(res.main); if (!t) return "<p>That answer is no longer available.</p>";
+    const lead = res.lead && E(res.lead);
+    if (res.kind === "tfollow") {
+      let h = tHead(t);
+      const notes = t.n.map(E).filter(Boolean);
+      if (res.mode === "example" || res.mode === "use") {
+        const ex = []; notes.forEach(function (e) { (e.e || []).forEach(function (x) { if (ex.length < 3) ex.push(x); }); });
+        h += sayBlock(t) + (ex.length ? '<p class="lbl">More lines you could use</p><ul class="ex">' + ex.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>" : "") + '<p class="tip"><b>How to say it. </b>' + esc(t.tip) + "</p>";
+      } else if (res.mode === "related") {
+        const rel = {}; t.n.forEach(function (n) { window.ASK_ENGINE.topics().forEach(function (o) { if (o.i !== t.i && o.n.indexOf(n) >= 0) rel[o.i] = (rel[o.i] || 0) + 1; }); });
+        const ids = Object.keys(rel).sort(function (a, b) { return rel[b] - rel[a]; }).slice(0, 5);
+        return h + "<p>Here’s what connects to this:</p><div class=\"chips\">" + ids.map(function (i) { const o = TP(i); return chip(o.t, "data-tid", o.i, "rel"); }).join("") + "</div>";
+      } else {
+        const pick = [], seenW = {};
+        notes.forEach(function (e) { const w = e.w[0]; if (pick.length < 3 && !seenW[w] && e.c !== "leftout") { seenW[w] = 1; pick.push(e); } });
+        h += "<p>A bit more on how each of them approaches it:</p>" + pick.map(function (e) { return "<p>" + esc(e.s) + "</p>"; }).join("") + (pick[0] && pick[0].u ? '<p class="tip"><b>Try this. </b>' + esc(pick[0].u) + "</p>" : "");
+      }
+      return h + srcLine(t) + tChips(t);
+    }
+    let h = tHead(t);
+    if (res.general) h += '<p class="mute">I don’t have something specific on that, so here’s the general approach that works in most conversations.</p>';
+    h += leadNote(lead);
+    h += "<p>" + esc(t.b) + "</p>" + sayBlock(t) + '<p class="tip"><b>How to say it. </b>' + esc(t.tip) + "</p>";
+    const br = res.bridge && TP(res.bridge.t);
+    if (br) h += '<p class="bridge"><b>And since you mentioned ' + esc(res.bridge.words || br.t.replace(/\?$/, "").toLowerCase()) + ":</b> " + esc(br.short) + "</p>";
+    const alts = (res.alts || []).map(TP).filter(Boolean);
+    if (br) alts.unshift(br);
+    return h + srcLine(t) + tChips(t, alts);
+  }
+  function offBody() {
+    return "<p>That’s outside what Vanessa, Chase and Vinh teach, so I won’t guess. If it’s about a conversation, tell me about the person and the moment — like “my boss keeps interrupting me” or “I go blank at parties”.</p><div class=\"chips\">" +
+      STARTERS.all.slice(0, 4).map(function (s) { return chip(s, "data-q", s); }).join("") + "</div>";
+  }
   function body(res) {
+    if (res.kind === "off") return offBody();
+    if (res.kind === "topic" || res.kind === "tfollow") return topicBody(res);
     if (res.kind === "unsure") {
       const alts = (res.alts || []).map(E).filter(Boolean);
       const who = state.author && state.author !== "all" ? WHO[state.author] : null;
@@ -120,33 +177,48 @@
       .map(function (x) { return chip(x.t.replace(/ \(left out\)$/, ""), "data-id", x.i, "rel"); });
     const els = res.elsewhere && E(res.elsewhere);
     const elsH = els ? '<p class="lbl">' + esc(els.w.map(function (x) { return WHO[x]; }).join(" and ")) + " covers this directly</p><div class=\"chips\">" + chip(els.t, "data-id", els.i, "rel") + "</div>" : "";
-    return head(e) + (res.conf === "low" ? '<p class="mute">Closest match I have from ' + esc(state.author && state.author !== "all" ? WHO[state.author] : "their work") + ":</p>" : "") + "<p>" + esc(e.s) + "</p>" + tryLine(e) + deeper(e) + srcLine(e) + elsH + followChips(e, alt);
+    const via = res.via && TP(res.via);
+    return head(e) + (via ? '<p class="mute">' + esc(WHO[state.author] || "") + "’s take on “" + esc(via.t.replace(/\?$/, "")) + "”:</p>" : "") + (res.conf === "low" ? '<p class="mute">Closest match I have from ' + esc(state.author && state.author !== "all" ? WHO[state.author] : "their work") + ":</p>" : "") + "<p>" + esc(e.s) + "</p>" + tryLine(e) + deeper(e) + srcLine(e) + elsH + followChips(e, alt);
   }
   function drawBot(res, anim) {
     const d = document.createElement("div"); d.className = "msg bot" + (anim === false ? "" : " in");
     d.innerHTML = '<div class="bub">' + body(res) + "</div>"; log().appendChild(d); return d;
   }
-  function ask(q, id) {
-    q = (q || "").trim(); if (!q && !id) return;
-    if (!ready) { load().then(function () { if (ready) ask(q, id); }); return; }
+  function ask(q, id, tid) {
+    q = (q || "").trim(); if (!q && !id && !tid) return;
+    if (!ready) { load().then(function () { if (ready) ask(q, id, tid); }); return; }
     let res;
-    if (id) {
+    const AE = window.ASK_ENGINE;
+    if (tid) {
+      const t = TP(tid); if (!t) return;
+      q = q || t.t; res = { kind: "topic", main: t.i };
+    } else if (id) {
       const e = E(id); if (!e) return;
       q = q || e.t.replace(/ \(left out\)$/, "");
-      res = { kind: "answer", main: e.i, alts: [] };
+      const tp = state.author === "all" ? AE.topicFor(e.i, AE.scoreTopics(q).list) : null;
+      res = tp ? { kind: "topic", lead: e.i, main: tp.i } : { kind: "answer", main: e.i, alts: [] };
+    } else if (state.author === "all") {
+      const r = AE.answerAll(q, state);
+      res = { kind: r.kind, mode: r.mode, main: r.main && r.main.i, lead: r.lead && r.lead.i, general: !!r.general, alts: (r.alts || []).map(function (x) { return x.i; }), bridge: r.bridge ? { t: r.bridge.t.i, words: r.bridge.words } : null };
+      if (r.kind === "term") res.kind = "topic";
     } else {
-      const r = window.ASK_ENGINE.answer(q, state);
-      res = { kind: r.kind, mode: r.mode, conf: r.conf, main: r.main && r.main.i, alts: (r.alts || []).map(function (x) { return x.i; }), elsewhere: r.elsewhere && r.elsewhere.i };
+      const r = AE.answerTeacher(q, state);
+      res = { kind: r.kind, mode: r.mode, conf: r.conf, main: r.main && r.main.i, alts: (r.alts || []).map(function (x) { return x.i; }), elsewhere: r.elsewhere && r.elsewhere.i, via: r.via && r.via.i };
     }
     drawUser(q); hist.push({ r: "u", q: q });
     const typing = document.createElement("div"); typing.className = "msg bot typing"; typing.innerHTML = '<div class="bub"><i></i><i></i><i></i></div>'; log().appendChild(typing); scrollEnd();
     setTimeout(function () {
       typing.remove(); const el = drawBot(res); hist.push({ r: "b", res: res }); save();
       $("#askClear").hidden = false;
-      if (!res.main) { state.last = null; }
-      if (res.main) { state.last = res.main; state.recent = [res.main].concat(state.recent || []).slice(0, 3); }
+      setLast(res);
       el.scrollIntoView({ behavior: "smooth", block: "start" });
     }, 240);
+  }
+  function setLast(res) {
+    const isT = res.kind === "topic" || res.kind === "tfollow";
+    state.lastT = isT ? res.main : null;
+    state.last = !isT && res.main ? res.main : null;
+    if (state.last) state.recent = [state.last].concat(state.recent || []).slice(0, 3);
   }
   function renderFilter() {
     $("#askFilter").innerHTML = FILTERS.map(function (f) {
@@ -208,6 +280,7 @@
     $("#ask").addEventListener("click", function (ev) {
       const t = ev.target.closest("button"); if (!t) return;
       if (t.dataset.q) ask(t.dataset.q);
+      else if (t.dataset.tid) ask("", null, t.dataset.tid);
       else if (t.dataset.id) ask("", t.dataset.id);
       else if (t.dataset.gid) { $("#askDlg").close ? $("#askDlg").close() : $("#askDlg").removeAttribute("open"); ask("What is " + t.dataset.gt + "?", t.dataset.gid); }
     });
@@ -215,7 +288,7 @@
     $("#askDlgClose").addEventListener("click", function () { const d = $("#askDlg"); if (d.close) d.close(); else d.removeAttribute("open"); });
     $("#askClear").addEventListener("click", function () {
       if (!hist.length || !confirm("Clear this chat? Your saved lines are not affected.")) return;
-      hist = []; state.last = null; state.recent = []; try { localStorage.removeItem(KEY); } catch (e) { /* private */ }
+      hist = []; state.last = null; state.lastT = null; state.recent = []; try { localStorage.removeItem(KEY); } catch (e) { /* private */ }
       if (ready) restore();
     });
     initMic();

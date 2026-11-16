@@ -1,0 +1,99 @@
+## t-disagree | tough | How do I disagree without a fight?
+q: disagree; disagreement; argue; argument; conflict; push back; different opinion; debate; challenge someone; tell them they are wrong
+n: all-disagree, ch-resonate, vg-situation-not-person, vg-yes-and, ch-golden-bridge, vve-high-stakes
+b: Show you understand their view first, then add yours. Chase calls it getting into their river before you steer the boat: say back the best version of their point so they feel heard. Then use Vinh's "Yes, and…" instead of "yes, but…", and aim at the situation, not the person — "this plan", not "you". Vanessa's high-stakes approach is to name the goal you share, which turns it from a fight into a problem to solve together. Finish with Chase's golden bridge: give them a way to change their mind without losing face.
+say: "I can see why you'd go that way — and I'm worried about one thing. We both want this to land, so can I share it?"
+tip: Keep your voice low and steady, slow down on "and", and keep your hands open.
+short: Disagree by restating their view fairly first, then adding yours with "and", aimed at the situation.
+f: Someone is being rude to me || How do I give feedback? || How do I persuade someone honestly?
+src:
+
+## t-rude | tough | Someone is being rude to me
+q: rude; someone is rude; disrespect; disrespectful; insult; snide comment; dismissive; condescending; patronising; mean comment; put down
+n: ch-composure, vg-situation-not-person, ch-plain-speech, vve-curious-critical, vg-low-status
+b: Stay steady and name it plainly — no shrinking, no snapping back. Chase's composure idea is that both collapsing (going small, over-apologising) and posturing (puffing up) give your power away; calm is what looks strong. Vinh's conflict move: acknowledge their emotion first, then say what bothered you about the situation, not what's wrong with them. Vanessa suggests a quick check before reacting: what explanation would you give if you'd done the same? Sometimes it's a bad day, not an attack. If it does need saying, say it once and stop.
+say: "I can tell you're frustrated, but that came across as dismissive. Can we keep this respectful?"
+tip: Pause first, keep eye contact, use a level tone, then stop talking — don't soften it with a laugh.
+short: Stay calm and name rude behaviour once, plainly, aimed at what happened, not who they are.
+f: How do I disagree without a fight? || How do I deal with a difficult or annoying person? || I keep getting interrupted
+src:
+
+## t-interrupted | tough | I keep getting interrupted
+q: interrupted; interrupt; interrupting; talked over; cut off; cant get a word in; people talk over me; hold the floor
+n: vg-hard-to-interrupt, vve-interruptions, ch-interruptions, vve-anchor-touch
+b: Make yourself harder to interrupt, then hold your place calmly. Vinh's take: finish your sentences, keep your volume steady, and keep your body still — people interrupt less when you're clearly mid-thought. Vanessa's toolkit helps: preview up front ("I've got three points"), and if someone cuts in, raise a hand slightly, palm out, to bookmark your place. Chase's line is calm and simple: use their name and finish your thought. If you're about to make a longer point, ask for a few minutes up front and promise to hear their input after.
+say: "One sec, James — let me finish this thought, then I'd love your take."
+tip: Keep your pace steady and raise a palm slightly. Speeding up only invites more interruptions.
+short: Signal there's more coming, keep your volume steady, and use their name to finish your thought.
+f: How do I come across well in work meetings? || How do I sound more confident? || Someone is being rude to me
+src:
+
+## t-feedback | tough | How do I give feedback?
+q: give feedback; feedback; criticism; criticise; tell someone they did badly; performance conversation; constructive criticism; correct someone
+n: vve-feedback, vg-situation-not-person, vve-believe, vve-pygmalion, ch-plain-speech
+b: Lead with belief, be specific, and aim at the work. Vanessa's approach: start by saying you believe in them, describe exactly what happened, then ask how you can help it not happen again. Research on "wise feedback" found notes framed around high standards and belief in the person were taken up far more. Vinh says keep it about the situation — "this report", not "you". Chase's plain-speech habit matters here: no hedging or burying the point; say it once, kindly and clearly. Expecting the best from people tends to bring it out.
+say: "I'm telling you this because I know you can hit a high bar — the intro needs to be shorter. How can I help?"
+tip: Keep your voice warm and level, say the main point once, then pause for their reply.
+short: Give feedback that leads with belief, names one specific thing, and asks how you can help.
+f: How do I disagree without a fight? || How do I say no? || How do I come across well in work meetings?
+src: Yeager et al. 2014
+
+## t-say-no | tough | How do I say no?
+q: say no; saying no; decline; turn down; boundaries; set boundaries; people pleaser; people pleasing; refuse; overcommitted
+n: vve-say-no, ch-plain-speech, ch-composure, vg-low-status
+b: Say no to the thing, yes to the person. That's Vanessa's approach: decline clearly, then offer something smaller you're genuinely happy to do ("I can't do dinner, but let's grab a coffee"). Chase's plain-speech rule keeps it short — no pile of excuses, no "I'll try", just say it once and stop. Over-explaining invites negotiation. Vinh's point about low-status habits applies too: skip the over-apologising. You can be warm and still mean no.
+say: "I can't take that on this month — but I'm happy to look over the plan on Friday."
+tip: Keep a friendly tone, a level pitch on "can't", and don't rush to fill the pause afterwards.
+short: Say no to the thing and yes to the person, briefly and without a pile of excuses.
+f: How do I ask for what I want? || How do I disagree without a fight? || Someone is being rude to me
+src:
+
+## t-ask-for | tough | How do I ask for what I want?
+q: ask for what i want; be assertive; assertive; assertiveness; ask for a raise; ask for help; stand up for myself; request; speak up for myself; negotiate; get a raise; raise; pay rise; salary; promotion
+n: vve-assertive, vve-own-it, ch-plain-speech, ch-composure, vve-vocal-power, vve-franklin
+b: Get clear, give a real reason, then ask plainly and stop. Vanessa's assertive approach starts with curiosity — ask what, who and why so you understand the situation — then claim it: "I need X. Can you do Y?" She also notes the word "because", with a genuine reason, makes requests feel fair. Chase's plain-speech rule: drop "just", "maybe" and "sorry to bother you", say it once, then let the silence work. And asking for advice or help often makes people like you more, not less.
+say: "I'd like to talk about my pay, because I've taken on the team lead role. Can we review it this month?"
+tip: Drop your pitch at the end, keep eye contact, and wait through the silence that follows.
+short: Ask clearly with a real reason, drop the hedges, then stop and wait.
+f: How do I say no? || How do I sound more confident? || How do I handle sceptical pushback?
+src:
+
+## t-sceptic | tough | How do I handle sceptical pushback?
+q: sceptical; skeptical; pushback; objections; they doubt me; dont believe me; resistance; hard sell; convince a sceptic; objection
+n: ch-objections, ch-resonate, vve-nut-job, ch-golden-bridge, ch-plain-speech
+b: Get curious about the doubt instead of fighting it. Chase's five S's, used honestly: Sympathise ("I felt the same"), Socialise ("lots of people ask that"), Select ("Which part worries you most?"), Show the real picture, and Secure ("Does that help?"). Vanessa's NUT Job is similar for worried people: Name the fear, Understand it, then Transform it into a solution together. Speak plainly — jargon makes sceptics more sceptical. And leave them a golden bridge: they can change their mind, or say no, without losing face.
+say: "That's a fair concern. Which part worries you most?"
+tip: Relax your shoulders, keep your voice curious rather than defensive, and pause after asking.
+short: Meet doubt with curiosity — ask which part worries them, show the real picture, and respect a no.
+f: How do I persuade someone honestly? || How do I disagree without a fight? || How do I talk to my boss or someone important?
+src:
+
+## t-boss | work | How do I talk to my boss or someone important?
+q: boss; manager; senior people; important people; vip; ceo; executive; intimidating person; leadership; impress my boss
+n: vve-vips, vg-low-status, ch-authority, ch-acss, vve-high-stakes, all-voice-competence
+b: Be calm, brief and genuinely curious. Vanessa's advice for VIPs is to skip the fan compliment and ask for their take on something real. Vinh says watch the low-status habits — over-apologising, shrinking your body, rushing — and start with a pause instead of "sorry". Chase sees authority as self-work: comfort first, then calm, gratitude and visible enjoyment of the moment. If you have an update, lead with the headline. And asking a senior person for advice tends to make you look more competent, not less.
+say: "Quick headline: the launch is on track. I'd love your take — what's the biggest risk you see?"
+tip: Lead with your conclusion, keep an unhurried pace, and hold eye contact as you finish.
+short: With important people, skip the flattery, lead with the headline, and ask for their real take.
+f: How do I come across well in work meetings? || How do I sound more confident? || How do I ask for what I want?
+src:
+
+## t-difficult | tough | How do I deal with a difficult or annoying person?
+q: difficult person; annoying person; deal with difficult people; toxic person; hard to get along with; irritating; frustrating colleague; pet peeve
+n: ch-people-are-reasons, vve-curious-critical, vve-nut-job, vve-disliked, vg-situation-not-person, all-six-needs
+b: Get curious about what's driving them, then set limits where needed. Chase's view is that behaviour has reasons — people carry things and wear masks, so they aren't broken; something is driving them. His six needs make good listening prompts: are they after recognition, control, or acknowledgement of how hard it's been? Treat that as a guess, never a label. Vanessa's check: what explanation would you give if you'd done the same thing? If they're worried, name the fear and solve it together. And accept that not everyone will click with you.
+say: "I want this to work for both of us. What matters most to you here?"
+tip: Use a calm, slower voice and a neutral face, and let them finish before you respond.
+short: With difficult people, get curious about what's driving them and set clear limits.
+f: Someone is being rude to me || How do I disagree without a fight? || What are the six needs?
+src:
+
+## t-apologise | tough | How do I apologise well (and stop over-apologising)?
+q: apologise; apologize; apology; say sorry; sorry; over apologising; i say sorry too much; made a mistake; messed up; my fault
+n: vg-low-status, vg-practice, ch-composure, ch-plain-speech, vve-anti-perfect, vve-franklin
+b: Apologise once, properly, for real mistakes — and drop the reflex "sorry" everywhere else. Vinh lists over-apologising as a low-status habit that makes people take you less seriously; his swap is to start with a pause, not an apology, or to say "thank you" instead ("Thanks for waiting" rather than "Sorry I'm late"). Chase's composure point fits: grovelling is collapse. When you do need to apologise, name exactly what you did, how it affected them, and what you'll do now — then stop. Vanessa notes that owning a small flaw makes you easier to warm to, not weaker.
+say: "I got that wrong, and it cost you an evening. I've fixed it, and it won't happen again."
+tip: Say it slowly and plainly, with eye contact. One clear apology lands; three nervous ones don't.
+short: Apologise once, specifically, for real mistakes — and swap reflex sorries for a pause or a thank-you.
+f: How do I sound more confident? || How do I ask for what I want? || Someone is being rude to me
+src: 

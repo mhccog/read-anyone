@@ -9073,5 +9073,125 @@
   "basis": "adapted",
   "delivery": "Put on warm interest first, and it will come through in \"more\".",
   "deliveryBy": "Vinh Giang (BWF ch3)"
+ },
+ {
+  "id": "p636",
+  "need": "approval",
+  "feeling": "appreciated",
+  "situation": "close",
+  "sources": [
+   "BWF ch24"
+  ],
+  "text": "Thank you. I learned more from you in ten minutes than from a week of reading about it.",
+  "technique": "Listen for what matters",
+  "why": "Vinh: listening is the bigger half. Afterwards, tell them what you took from them.",
+  "basis": "book",
+  "delivery": "Slow right down on \"ten minutes\" and let the last words settle low.",
+  "deliveryBy": "Vinh Giang (BWF ch4)"
+ },
+ {
+  "id": "p637",
+  "need": "significance",
+  "feeling": "important",
+  "situation": "close",
+  "sources": [
+   "BWF ch24"
+  ],
+  "text": "What you said about the team really stuck with me. I'll be thinking about it on the way home.",
+  "technique": "Listen for what matters",
+  "why": "Vinh: ask yourself what seemed to matter most to them, then tell them.",
+  "basis": "book",
+  "delivery": "Hold eye contact through \"stuck with me\", then pause before the rest.",
+  "deliveryBy": "Vinh Giang (BWF ch13)"
+ },
+ {
+  "id": "p638",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch26"
+  ],
+  "text": "Wait, \"stuck\"? Say more about that. I think you've put your finger on something.",
+  "technique": "Reflection",
+  "why": "Vinh: notice a strong word, reflect it back, pause, then clarify.",
+  "basis": "book",
+  "delivery": "Lift your pitch on \"stuck\", then pause a full beat before \"Say more\".",
+  "deliveryBy": "Vinh Giang (BWF ch7)"
+ },
+ {
+  "id": "p639",
+  "need": "intelligence",
+  "feeling": "smart",
+  "situation": "disagree",
+  "sources": [
+   "VG"
+  ],
+  "text": "You've clearly thought this through. Here's the one part I see differently, and it's about the timeline, not you.",
+  "technique": "Argue at the situation, not the person",
+  "why": "Vinh: reflect their effort first, then aim at the situation, never the person.",
+  "basis": "adapted",
+  "delivery": "Palms down and steady on \"the one part\"; keep your volume level.",
+  "deliveryBy": "Vinh Giang (BWF ch10)"
+ },
+ {
+  "id": "p640",
+  "need": "pity",
+  "feeling": "reassured",
+  "situation": "rapport",
+  "sources": [
+   "BWF ch29"
+  ],
+  "text": "That sounds like a lot to carry. What would help most right now?",
+  "technique": "The undercurrent",
+  "why": "Vinh: ask yourself what they might be feeling or needing, then name it gently.",
+  "basis": "book",
+  "delivery": "Drop your volume a notch and slow down; leave room after the question.",
+  "deliveryBy": "Vinh Giang (BWF ch6)"
+ },
+ {
+  "id": "p641",
+  "need": "acceptance",
+  "feeling": "liked",
+  "situation": "opener",
+  "sources": [
+   "BWF ch23"
+  ],
+  "text": "So good to see you! Quick one: a high, a low and something random from your week. I'll go first.",
+  "technique": "High, Low, Buffalo",
+  "why": "Vinh's game: going first with a real answer gives others permission to open up.",
+  "basis": "book",
+  "delivery": "Give \"So good to see you\" more energy than feels necessary, then smile into \"I'll go first\".",
+  "deliveryBy": "Vinh Giang (BWF ch3)"
+ },
+ {
+  "id": "p642",
+  "need": "power",
+  "feeling": "control",
+  "situation": "disagree",
+  "sources": [
+   "VG"
+  ],
+  "text": "It's your call. Can I give you the one risk I see, short version, and then you decide?",
+  "technique": "What they want from this chat",
+  "why": "Vinh: some people want information. Be clear and short, and leave the decision with them.",
+  "basis": "adapted",
+  "delivery": "Say \"your call\" warmly and slowly, then keep the risk to one breath.",
+  "deliveryBy": "Vinh Giang (BWF ch4)"
+ },
+ {
+  "id": "p643",
+  "need": "any",
+  "feeling": "liked",
+  "situation": "close",
+  "sources": [
+   "BWF ch23"
+  ],
+  "text": "I really enjoyed this. Same time next month? I want to hear how the move goes.",
+  "technique": "Conversational threads",
+  "why": "Vinh: pull gently on a thread they gave you, and carry it into next time.",
+  "basis": "book",
+  "delivery": "Let your face show you mean it, and end \"move goes\" on a gentle rise.",
+  "deliveryBy": "Vinh Giang (BWF ch11)"
  }
 ]

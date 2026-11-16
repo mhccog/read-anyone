@@ -4,7 +4,7 @@ A simple word and sentence generator: pick a lean, a vibe, a moment and a teache
 
 **Live site:** [https://mhccog.github.io/read-anyone/](https://mhccog.github.io/read-anyone/)
 
-**Ask** (the second tab): type a question, a word or “what does … mean” and get a plain-English answer from Vanessa Van Edwards, Chase Hughes or Vinh Giang, tagged with the teacher and source. It runs entirely in the browser from hand-written notes (`ask/kb.js`), with no AI API and no web results. To edit the notes, change `research/ask-kb/*.txt` and run `python3 research/build_ask_kb.py`. Manipulative techniques are listed only to say what they are and why they’re left out.
+**Ask** (the second tab): ask anything about talking to people, vague (“I’m nervous”, “they seem bored”) or specific (“what is the Name Game?”). With **All** selected you get one blended answer that weaves Vanessa Van Edwards, Chase Hughes and Vinh Giang together: a direct answer, a few concrete moves, a line to say and a delivery tip, with sources tucked into a closed “Where this comes from” toggle. Pick one teacher to hear only their view. It runs entirely in the browser from hand-written material (`ask/kb.js`) with no AI API and no web results. Blended answers live in `research/ask-topics/*.txt` (plus a little outside research, cited), per-teacher notes in `research/ask-kb/*.txt`; run `python3 research/build_ask_kb.py` after editing. Manipulative techniques are only named to explain why they’re left out, with an honest alternative.
 
 The six needs are listening prompts from Chase Hughes (coach’s view, untested), not labels. Only say what you mean. Use this to make the conversation easier for the other person, never to push people.
 

@@ -1,0 +1,99 @@
+## t-listening | listening | How do I become a better listener?
+q: better listener; listening; listen better; how to listen; active listening; bad listener; not listening; zoning out while listening
+n: vg-listening, vg-traps, vg-last-word, vg-reflection, ch-smalltalk, vve-triple-nod, vve-vocal-invitations
+b: Good listening is mostly catching your own habits. Vinh lists five traps — judging, advising, one-upping, mind reading and daydreaming — and says spend a week just noticing which one is yours. To stop planning your reply while they talk, try his theatre game Last Word, Last Letter. Then show you're listening: Vanessa's slow nods and little "mm-hm… and then?" sounds invite more, and Chase says let your face react to the good bits. Finish with reflection: give back a key word they used, and let them go further.
+say: "Hang on — 'stuck'? Tell me more about that."
+tip: Repeat their word softly with a slight rise, then nod slowly and say nothing until they carry on.
+short: Better listening means catching your trap, showing you're with them, and reflecting their words back.
+f: How do I make someone feel heard? || I talk too much || How do I show I'm listening with my body?
+src: Before We Forget How to Connect ch. 24–26, 29
+
+## t-heard | listening | How do I make someone feel heard?
+q: feel heard; make them feel heard; feel understood; validate; validation; empathy; empathise; show i understand; be supportive
+n: ch-heard-seen, vg-reflection, vg-undercurrent, all-label-feeling, ch-verbal-mirror, ch-reaction
+b: People feel heard when you show them what you heard, not when you say "I understand". Chase calls making people feel heard and seen the most important people skill there is. Vinh's method: notice a strong word, reflect it back, pause, then gently name the feeling as a question. Labelling a feeling, research suggests, can actually take the edge off it. Chase's verbal mirror — repeating their last few words — does the same thing. Hold off on advice; fixing too early tells them you've stopped listening.
+say: "That sounds exhausting. Did it feel like nobody noticed?"
+tip: Lower your volume, slow down, and let your face show a little of the feeling — then wait.
+short: Make people feel heard by reflecting their words and gently naming the feeling, before any advice.
+f: Someone is upset — what do I say? || How do I become a better listener? || How do I support someone going through something hard?
+src: DOAC 2026 (Chase) https://www.youtube.com/watch?v=9uSXOr-AdAU · Before We Forget How to Connect ch. 26, 29
+
+## t-talk-too-much | listening | I talk too much
+q: talk too much; i talk too much; monologue; ramble on; dominate conversations; over share; oversharing; dont let others talk; one upping; make it about me
+n: vve-verbal-catch, vg-traps, vg-three-followups, vg-boring, all-follow-ups
+b: Treat conversation like a game of catch. Vanessa's fix is simple: after your bit, toss it back with "How about you?" A good rule of thumb is to check in once you've talked for a minute or so. Vinh adds that the hidden culprit is often one-upping — hearing their story and reaching for a bigger one. When someone shares something with feeling, ask three follow-ups before you say anything about yourself. And when you do tell a story, cut the detours; know your point before you start.
+say: "Anyway — that's enough about me. What about you?"
+tip: Say it with a smile and a slight drop in pace, then genuinely turn your body towards them.
+short: Hand the ball back after your turn, and ask follow-ups before sharing your own story.
+f: How do I keep a conversation going? || How do I become a better listener? || How do I tell a good story?
+src: Conversation, Level 2 · Before We Forget How to Connect ch. 25
+
+## t-body-listen | body | How do I show I'm listening with my body?
+q: triple nod; nodding; nod; head tilt; tilt; show interest body language; look interested; listening face; eyebrow raise; lean in
+n: vve-triple-nod, vve-head-tilt, vve-warmth-cues, ch-display, vve-charisma-cues, vg-expression, vve-mirror
+b: Your face and body can say "keep going" without a word. Vanessa's slow triple nod — three slow nods while they talk — encourages people to say more; fast nods look like "hurry up". Tilt your head slightly when they reach the important part, and turn your whole body towards them with nothing blocking you. Chase says let your face show their story as it happens: brows up at the surprise, a wince at the hard bit. Vinh warns that a blank face reads as "doesn't care", even when you do.
+say: "Mm-hm… and then what happened?"
+tip: Nod slowly — about one nod a second — and keep your face moving with their story.
+short: Show you're listening with slow nods, a head tilt, facing them, and a face that reacts.
+f: How do I become a better listener? || What should my body be doing? || What does mirroring mean?
+src: Cues ch. 3–4 · Before We Forget How to Connect ch. 11
+
+## t-read-people | body | How do I read people and body language?
+q: read people; read body language; body language meaning; what does it mean when; crossed arms; signs; cues; baseline; read anyone; read someone
+n: ch-baseline, vg-visual-radar, vg-vocal-radar, vve-decoder, vg-what-they-want
+b: Read changes, not single gestures — and then ask rather than conclude. Chase's approach is to notice someone's normal (their baseline), then watch for shifts and clusters in context; a change usually means stress or discomfort, not a hidden truth. Vinh calls it radar: notice when their voice speeds up, slows down or goes cold, or their body changes, and ask about it gently. Vanessa's microexpressions help you spot a flash of feeling so you can respond kindly. And Vinh's simplest read: is this person after information, connection, harmony or fun?
+say: "You went a bit quiet there — is this an OK thing to talk about?"
+tip: Ask it softly, at a slower pace, with an open palm. It's an invitation, not a test.
+short: Read changes from someone's normal, then ask gently instead of drawing conclusions.
+f: How can I tell if someone is lying? || They seem bored || How do I adapt to different people?
+src: The Behavior Ops Manual pp. 216–217, 302 · Before We Forget How to Connect ch. 27–28
+
+## t-lying | leftout | How can I tell if someone is lying?
+q: lying; lie; liar; tell if someone is lying; detect lies; spot a liar; deception; are they lying; honest or not; microexpressions lie detection
+n: lo-lie-spotting, ch-baseline, vg-visual-radar
+b: Honestly, you can't reliably — and neither can anyone else from body language alone. Large reviews of the research put people at about 54% accuracy, close to a coin flip. Chase and Vanessa both teach lie-spotting from the body, but Read Anyone leaves it out for that reason. What does work: notice a change from their normal, remember it usually means stress or discomfort, and ask an open, kind question. If trust really matters, look at facts and patterns over time, not a twitch or a glance.
+say: "Something feels off to me — can we talk it through?"
+tip: Keep your voice level and curious rather than accusing. Palms open, slower pace.
+short: You can't reliably spot lies from body language, so notice changes and ask openly instead.
+f: How do I read people and body language? || How do I make someone feel heard? || What does Read Anyone leave out?
+src: Bond & DePaulo 2006 · The Behavior Ops Manual pp. 205–278 (excluded) · Captivate ch. 6 (excluded)
+
+## t-bored | listening | They seem bored
+q: bored; they seem bored; seem bored; disengaged; not interested; losing them; looking at phone; looking around; zoning out; short answers; uninterested
+n: vg-vocal-radar, vg-visual-radar, vg-boring, vve-verbal-catch, vve-transition, vg-what-they-want, vve-exit
+b: First, check it's not you holding the floor too long — that's the most common cause, and the easiest fix. Hand it back with a question about them. If they're still flat, Vinh's advice is to read what they want from the chat: some people want quick information, some connection, some just fun, so shift gears. Vanessa's open topic switch ("Totally shifting gears…") gives you a graceful reset. And if the energy really isn't there, end warmly rather than dragging it out; a good ending beats a long fade.
+say: "I've been rambling — what's been keeping you busy lately?"
+tip: Say it lightly with a smile and a slightly faster pace, so it feels playful, not apologetic.
+short: If they seem bored, hand the floor back, shift gears, or end warmly.
+f: How do I end a conversation? || I talk too much || What do I do in an awkward silence?
+src: Before We Forget How to Connect ch. 19, 27–28 · Conversation, Level 1
+
+## t-upset | tough | Someone is upset — what do I say?
+q: upset; someone is upset; crying; sad friend; emotional; they are stressed; comfort someone; what to say to someone upset; console
+n: vg-undercurrent, vve-calm, all-label-feeling, vg-traps, vg-three-followups, vg-calm-pace
+b: Lead with presence, not solutions. Vinh says ask yourself "what might they be feeling or needing?", then name it gently as a question. Vanessa's research-backed point is to acknowledge the feeling rather than smooth it over — never "calm down" or "it's not that bad". Ask before fixing: do they want ideas, or just someone to listen? And watch Vinh's listening traps — advice, one-upping, or "that happened to me too" can all wait. Three follow-up questions before anything about you is a good guide.
+say: "That sounds really hard. Do you want ideas, or do you just want me to listen?"
+tip: Drop your volume, slow your pace, and sit with the silence after you ask. Don't rush to fill it.
+short: When someone's upset, name the feeling gently and ask whether they want ideas or just an ear.
+f: How do I support someone going through something hard? || How do I calm down someone who's angry? || How do I make someone feel heard?
+src: Before We Forget How to Connect ch. 29 · Conversation, Level 2
+
+## t-angry | tough | How do I calm down someone who's angry?
+q: angry; calm someone down; furious; shouting; yelling; heated; de escalate; deescalate; temper; mad at me; customer is angry
+n: vve-calm, vg-calm-pace, vg-match-mirror-lead, ch-composure, ch-golden-bridge, all-label-feeling
+b: Match first, then slow down — and never say "calm down". Vinh's technique: meet their pace and intensity for a moment so they feel met, then gradually lower your speed and volume; people tend to follow you down. Vanessa says name the feeling and invite more ("Can you tell me more about that?"), because suppressing anger tends to backfire. Chase adds composure: don't shrink and don't puff up — stay steady. When it's time to resolve things, give them a golden bridge, a way to step back without losing face.
+say: "I can hear how frustrating this is. Tell me what happened."
+tip: Start at their pace, then bring your voice down a notch with every sentence. Keep your hands open and still.
+short: Calm anger by matching, then slowing down, naming the feeling and staying steady.
+f: Someone is being rude to me || How do I disagree without a fight? || Someone is upset — what do I say?
+src: Conversation, Level 2 · Before We Forget How to Connect ch. 4
+
+## t-support | tough | How do I support someone going through something hard?
+q: support someone; grief; grieving; hard time; struggling friend; bad news; diagnosis; lost their job; break up; hardship; going through a lot
+n: all-six-needs, vve-fears, vve-believe, vg-undercurrent, vg-traps
+b: Acknowledge the weight before anything else. Chase's "hardship" need is a listening prompt here: people going through something often quietly wonder whether anyone sees how hard it's been. So say that you see it, then pause. Vanessa says make it safe to share fears without being judged, and later, if they're facing a scary step, four words help: "I believe in you." Vinh's listening traps matter most now — skip the advice, the comparisons and the silver linings unless they ask. Practical help, offered specifically, beats "let me know if you need anything".
+say: "That's a lot to carry. I'm here — can I bring dinner round on Thursday?"
+tip: Speak slowly and softly, keep the same warm tone through the hard part, and let silence be okay.
+short: Support someone by acknowledging how hard it is, listening without fixing, and offering specific help.
+f: Someone is upset — what do I say? || How do I make someone feel heard? || How do I keep in touch with people?
+src: The Behavior Ops Manual pp. 366–372 · Conversation, Level 3

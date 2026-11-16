@@ -1,0 +1,99 @@
+## t-likeable | likeability | How do I be more likeable?
+q: likeable; likable; more likeable; people like me; be liked; liked more; why dont people like me; make people like me; win people over; attractive personality
+n: all-warmth-first, all-assume-liked, all-liking-gap, vve-signal-liking, ch-interesting, all-follow-ups, vve-highlighter
+b: Be warm first, be curious, and let people know you like them. Vanessa's research says people judge warmth before competence, and the "liking gap" means they already like you more than you think — so walk in assuming you're liked and you'll relax. Signal it back: a real smile, using their name, and saying what you enjoyed. Ask follow-up questions; studies show people who ask more of them are liked more. Chase's aim is to leave people feeling interesting. Vinh's angle is generosity: give a bit more energy than feels necessary.
+say: "I really enjoyed hearing about that — you explain it so well."
+tip: Mean it, smile with your eyes, and say it slightly slower than your normal pace so it lands.
+short: Likeability comes from warmth first, real curiosity, and letting people know you like them.
+f: How do I make a good first impression? || How do I give a good compliment? || How do I keep a conversation going?
+src: Fiske et al. 2007 · Boothby et al. 2018 · Huang et al. 2017
+
+## t-charisma | likeability | How do I become more charismatic?
+q: charisma; charismatic; magnetic; presence; aura; warmth and competence; warm and competent; how to be magnetic; stand out
+n: vve-charisma, vve-cue-cycle, vg-presence, vve-charisma-cues, vve-power-cues, all-voice-competence, ch-display
+b: Charisma is warmth plus competence, shown at the same time. Vanessa's research is that the most charismatic people balance the two — they seem both trustworthy and capable. Warmth cues: a real smile, a head tilt, nodding, open palms. Competence cues: steady eye contact, standing tall, a calm voice that drops at the end of statements. Vinh adds presence, which for him means stillness — no swaying or fiddling — plus a face that shows what you feel. Chase's point is that calm, unhurried movement reads as confidence on its own.
+say: "Tell me more — I want to understand how you did that."
+tip: Steady eye contact, a warm smile, and land your statements with a downward tone.
+short: Charisma is warmth and competence together — friendly cues plus calm, capable ones.
+f: How do I sound more confident? || What should my body be doing? || How do I be more likeable?
+src: Cues ch. 1–2 · Fiske et al. 2007 · Before We Forget How to Connect ch. 9
+
+## t-first-impression | likeability | How do I make a good first impression?
+q: first impression; first impressions; good impression; walking in; enter a room; meet new people; impress; when i arrive
+n: vve-triple-threat, vg-posture-doorway, vve-priming, vve-permission-warmth, all-warmth-first, all-assume-liked
+b: First impressions happen in seconds, mostly through your body and voice. Vinh's habit is a doorway reset: every time you walk through a door, drop your shoulders, lift your chest and ground yourself. Vanessa's Triple Threat covers the first moments: hands visible, her Launch Stance (shoulders down and back, chin up) and good eye contact. Then open with warmth in your voice — "So good to meet you!" rather than a flat "Nice to meet you" — because people judge warmth before competence. Walk in assuming they'll like you; they usually do.
+say: "Hi — so good to meet you. How do you know everyone here?"
+tip: Breathe out at the door, keep your hands where they can be seen, and smile before your first word.
+short: Make a good first impression with a doorway reset, visible hands, eye contact and a warm hello.
+f: How do I be more likeable? || What should my body be doing? || How do I remember names?
+src: Fiske, Cuddy & Glick 2007
+
+## t-names | likeability | How do I remember names?
+q: remember names; forget names; forgot their name; names; name game; bad with names; name; use their name
+n: vve-name-game, ch-use-names, ch-names-stories
+b: Make the name stick in the first ten seconds, and decide that it matters. Vanessa's Name Game has three steps: really hear it, repeat it straight back ("Priya, lovely to meet you"), then anchor it — picture them next to someone you already know with the same name. Chase's view is that remembering names is about motivation more than memory, so care about it on purpose and use the name naturally a couple of times — not every sentence. And if you've forgotten, admit it early and warmly; it's far less awkward than dodging it for an hour.
+say: "I'm so sorry — tell me your name one more time? I want to get it right."
+tip: Say their name back with a smile and full eye contact the moment you hear it.
+short: Hear the name, say it straight back, and anchor it to someone you know with the same name.
+f: How do I make a good first impression? || How do I be more likeable? || How do I introduce people?
+src:
+
+## t-compliment | likeability | How do I give a good compliment?
+q: compliment; compliments; praise; flattery; appreciation; appreciate someone; say something nice; acknowledge someone
+n: vve-compliments, ch-compliments, vve-so-x, vve-highlighter, vve-appreciation
+b: Compliment something they chose or worked on, make it specific, and make sure it's true. Vanessa's rule: if you think something nice, say it — but skip the obvious and praise effort, taste or skill rather than looks. Her "You're so ___!" is the quick version: "You're so organised!" Chase's line is compliment freely but never suck up; a compliment must be true and never tied to a request. Then let them enjoy it, or follow with a question so they can talk about the thing you admired.
+say: "The way you handled that question was brilliant — how did you stay so calm?"
+tip: Say it plainly with eye contact, then stop. Don't water it down with a joke.
+short: Compliment something specific they chose or worked on — true, and never tied to a request.
+f: How do I thank someone properly? || How do I be more likeable? || How do I start a conversation?
+src:
+
+## t-humour | likeability | How do I be funnier?
+q: funny; funnier; humour; humor; jokes; be witty; make people laugh; banter; playful; sense of humour
+n: vg-humour, vve-humour, vg-yes-and, vve-anti-perfect
+b: You don't need jokes — you need honest little moments, told with timing. Vinh says the easiest humour comes from small, true, self-aware stories, with a pause before the punchline. Vanessa agrees: the gentlest way to be funny is to be your own butt, and shared laughs become glue when you call back an inside joke later. Borrow Vinh's improv habit too — "Yes, and…" builds on what someone says, where "yes, but…" kills the fun. Keep it warm; teasing only works when everyone's in on it.
+say: "Okay, so I confidently walked into the wrong meeting today — and stayed ten minutes."
+tip: Pause for a beat just before the funny bit, and let your face give away that you're enjoying it.
+short: Humour comes from small, true, self-aware moments, good timing and building on what others say.
+f: How do I be more interesting? || How do I tell a good story? || How do I be more likeable?
+src:
+
+## t-mirroring | likeability | What does mirroring mean, and does it work?
+q: mirroring; mirror; matching; rapport; build rapport; mimic; copy body language; chameleon; connect quickly
+n: all-rapport, vve-mirror, vg-match-mirror-lead, ch-verbal-mirror, ch-resonate
+b: Mirroring means gently matching someone's energy, pace or words, and it does help — when it's subtle. Research on the "chameleon effect" found light mimicry raises liking, while obvious copying backfires. Vanessa's rule is to mirror the positive (a smile, an open posture), never the negative. Vinh's version is Match, Mirror, Lead: get in sync with their pace and volume first — quiet and slow if they are — then lead gently, for example from tense to calm. Chase's verbal mirror is the simplest: repeat their last few words, and they'll tell you more.
+say: "Crazy busy? What's been the craziest part?"
+tip: Match their speed and volume for the first minute, then slow down slightly and see if they follow.
+short: Mirroring means lightly matching someone's pace, energy and words — subtle, and only the positive.
+f: How do I calm down someone who's angry? || How do I read people and body language? || How do I be more likeable?
+src: Chartrand & Bargh 1999
+
+## t-body | body | What should my body be doing?
+q: body language; posture; stand; how to stand; what to do with my body; open body language; closed body language; power pose; confident body language
+n: all-body-language, vg-posture-doorway, vg-presence, vg-power-sphere, vve-triple-threat, vve-charisma-cues, ch-move-slower, all-myth-power-pose
+b: Keep it open, upright and unhurried. Vinh's three habits: reset your posture at every doorway, stay still rather than swaying or fiddling (stillness reads as presence), and keep gestures in his Power Sphere, roughly between your navel and your eyes. Vanessa says face people with your toes, torso and head, keep your hands visible, and remove barriers like crossed arms or a bag held in front. Chase's rule: never move faster than you would in a swimming pool. One myth to drop: power poses don't reliably change your hormones, though open posture may still help you feel steadier.
+say: "Hey — great to see you."
+tip: Shoulders down, chin level, hands visible, and one slow breath before you speak.
+short: Keep your body open, still and unhurried, with your hands visible and facing them.
+f: What do I do with my hands? || How do I show I'm listening with my body? || How do I sound more confident?
+src: Ranehill et al. 2015
+
+## t-hands | body | What do I do with my hands?
+q: hands; what to do with my hands; gestures; gesturing; fidgeting; hands in pockets; arms; talking with hands
+n: vg-power-sphere, vve-triple-threat, vve-power-cues, vve-danger-cues, vg-movement
+b: Keep them visible and let them help you explain. Vinh's Power Sphere is the zone between your navel and your eyes, elbows off your sides — gestures there look purposeful. Palms up invite people in; palms down sound firm and certain. Vanessa says visible hands build trust, explanatory gestures help people follow your point, and fidgeting or self-touching reads as nerves. When you're not gesturing, let your hands rest loosely. Vinh's simplest rule: move to mark a point, then go still.
+say: "There are really three things here — one… two… three."
+tip: Count the points on your fingers at chest height, then let your hands settle while you pause.
+short: Keep your hands visible, gesture between navel and eyes, and go still between points.
+f: What should my body be doing? || How do I speak in front of a group? || How do I sound more confident?
+src:
+
+## t-eye-contact | body | How much eye contact should I make?
+q: eye contact; look people in the eye; staring; avoid eye contact; cant look at people; eyes; where to look
+n: vg-eye-contact, vve-triple-threat, vve-charisma-cues
+b: Aim for steady but relaxed — enough that they feel seen, not stared at. If it feels intense, Vinh's triangle helps: look at their left eye, then the right, then the bridge of the nose, and repeat. In a group, finish a whole thought with one person before moving to the next, and avoid a robotic left-to-right sweep. Vanessa lists good eye contact as one of the three big first-impression cues, and says purposeful eye contact shows you're interested. Glancing away to think is fine — it's darting eyes that look nervous.
+say: "I'm really glad you said that."
+tip: Hold their gaze to the end of your sentence, then look away slowly, not suddenly.
+short: Hold eye contact for a full thought, use the triangle if it feels intense, and look away slowly.
+f: What should my body be doing? || How do I speak in front of a group? || How do I make a good first impression?
+src:

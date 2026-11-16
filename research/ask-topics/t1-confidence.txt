@@ -1,0 +1,59 @@
+## t-nervous | confidence | I get nervous meeting people
+q: nervous; i get nervous; nervous meeting people; anxious; anxiety; social anxiety; scared to talk to people; butterflies; nerves; shaky voice; heart racing; scared
+n: ch-nervous-excited, ch-composure, ch-acss, ch-move-slower, vg-presence, all-assume-liked, ch-role, ch-performance-mode, all-label-feeling
+b: Nerves aren't a sign you're bad at this — they're just energy looking for a job. Give it one. First, name it to yourself ("nerves, noted") and then call it excitement; Chase leans on this, and research on reappraising anxiety backs it. Second, slow your body down: Chase's rule is to move no faster than you would in a swimming pool, and Vinh adds that stillness stops your body leaking the jitters. Third, take the spotlight off yourself. Give yourself a job, like "help them feel interesting", and go in assuming they already like you a little — Vanessa's point is that they usually do.
+say: "Hi, I’m [your name] — I don't know anyone here yet. How do you know the host?"
+tip: Breathe out slowly before you walk up, then say your first sentence a notch louder than feels natural. Volume steadies a shaky voice.
+short: For nerves, name them, slow your body down and put your attention on the other person.
+f: How do I come across more confident? || I'm shy at parties || What do I say when I go blank?
+src: Brooks 2014, anxiety reappraisal ("I'm excited") || Lieberman et al. 2007, affect labelling
+
+## t-shy-party | confidence | I'm shy at parties
+q: shy; shy at parties; introvert; introverted; party; parties; social events; dont know anyone; standing alone; awkward at parties; hate parties
+n: vve-social-game-plan, vg-entering-group, vve-context-cues, ch-barkeep, ch-role, vve-can-i-guess
+b: Shy is mostly a set of habits, not a personality, so plan the party instead of hoping it goes well. Vanessa's move is to pick your spot: skip the doorway and stand where people arrive from the drinks or food, because that's where conversations start. Bring a friend if you can. Vinh's way in to a group is to hover, catch an eye, wait for a natural gap and add to what they're already saying. Chase gives you a role so you're not just "being at a party": be the host-in-disguise who learns names and introduces people. And give yourself permission to leave after one good conversation.
+say: "Mind if I join you? I heard 'Lisbon' and couldn't walk past."
+tip: Smile before you speak and keep your first line short. A small, easy opener makes the next one easier.
+short: At parties, pick a good spot, join groups by adding to their topic, and give yourself a role.
+f: How do I join a group conversation? || How do I start a conversation? || I get nervous meeting people
+src: Captivate ch. 1
+
+## t-confidence | confidence | How do I come across more confident?
+q: confident; confidence; more confident; look confident; sound confident; seem confident; self assured; presence; authority; low confidence; insecure
+n: vve-triple-threat, vg-posture-doorway, ch-composure, ch-plain-speech, vg-low-status, vve-vocal-power, ch-rules-confidence, ch-acss, vg-pause
+b: Don't wait to feel confident — start with what people can see and hear, and the feeling tends to follow. Vinh splits it into look, sound and feel, and says fix the first two. Look: shoulders down and back, hands visible, chin level; his doorway reset makes it automatic. Sound: end statements going down, not up, and swap fillers for pauses — Vanessa and Vinh agree on both. Then Chase's piece: composure sits between collapse (shrinking, over-apologising) and posturing (puffing up). Say your point once, calmly, then stop talking. Confidence is mostly not rushing.
+say: "Here's what I'd suggest." (then pause, and give the one point)
+tip: Drop your pitch on the last word of the sentence and hold the silence after it for a full breath.
+short: Confidence starts with how you look and sound — open posture, statements that end low, and not rushing.
+f: How do I sound more confident? || I get nervous meeting people || New habits feel fake
+src: Before We Forget How to Connect ch. 9 · School of Greatness interview (look, sound, feel)
+
+## t-fake | confidence | New habits feel fake
+q: feels fake; fake; unnatural; inauthentic; not me; awkward practising; feels weird; cringe; trying too hard; forced
+n: vg-competence-stages, vg-practice, vg-instrument, vg-tonality
+b: Feeling fake is exactly what learning feels like, so treat it as a sign of progress. Vinh's line is that a new habit feels fake only because it's unfamiliar — your "natural" voice and manner are just habits you picked up growing up. He uses the four stages of competence: the clunky, thinking-about-it stage is where most people quit, right before it turns automatic. Two things make it easier. Practise on "neutral ears" first — a barista, a shop assistant — before people who know your old style. And decide who you're becoming ("I'm someone who speaks calmly") so each attempt counts as a vote for it.
+say: "I'm working on speaking up more — if you see me try, give me a nod."
+tip: When it feels strange, say "unfamiliar, not fake" in your head and finish the sentence anyway.
+short: Feeling fake just means it's unfamiliar — keep going and practise on neutral ears first.
+f: How do I get better at talking? || How do I come across more confident? || What's a good daily practice?
+src: @askvinh, four stages of competence · School of Greatness interview (neutral ears)
+
+## t-overthinking | confidence | I overthink conversations afterwards
+q: overthinking; overthink; replay conversations; did they like me; said something stupid; cringe afterwards; awkward afterwards; rumination; they dont like me
+n: all-liking-gap, vve-disliked, ch-limiting-beliefs, vg-relinking, vve-signal-liking
+b: You're almost certainly being harder on yourself than they are. Research on the "liking gap" found people consistently underestimate how much the other person liked them after a chat — Vanessa builds on this a lot. So when you replay a moment, use Vinh's two arrows: the first arrow is what happened ("I stumbled on a word"); the second is the meaning you add ("I'm awkward"). Stop firing the second one. Chase says spot the belief behind it ("I'm bad with people"), question it and rewrite it. And if one person didn't click with you, Vanessa's reminder is that not everyone has to.
+say: "I really enjoyed that — let's do it again."
+tip: Send that message the same day, in a warm, plain voice. It replaces the replay with something kind and true.
+short: People usually liked you more than you think, so drop the second arrow of self-criticism.
+f: How do I be more likeable? || I get nervous meeting people || New habits feel fake
+src: Boothby et al. 2018, the liking gap
+
+## t-big-moment | confidence | Nerves before a big moment
+q: presentation nerves; big meeting; speech nerves; before a presentation; stage fright; public speaking nerves; interview nerves; pitch nerves; before a talk
+n: ch-nervous-excited, vg-pause, vg-rate, vg-presence, ch-stop-worrying, all-label-feeling
+b: Treat the hour before like an athlete would. Burn off the adrenaline first — Vinh says a shaky voice is your body shaking, so a brisk walk or a few press-ups genuinely helps. Then breathe out slowly and name the feeling. Chase suggests calling it excitement and asking two questions: what's actually worrying me, and what can I do about it right now? Then move your focus to the audience: you can only be self-conscious if you're thinking about yourself, so ask "how can I help them?" Once you start, pause before your first sentence and speak slower than you think you need to.
+say: "Before I start, the one thing I want you to leave with is this…"
+tip: Plant your feet, take one breath, and let the first word come out lower and slower than normal.
+short: Before a big moment, burn off adrenaline, name the nerves and focus on helping the audience.
+f: How do I speak to a group? || I talk too fast || How do I stop saying um?
+src: School of Greatness interview (adrenaline and voice) · Lieberman et al. 2007 · Brooks 2014

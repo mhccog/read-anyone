@@ -1,0 +1,29 @@
+## t-story | story | How do I tell a good story?
+q: tell a story; storytelling; good story; stories; anecdote; tell stories better; story structure; my stories fall flat
+n: vg-spark-point-link, vg-storytelling, vg-story-bank, vg-stakes, vve-story-stack, vg-boring, ch-mammal, vg-vulnerability
+b: Start at the peak, make the stakes clear, and land one point. Vinh's Spark, Point, Link: open at a moment of emotion or action ("So I'm standing at the gate and my passport's gone…"), fill in who, what, where and when, make one clear point, then link it to the listener. Say what could be lost so people lean in, and cut detours and "no wait, it was Tuesday" corrections. Vanessa's Story Stack adds a struggle and vivid words, then a boomerang back: "Has that ever happened to you?" Chase says save the emotional reveal for the end.
+say: "So I'm standing at the gate, and I realise my passport is still at home."
+tip: Relive the moment as you tell it, slow down at the tension, pause, then deliver the turn.
+short: Start at the peak, make the stakes clear, land one point, and link it back to them.
+f: How do I be more interesting? || I talk too fast or ramble || How do I speak in front of a group?
+src:
+
+## t-on-spot | speaking | What do I do when I'm put on the spot?
+q: put on the spot; on the spot; impromptu; off the cuff; asked a question suddenly; unexpected question; think on my feet; caught off guard; called on
+n: vg-321, vg-pause, ch-composure, ch-plain-speech, vve-own-it
+b: Pause, give it a shape, and say it once. Vinh's first move is a breath — a calm pause looks thoughtful, not stuck. Then his 3-2-1 gives instant structure: three steps, two types, or one thing ("The one thing I'd say is…"). Picking a shape stops you rambling. Chase's composure rule helps too: don't collapse into apologies or puff up — say your point plainly, then stop talking. If you really don't know, say so and offer to follow up; that sounds far more confident than bluffing.
+say: "Good question. [pause] The one thing I'd say is…"
+tip: Breathe out before you start, keep your hands still, and let the last word fall.
+short: When you're put on the spot, pause, pick a shape (three, two or one), and stop when you've said it.
+f: How do I stop saying um? || How do I speak in front of a group? || How do I calm my nerves before a big moment?
+src:
+
+## t-group-speak | speaking | How do I speak in front of a group?
+q: speak in front of a group; public speaking; presentation; present; speech; give a talk; speak to a crowd; stage fright; toast; best man speech
+n: vg-eye-contact, vg-presence, vg-delivery, vg-instrument, vg-pause, ch-performance-mode, ch-nervous-excited, vg-competence-stages
+b: Talk to one person at a time, and call your nerves excitement. Vinh's approach is to finish a whole thought with one person, then move to someone else, so it feels like many small conversations. Stand still between points, plan your first line word for word, and pause after anything important. Chase suggests saying "I'm excited" rather than "calm down" — Alison Wood Brooks's research found that reframing works better — and treating it as connection, not performance. Vinh's reminder: if it feels unnatural, it's just unfamiliar; it gets easier with reps.
+say: "I want to start with a quick question — hands up if you've ever…"
+tip: Find one friendly face, deliver your first sentence slowly to them, then pause before moving on.
+short: In front of a group, speak to one person per thought and call your nerves excitement.
+f: How do I calm my nerves before a big moment? || What do I do with my hands? || How do I tell a good story?
+src: Brooks 2014

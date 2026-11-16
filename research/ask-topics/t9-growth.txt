@@ -1,0 +1,109 @@
+## t-get-better | growth | How do I get better at talking to people?
+q: get better at talking; better at talking; improve social skills; social skills; communication skills; better communicator; improve communication; people skills; awkward; socially awkward
+n: vg-practice, vg-competence-stages, vg-practical-magic, ch-one-new-thing, ch-acss, vve-social-game-plan, all-follow-ups
+b: Practise one small skill at a time, in low-stakes moments. Vinh's method: record a short "before" video, stretch by exaggerating one skill, then compare, and finish with "The one thing I need to work on is…". Expect the clunky stage — it feels unnatural before it feels normal. Chase says fix comfort before scripts, and set a tiny goal like learning one new thing in every conversation. Vanessa's game plan is to practise where you thrive first. Start with low-stakes people like a barista before conversations that matter.
+say: "Tell me more about that."
+tip: Pick one skill for the week, use it three times a day, and notice what changes.
+short: Get better by practising one small skill at a time in low-stakes moments.
+f: What should I practise every day? || How do I stop saying um? || How do I keep a conversation going?
+src:
+
+## t-daily | growth | What should I practise every day?
+q: practise every day; practice every day; daily practice; exercises; drills; practice routine; voice exercises; warm up; train myself; habit
+n: vg-practice, vg-melody, vg-321, vg-story-bank, vg-practical-magic, ch-one-new-thing
+b: Five minutes of voice and one small real-world rep. Vinh's daily practice: a siren (slide from your lowest note to your highest and back), a few minutes reading aloud with pauses instead of fillers, and one tiny rep like a "Good morning!" with eye contact and a smile. Practise his 3-2-1 for off-the-cuff answers — three steps, two types, or one thing. Add one story a day to your Story Bank. Chase's addition: in one real conversation, learn one new thing about the person.
+say: "Good morning! How's your day going so far?"
+tip: Record one practice a week and listen back — it's the fastest way to hear progress.
+short: Spend five minutes on voice drills and do one small real conversation challenge every day.
+f: How do I get better at talking to people? || How do I stop saying um? || My voice is monotone
+src:
+
+## t-six-needs | ethics | What are the six needs?
+q: six needs; 6 needs; needs map; human needs; what people need; motivations; significance; approval; acceptance; intelligence; pity; strength
+n: all-six-needs, ch-heard-seen, ch-values-map, lo-needs-steering
+b: Chase Hughes describes six common social needs: significance, approval, acceptance, intelligence, pity or hardship, and strength or power. In Read Anyone they're listening prompts, never labels. Use them to notice what someone might want acknowledged: their effort, their competence, how hard something was. Then check by asking, rather than assuming. Read Anyone leaves out Chase's methods for using needs to steer people covertly; the honest use is to meet the need openly.
+say: "That sounds like it took a lot to pull off. How did you do it?"
+tip: Ask it with real curiosity and a slow pace, then let them tell you what matters to them.
+short: The six needs are prompts for noticing what someone might want acknowledged — never labels.
+f: Is this manipulation? || How do I make someone feel heard? || What does Read Anyone leave out?
+src:
+
+## t-ethics | ethics | Is this manipulation?
+q: manipulation; manipulative; is this manipulation; ethical; ethics; dark psychology; influence ethically; is it fake; covert; sincerity test
+n: all-sincerity, lo-overview, all-six-needs, ch-people-are-reasons
+b: It depends on whether you'd be happy for them to know exactly what you're doing. Read Anyone uses a sincerity test: would they agree, knowing your full intent, that it was in their interest? Listening, asking good questions, being warm and speaking clearly pass easily. Covert techniques — hidden commands, pressure, exploiting needs or fears — don't, so they're left out. All three teachers ultimately emphasise connection: making people feel seen, heard and comfortable.
+say: "I want to be upfront about why I'm asking."
+tip: If you'd feel awkward explaining your technique to them, use a more honest approach.
+short: It's not manipulation if they'd agree it was in their interest, knowing your full intent.
+f: What does Read Anyone leave out? || How do I persuade someone honestly? || What are the six needs?
+src:
+
+## t-persuade | ethics | How do I persuade someone honestly?
+q: persuade; persuasion; convince; influence; get someone to agree; sell; sales; win an argument; change someones mind; get a yes
+n: ch-values-map, ch-their-words, ch-decision-style, vve-primary-value, vve-own-it, ch-objections, all-sincerity
+b: Find out what matters to them, then show plainly how your idea serves it. Chase listens for the end goal behind what people want — often heard as "so I can finally…" — and speaks in their words so he's understood. Vanessa's Primary Value idea: people value different things (status, information, service, money), so offer what means something to them. Give a real reason; "because" makes requests feel fair. Answer doubts with the true picture. And accept no — if they'd feel steered knowing your full intent, it isn't honest.
+say: "You said you want to finally get your evenings back. This would save about five hours a week — does that help?"
+tip: Use their exact words, slow down on the benefit, and pause so they can respond.
+short: Persuade honestly by finding what matters to them and showing plainly how your idea serves it.
+f: How do I handle sceptical pushback? || Is this manipulation? || How do I ask for what I want?
+src:
+
+## t-left-out | ethics | What does Read Anyone leave out?
+q: left out; excluded; what is left out; dark techniques; hypnosis; nlp; embedded commands; covert influence; mind control; behavior ops; interrogation
+n: lo-overview, lo-embedded, lo-hypnosis, lo-lie-spotting, lo-needs-steering, lo-confusion, all-sincerity
+b: Read Anyone leaves out 41 techniques that fail its sincerity test: 40 from Chase Hughes and one from Vanessa Van Edwards. They include hidden commands, hypnotic language, confusion tactics, exploiting needs or fears, interrogation methods and lie-spotting. For each, there's an honest alternative: say what you want plainly, ask instead of steering, and acknowledge needs openly. What remains is the practical, respectful core of their work.
+say: "Here's what I'm asking for, and why."
+tip: Say it plainly, with steady eye contact and an open palm.
+short: Read Anyone leaves out techniques that fail the sincerity test, and offers honest alternatives.
+f: Is this manipulation? || How can I tell if someone is lying? || What are the six needs?
+src:
+
+## t-gears | growth | How do I adapt to different people?
+q: adapt; different people; read the room; gears; style; introvert; extrovert; personality types; adjust to people; versatile
+n: vg-what-they-want, vg-match-mirror-lead, vve-speed-read, vve-verbal-chameleon, ch-decision-style
+b: Notice what they want, then shift gears. Vinh says most people want one of four things from a conversation: information (be clear and short), connection (warmth), harmony (keep the peace) or fun. Match their pace first, then lead gently. Vanessa adjusts to personality — more detail for a planner, more novelty for someone open — and balances warm words ("thanks", "together") with competent ones ("plan", "results") to suit them. Chase notes people decide for different reasons: practicality, value, novelty or what others do. You don't need one style; you need range.
+say: "Do you want the quick version or the full story?"
+tip: Ask with a smile, then match their answer in your pace and how much detail you give.
+short: Adapt by spotting what someone wants — information, connection, harmony or fun — and shifting gears.
+f: How do I read people and body language? || What does mirroring mean, and does it work? || How do I be more likeable?
+src:
+
+## t-good-news | listening | How do I respond when someone shares good news?
+q: good news; celebrate; congratulate; someone got promoted; they got engaged; respond to good news; share in excitement; promotion
+n: vve-dreambuilding, vg-three-followups, ch-display, vve-so-x, vve-awe
+b: Get excited with them and ask for the story. Research by Shelly Gable found that active, enthusiastic responses to good news strengthen relationships, while a flat "nice" quietly drains them. Vanessa's Dreambuilding: get excited, bring ideas, and check back later. Vinh's three-follow-ups rule fits perfectly: how did it happen, how did it feel, what's next? Chase's Display step is to let your face show it before you say a word. Then be easily impressed out loud: "You're so ___!"
+say: "That's amazing! How did you find out?"
+tip: Let your face light up first, then lift your pitch on the question.
+short: Celebrate good news actively — show it on your face and ask for the story.
+f: How do I give a good compliment? || How do I keep a conversation going? || How do I be more likeable?
+src: Gable et al. 2004
+
+## t-thanks | likeability | How do I thank someone properly?
+q: thank someone; thanks; gratitude; say thank you; show appreciation; thank you
+n: vve-appreciation, ch-gratitude, vve-highlighter, vve-compliments
+b: Make it specific, say what it meant, and thank them their way. Instead of "Thanks for your help", name what they did and the difference it made. Vanessa's Appreciation Matrix says people feel appreciated differently — through words, time, help or small gifts — so match theirs. Chase counts gratitude as one of his authority traits: people who show it come across as grounded and warm. And research by Kumar and Epley found people underestimate how much a thank-you note means to the person receiving it.
+say: "Thank you for staying late yesterday — it meant I could actually sleep before the pitch."
+tip: Make eye contact, keep it brief and sincere, and pause after so they can take it in.
+short: Thank people specifically, naming what they did and why it mattered.
+f: How do I give a good compliment? || How do I keep in touch or reconnect with people? || How do I end a conversation?
+src: Kumar & Epley 2018
+
+## t-teachers | about | Who are Vanessa, Chase and Vinh?
+q: who are the teachers; vanessa van edwards; chase hughes; vinh giang; who is vanessa; who is chase; who is vinh; authors; teachers; experts
+n: vve-about, ch-about, vg-about, all-read-anyone
+b: Vanessa Van Edwards runs Science of People and writes about charisma and conversation using research. Chase Hughes is a behaviour expert whose work includes reading people and influence; Read Anyone keeps his practical people skills and leaves out covert tactics. Vinh Giang is a communication coach and former magician who focuses on voice, presence, listening and storytelling. Together: what to say, how to read people, and how to deliver it.
+say: "Teach me the one skill that would help me most."
+tip: Pick one teacher's tool to try today, then try another tomorrow.
+short: Vanessa covers warm conversation, Chase reading people, and Vinh voice and presence.
+f: Who is Vanessa Van Edwards? || Who is Chase Hughes? || Who is Vinh Giang?
+src:
+
+## t-general | general | General advice for any conversation
+q: general advice; any conversation; conversation tips; tips; advice; help; how to talk to people; talk to people
+n: all-warmth-first, all-follow-ups, vg-listening, vg-pause, all-sincerity
+b: Be warm, curious, clear and calm. Start with a real smile and a question that invites a story. Listen for the detail with energy and ask a follow-up. Let your face show you're listening. When it's your turn, make one point, pause, and hand it back. If things feel tense, slow down and name what's happening. Ask whether your approach would pass the sincerity test.
+say: "Tell me more about that."
+tip: Slow down by about 10%, breathe at full stops and keep your face responsive.
+short: In any conversation: warmth, curiosity, a follow-up, one clear point and calm pacing.
+f: How do I start a conversation? || How do I keep a conversation going? || How do I become a better listener?
+src:
