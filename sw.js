@@ -1,4 +1,4 @@
-const CACHE = "read-anyone-v11";
+const CACHE = "read-anyone-v12";
 const ASSETS = [
   "./",
   "./index.html",
@@ -7,6 +7,7 @@ const ASSETS = [
   "./manifest.webmanifest",
   "./favicon.ico",
   "./favicon-32.png",
+  "./favicon-48.png",
   "./apple-touch-icon.png",
   "./icon-192.png",
   "./icon-512.png",
@@ -39,16 +40,21 @@ self.addEventListener("fetch", (event) => {
   if (req.method !== "GET") return;
   const url = new URL(req.url);
   if (url.origin !== location.origin) return;
-  // Network first so a new deploy replaces the old cached app.
+  // Network first so a new deploy replaces the old cached app,
+  // but fall back to the saved copy after 3 seconds (weak signal) or when offline.
+  const fromCache = () =>
+    caches.match(req, { ignoreSearch: true }).then((c) => c || caches.match("./"));
+  const network = fetch(req).then((res) => {
+    if (res && res.ok) {
+      const copy = res.clone();
+      caches.open(CACHE).then((cache) => cache.put(req, copy));
+    }
+    return res;
+  });
+  const timeout = new Promise((resolve) =>
+    setTimeout(() => fromCache().then((c) => c && resolve(c)), 3000)
+  );
   event.respondWith(
-    fetch(req)
-      .then((res) => {
-        if (res && res.ok) {
-          const copy = res.clone();
-          caches.open(CACHE).then((cache) => cache.put(req, copy));
-        }
-        return res;
-      })
-      .catch(() => caches.match(req).then((cached) => cached || caches.match("./")))
+    Promise.race([network, timeout]).catch(() => fromCache())
   );
 });
